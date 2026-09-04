@@ -1,0 +1,12 @@
+- [[paul]] the father
+- tom the yougest
+- peter the 2nd youngest
+- marell the oldest 35 yo
+- paul email: paul@coco-mat.com
+- I make a list of animals
+- most recomended for the outdoor park
+- real size animal, maybe bigger than life
+- potential project:
+- jakarta hotel [[coco-mat]]
+- the animal 
+- the facade maybe grc (biggest project)

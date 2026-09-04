@@ -1,0 +1,29 @@
+- wktu ke sangiran itu lihat 2 museun
+- perminatann awal itu 6 patung bentuknyak tidak jauh beda degna patung yang ada dimuseum
+- DPU (pemberi kerja) pengen mengajukan sisi edukatif
+- dari kunjungan dibuat sketsa
+- sketsa terus sudah diirim dan dibawah ke kantor pemda untuk dinilai sama pak bupati
+- pak bupati pengennya 1 gede
+- harga ada perubahan kenaikan
+- hari rabu tanggal 8 datang ke timboel membicarakan projek
+- cuma ngasih info kalo dari pak bupati pengen yang besar 1 pcs aja
+- dari dikusi diputuskan bahwa langsung bikin maket, dengan acuan pose
+- pak bupati pengennya posenya mengesampingkan sisi edukatif, jadi bentk lebih keker. lebih sangar. 
+- pak bupati pengenya tidak seperti yang di museum
+- pak bupati ingin di bikin seperti aquaman, kayak hulk, gagah atletis. pose garang
+- maket dibikin sedang berburu
+- tanggal 15 diundang lagi unutk ke sragen tujuannya unutk menghadap pak bupati
+- untuk nego waktu pembuatan
+- dokumen tender patung terpasang taggal 24 desember
+- kalo bikin patung ukuran bsear butuh waktu sekitar 2 bulan dari dp atau bukti pembarayan awal.
+- kontraktor bisa kena dicrepansi per hari 8 juta kalo nggak terpasang 24 desember
+- estimasi 111 hari kalo dari timboel
+- di surat dukungan sudah jelas kita butuh waktu 16 minggu dari dp ter konfirm.
+- kontak: pak anto bagian kontraktor.
+- bupati: sigit pamungkas pengen buat gebrakan
+- targernya pak bupati adalah keren waktu pembukaan 
+- alasan kenapa 1 patung tinggi min 2.5 meter lebih mahal
+- lebih dari ukuran itu membutuhkan scaffoing waktu pembuatan model
+- otomatis pembuatan model lebih susah
+- material model lebih banyak
+- struktur patung juga harus ditambahkan

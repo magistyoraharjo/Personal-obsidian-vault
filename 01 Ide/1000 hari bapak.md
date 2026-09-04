@@ -1,0 +1,11 @@
+- ide tema judul
+	- donga raharjo
+	- donga karaharjan
+	- timbul donga
+	- puja karaharjan (terpilih)
+- bullet point buat sambutan wangi
+	- terima kasih buat tamu
+	- cerita singkat memory bapak waktu hidup
+	- memory bapak [[01 Ide/interview pengalaman mas margono pak desmond|setelah meninggal / pengalaman personal]] mu
+	- nilai2 yang kamu contoh dari bapak
+	- harapan personalku untuk kita dan tamu

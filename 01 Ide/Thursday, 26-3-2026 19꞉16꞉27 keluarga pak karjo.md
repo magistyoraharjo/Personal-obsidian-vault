@@ -1,0 +1,6 @@
+- pak karjo
+- bu karjo
+- mbak putri anak pertama
+- kila anak ke 2
+- khalif cucu pak karjo
+- mas adit (mantu)

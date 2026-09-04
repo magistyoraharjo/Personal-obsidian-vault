@@ -1,0 +1,1 @@
+Pak erik mirip seperti bank exim untuk pinjaman modal 6% dengan pak erik

@@ -1,0 +1,4 @@
+- mbak tris malang
+- maesa anak pertama
+- om irham kerja di papua
+- ozi anak ke 2

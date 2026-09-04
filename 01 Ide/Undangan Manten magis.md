@@ -1,0 +1,16 @@
+- rakha morse + istri
+- mbak eka + mirko
+- faiq + istri ()
+- berti + suami (?)
+- nadia jerman + joshua jerman
+- martin + istri
+- suami mbak sulis + anak kirana
+- ketip + istri
+- happy + istri
+- elias + istri
+- vivi sunpower + andi
+- roni, eko, patty (coda)
+- marsam + istri
+- panggah + istri
+- gari 
+- nilu + cesar

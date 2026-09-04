@@ -1,0 +1,2 @@
+- all payments goes to a new bank account for timboel retail
+- 

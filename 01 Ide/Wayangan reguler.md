@@ -1,0 +1,1 @@
+minimal setahun sekali, sebtu pahing pas netonnya bapak

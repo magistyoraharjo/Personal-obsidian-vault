@@ -1,0 +1,9 @@
+.obsidian/
+
+# Installed Obsidian plugins
+.obsidian/plugins/
+
+# Machine-specific Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/

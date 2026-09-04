@@ -1,0 +1,3 @@
+- tidak akan dipaksa untuk menjalankan islam
+- di support selama mau menjalankan agamanya
+- jika meninggal dikubur secara kristen

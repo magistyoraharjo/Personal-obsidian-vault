@@ -1,0 +1,12 @@
+- berangkat ke kalimantan
+- pertama wong 15
+- mas margono berankat 6-7 kali, kira kira hampir 2 tahun
+- per 1 - 2 fuso beragkat ke kalimantan
+- yang nyariin fuso mbak murti
+- fuso berangkat duluan terus [[01 Ide/Mungkin MIG Welding Stainless? Sudah pernah, lebih mahal (margono)|seminggu setelahnya mas margono]] mangkat
+- yang standby di kalimantan agus brengos
+- nek mas margono ke kalimantan minimimal 2 minggu - 10 minggu
+- alat mbawa semua dari sini
+- komplinan ad abesi yang diantara cagak, itu ada ornamen besi dan besinya kurang siku
+- ada komplain fatal, cagak yang entuk lawang pedhot, mas margono beli besi di kalimantan
+- finsihing cuma di cat hitam terus di kuas tembaga

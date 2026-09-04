@@ -1,0 +1,14 @@
+Brain Dumb
+- persiapan buat ifex
+	- barang baru
+	- katalog
+	- target foto
+- produk inspira, mau dijual di facebook marketplace nyana
+- ali hanafi jarak perbedaan tinggi
+- singa [[Solo|solo]] bu indah
+- hp makering banyak orang
+- grant furni nunggu update kapal
+- paxton kesiapan barang foto
+- progress manusia purba
+- dikusi finishingong manusia purba
+- mou pengiriman dan penagihan barang polymedia pak hari

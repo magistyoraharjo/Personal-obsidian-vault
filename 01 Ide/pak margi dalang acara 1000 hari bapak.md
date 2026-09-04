@@ -1,0 +1,18 @@
+- acara pak timbul tgl 31
+- gamelan dari kita
+- acaranya 1000 hari pak tb
+- wayangan di gedung baru namanya hall, karena hujan
+- lokasi gamelan di sebelah gedung hall
+- estimasi biaya berapa?
+- pastikan 31 available
+- teknisnya gibran + pak margi bisa
+- pak margi pernah main di gamelan yang sama
+- pak timboel sebagai pendidik berkontribusi di pelestarian budaya
+- penggunaan wayang manut gibran
+- kelir + gamelan di sediakan
+- transportasi bisa di bantu
+- **temane pelepasan pak timbul**
+- lakon manut pak margi
+- pandu suwargo -> lakon yang umum buat 1000 hari
+- wayang kita kalo bisa ada yang ikut, yang mewakili character pak timbul
+- Lakon jadinya tirto

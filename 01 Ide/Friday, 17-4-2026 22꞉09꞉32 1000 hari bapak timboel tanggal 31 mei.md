@@ -1,0 +1,25 @@
+- pak nyoman cao harus ke rusia tanggal 31 mei
+- harus ketempat pak pamardi hanya undangan saja
+- idenya untuk menyelesaikan acara magis jessy: lamaran di pindah pagi tanggal 28 aja. karena 27 malem kenduri sama bestoni barengan. Biar 27 malem fokus ke kenduri/bestoni masing masing
+- 29 acara yg di candi tirto dengan warga
+- 30 rangkaian dengan karyawan
+- 1 dengan candhari
+- 2 break
+- 3 break
+- 4 relasi (kalo mau)
+- harus bikin baju lumayan banyak. 5 baju
+	- baju lamaran (bikin di jogja, kebaya)
+	- akad (sama dengan baju lamaran) baju putih
+	- resepsi [[Solo|solo]] (keluarga jessy harus pilih)
+	- resepsi tirto warga
+	- resepsi tirto karyawan
+	- resepsi candhari
+	- resepsi relasi (opsional)
+- nginep 27 malem di solo baru
+- datang lamaran jam 9, langsung akad jam 10. sebelum jam 12 pergantian hari
+- butuh ruang transit dari jam 12 ke jam 19 resepsi
+- baju orang tua warnanya seperti apa?
+- apa ada seragam atau tidak?
+- baju tidak harus putih semua
+- 
+- 

@@ -1,0 +1,4 @@
+- timboel retail price
+- timboel customer retail price
+- potential profit per item
+- stock avalability

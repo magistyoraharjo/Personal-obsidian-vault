@@ -1,0 +1,9 @@
+- willem@coco-mat.com
+- willem the son owner of [[cocomat]] 
+- ada toko di berlin, coco-mat
+- looking for paneling for insulation in greece
+- nice design insulation
+- Terraso block dengan insulation
+- ukuran paling 5mm tebal atas
+- target r value?
+- target harga?

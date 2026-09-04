@@ -1,0 +1,1 @@
+- anak owner yg manage sekarang: mas andu

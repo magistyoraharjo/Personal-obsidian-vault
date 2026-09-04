@@ -1,0 +1,11 @@
+- akad dan resepsi ada di [[Solo|solo]]?
+- idealnya dibuat sesimpel mungkin
+- akad dan resepsi 1 hari
+- akad pagi resepsi sore
+- acara beston sebelum acara akad
+- minggu malem keluarga magis nanti pulang semua, tidak ikut acara bestoni
+- pagi nanti balik ke solo pagi hari senin
+- minggu 27 sept lamaran dan sore beston
+- senin 28 sept akad dan resepsi
+- akad dirumah jessy
+- resepsi solo di gedung mbuh ndi

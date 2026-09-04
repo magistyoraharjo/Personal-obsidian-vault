@@ -1,0 +1,19 @@
+- cari 5 orang nyirami yang seperti keperluannya bu kristin
+- penganti( penggandeng )
+- jessy harus persiapan angsul angsul
+- keletan (ketan wajik)
+- roti
+- seperangkat baju harian (sepengadek modern)
+- untuk diberikan di tanggal 27
+- 27 pagi keluarga jessy dateng dari [[Solo|solo]]
+- di tanyakan mau dandan dari solo atau dari jogja (di jogja bisa disediakan dandan jam 0900)
+- pasti dandan jawa
+- jessy harus libur tanggal 5 agustus untuk tm dan gr
+- yang ikut: keluarga inti + penganti (pendamping waktu menggandeng)
+- souvenir untuk siraman tidak perlu menyiapkan
+- pasti paes: pagi jogja putri, siang paes ageng di tanggal 27
+- pilihan: bluduru merah, jeans, hitam
+- apakah mbak siti buat sorjan press
+- tanya: berapa orang yang mau di kasih seragam, (hanya ibu)? (Keluarga inti, om tante, sepupu, keluarga om agung juga sama )
+- Apa pas tanggal 28 sudah ada seragam? Mau di belikan
+- 

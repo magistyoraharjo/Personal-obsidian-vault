@@ -1,0 +1,2 @@
+- kalo keluar kota kasih bonus tambahan
+- waktu ke tegal ini dikasih 500rb

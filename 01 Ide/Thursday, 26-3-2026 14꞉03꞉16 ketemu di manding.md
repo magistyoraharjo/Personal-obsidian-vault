@@ -1,0 +1,3 @@
+- mas ridho kerja di kacamata manding rumah di perumahan azmi
+- rayyis jerry anak mbak isti (mantan karyawan yang kerja di tanli)
+- ketemu mbak isti staff timboel, adiknya mas kus sopir

@@ -1,0 +1,5 @@
+- istri dyah
+- suami uli
+- dulu tinggal di dusseldorf
+- baru pindah ke jepara
+- pretty rich

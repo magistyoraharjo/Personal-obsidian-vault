@@ -1,0 +1,1 @@
+Ibu titik, ibunya nagari

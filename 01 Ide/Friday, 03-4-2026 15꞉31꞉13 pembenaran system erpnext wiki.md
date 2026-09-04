@@ -1,0 +1,5 @@
+- cari tahu piye carane setelah sales order ada, mana yg harus di transfer mana yg dikirim
+	- semuanya di masukan material request?
+- cari tau / buat kapan produksi bisa dimulai dan apa saja barangnya
+	- we have a client scipt now
+- foto qc internal output nya foto

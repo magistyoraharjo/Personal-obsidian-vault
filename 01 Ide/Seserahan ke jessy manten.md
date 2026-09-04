@@ -1,0 +1,63 @@
+updated version dari bu kiting
+
+- [ ] pisang sagoah
+- [ ] wajik + jadah
+- [ ] legomoro
+- [ ] lemper
+- [ ] mukena
+- [ ] uang susu
+- [ ] sepengadek
+	- [ ] jarik
+	- [ ] bahan kebaya
+	- [ ] selop
+	- [ ] hand bag
+	- [ ] long torso
+- [x] make-up
+	- [x] cushion
+	- [x] bednk
+	- [x] lispstik
+	- [x] blush on
+	- [x] pencil alis
+	- [x] eye shadow
+	- [x] kontur
+	- [x] bronzer
+	- [ ] lip gloss
+	- [x] 
+- [ ] peralatan mandi
+	- [x] sabun
+	- [x] shampo
+	- [x] conditioner
+	- [ ] catokan
+	- [ ] hair drier
+- [x] perhiasan
+- [ ] buah
+- [x] pakaian harian
+	- [ ] dress
+	- [ ] sepatu
+	- [ ] tas harian
+- [ ] roti
+
+# archive
+sabun
+- sampo
+- catokan
+- cawet
+- skin care set
+- tas pergi
+- batik tulis
+- sepatu heels
+- sepatu biasa
+- gelang
+- kalung
+- makeup set
+	- lipstick
+	- cucuk
+	- bedak
+	- parfum
+- perlengkapan mandi 
+- sabun
+- sampo
+- sumpit
+- sendok
+- garpu
+- piring

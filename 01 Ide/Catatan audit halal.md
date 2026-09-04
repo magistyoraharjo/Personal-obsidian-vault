@@ -1,0 +1,5 @@
+- harus ada tulisan dilarang membawa dari luar karyawan dan konsumen
+- tulisan bahwa sudah halal di kasir
+- plastik yang bersertifikat halal
+- item yg sudah tidak di pakai tidak usah di cantumkan
+- 

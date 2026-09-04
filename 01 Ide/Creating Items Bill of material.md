@@ -1,0 +1,95 @@
+in timboel we have some different kind of items, each have their own unique way to create the bill of material in ERPNext. what is same for all the item is that, while we have a very detailed material and cost analysis for each of the item we fold all the unimportant bits to a single operational cost. these include the small little item use that is less than 3 % of the listed HPP, and the labor cost.
+
+so the items are: 
+- Wood Statue + Alumunium plate:
+	- this we purchase the base wood statue fully, and get them into my factory to add alumunium cladding and do the finishing.
+	- the wood need to be burned with acetylene to get the desired coloration, and the alumunium plate need to be textured with a tig wel to get the "stiched together" texture
+	- the final BOM of this kind of statue will have:
+		- Mentah of the statue, the statue we purchased from our supplier.
+		- the wood packaging of the statue
+		- the alumunium plate
+		- alumunium wire to create texture
+		- acetelyne + oxygen to burn the wood
+		- clear Polyurethane to protect the whole thing, we use high gloss for the finish
+	- thats the final BOM, this means we need to make a separate item for the "mentah statue"
+	- the mentah statue it self will have the following: 
+		- its item code would be KAY-******########
+		- KAY to indicate that its KAYU
+		- the ######## is the exact same item code as the final item
+		- the name would be "mentah - (name of the final item)"
+		- the valuation rate should be taken from how much we pay our supplier
+		- make sure that the item is included in manufacturing
+		- and tick the maintain stock item thing
+		- UOM should be in PCS
+- Fully casted alumium statue
+	- this we purchase the unfinished statue from our supplier directly, however they will need help to separate the assembly cost and the actual casting cost.
+	- generally the finishing of these statue is BST, black silver tipis. this will need the paint generally isamu black + thinner
+	 - the final BOM would have the materials:
+		 - Mentah of the statue, purhcased from our supplier
+		 - wood packaging
+		 - finishing materials such as isamu black paint, thinner and clear coat
+	-  the mentah of ths statue is the more interesting part, like the wooden it will need to be a different item but it  have an extra field called "external Processing Rate".
+		- its item code would be COR-######## 
+		- COR to indicate its casted, cor is the indonesian word for casting.
+		- the ######## is also the exact same as its final item
+		- the name would be mentah - (name of final item)
+		- valuation rate is interesting: the one that we input to erpnext would be the COR + RANGKAI Rate, this is because my supplier does not have good book keeping and sometime externalize their rangkai or assembly to a differrnt supplier and he need help to calculate how much he owes his supplier
+		- and the external processing rate would be the rate that he need to pay HIS assembly supplier. 
+		- example: rangkai = 1000 , cor = 500 => valuation rate = 1500, external processing rate = 1000
+		- obviously its still maintain stock ticked, and include item in manufacturing.
+- Cast alumunium then fill with wood
+	- A variant of the fully casted statue, we get the casted statue from supplier and then send that item to a different supplier to then get the item back to us to finish.
+	- the finish is a combination o
+	- f fully casted and burned with acytelene, both with clear finish at the end.
+	- this will need to have a multi step BOM, we will have 2 mid items: the mentah, and then the frame. 
+	- the way i set it up is that the mentah is the item that we will finish in our internal production
+	- so the final BOM will have the following:
+		- Mentah of the item
+		- Wooden Packaging
+		- Finishing of the item.
+		- basically always the same structure
+	- however the mentah will have a bom in its own since its we need to make it but with a different supplier
+	- so the mentah bom will be:
+		- frame of the item thats casted
+		- thats it
+	- mentah item will need to have the following
+		- id KAY-########
+		- KAY to indicate its KAYU
+		- the ######## is the same a the final item
+		- 0 valuation rate
+		- external processing rate is the thing we actually pay to our supplier to process this item for us.
+		- include item in manufacturing checked
+		- supply raw materials for purchase checked 
+	- Frame item will need to have the following:
+		- this frame item would be exactly the same as the fully casted statue
+		- id FRM-######## 
+		- FRM to indicate its FRAME
+		- the  ######### is the same as the final item
+		- since its a casted item, it will need to have the same valuation rate + external processing rate as the other aluminium stuff.
+		- item is included in the manufacturing and keep stock
+- rangkai anyam statues
+	- this is the type of statue where we generally procude all by our own, the actual material varys a lot, but its a lot of small pieces that is put into mold and then welded together.
+	- the final BOM of this item would be:
+		- the small item pieces
+			- this could be the cut stainless steel pipes
+			- or the small casted item
+		- the necessary welding stuff
+			- could be Stainless RD
+			- could be alu wire for the alumunium small piece
+		- finishing items
+			- for stainless its generaly the polishing stuff we need
+		- the packing crate
+- rangkai anyam THEN wood filled
+	- this would be the same process as the cast then fill but change the frame to be something we manufacture by our own as the rangkai anyam statues
+	- so the frame item will have all the same bom as the rangkai anyam statues but without the finishing
+	- the final item is the one that always have the finishing items and the packing
+- Pot and vases
+	- the pots and vases are made of 2 different materials generally: GRC and Terracotta
+	- but in both cases we buy the unfinished vase from a supplier and paint or finish them in house
+	- these have a lot of different kind of finishing so the finishing material will have a lot of different items
+	- the final BOM for this kind of time would be:
+		- the mentah
+		- finishing materials such as paint or even LPG since we sometimes burn as a finsihing process
+		- wooden packaging crate
+- GRC Statues
+	- exactly the same process as pots but just different size and shape

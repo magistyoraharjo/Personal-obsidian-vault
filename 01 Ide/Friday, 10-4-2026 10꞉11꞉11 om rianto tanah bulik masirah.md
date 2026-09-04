@@ -1,0 +1,12 @@
+- tanah bulik masihrah itu panjang
+- tapi bangunan kita itu dibangun tanpa meilhat patok
+- jadi sekarang tanah sebelahnya (dulu punya pakuwo) mau dibagi bagi sertifikatnya
+- waktu pembagian keluarga masing masing omrianto, bulik masirah, bulk endri dan bapak dapat 120m2
+- yang dibangun gudang itu sudah dibeli bapak, luasan sekitar 300m2
+- nah 120m2 + 300m2 bagian bapak sudah di jual ke om rianto
+- om rianto mau tanahnya itu di jadikan 120+120+300m2, yang tanah dibangun gudang mau di balikan ke bulik masirah
+- tapi sebagai ganti omrianto mau minta tanah pakuwo 300m2, ergo potongal lebih besar
+- endingnyna nanti om rianto dapat 540m2, bulik masirah dapat tanah terbangun 300m2 balik
+- bulik endri dapat 120m2 kecil deket jalan
+- karena bangunan sudah ada, mendingan pt timboel menyewa tempat itu kepada bulik masirah sebagai tempat penyimpanan bangunan
+- tentu saja jangan terlalu mahal, mungkin karena di kampung sekitar 1-2 jt per tahun masuk akal?

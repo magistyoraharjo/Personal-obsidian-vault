@@ -1,0 +1,2 @@
+- a man sitting on a bench comfoting his friend. His friend is the sclupture enjoyer
+- sitting on a mothers embrace as a sclupture

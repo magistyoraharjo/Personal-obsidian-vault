@@ -1,0 +1,39 @@
+- tanggal 4 juli
+- strict hanya vocaloid
+- exclusivitas
+	- cosplay vocaloid only
+	- plushie besar
+	- kaos
+	- happi
+	- bawa figur (pasang di meja dj)
+	- acrylic figur (meja dj)
+	- topi
+	- wig / wigplay
+	- ita bag (miku)
+	- sepatu
+- lokasi: amboja, arcadaz, pdin
+- htm gratis hanya excnusivitas
+- dj sekitar 45 min
+- mulai dari 1500-2100
+- ide konten:
+	- dj
+	- voca triva
+	- vocaloid music quiz
+	- costreet
+	- dance competition
+	- dance cover
+	- mc
+- butuh ku (deadline 1 minggu)
+	- rundown kasar tanpa nama
+	- kebuhan equipment teknis
+- ide nama event
+	- vocablitz
+	- vocabeat
+	- superloid
+	- vocadaze
+	- vocadays
+	- vocastage
+	- vocaconnect
+	- vocamaxxx
+	- Voca van java
+	- voca spirit

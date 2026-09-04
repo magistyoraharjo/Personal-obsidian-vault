@@ -1,0 +1,22 @@
+- roni mau pindahan ke inspira
+- butuh meja? butuh space?
+- roni tanya perjanjiannye piye
+- ide perjanjian:
+	- listrik pisah token
+	- ibu ide ada di 20 jt per tahun untuk ber 3, dibayar di awal tahun
+	- furinture dari dia
+	- AC? dia
+	- sekat sekat bisa dari kita
+	- internet? dia
+	- kebersihan: kita
+
+- harga: 20 jt, durasi per tahun
+- pembayaran di setiap awal tahun ke rekening BCA timboel
+- unutuk tahun 2025 bisa perbulan dulu sampe awal 2026
+- listrik pisah meteran, biaya memisah timboel
+- internet dari roni
+- kebersihan di ruang tanggung jawab roni, di area publik tanggung jawab inspira
+- furniture & Ac dari roni, sekat dibuatkan oleh timboel
+- akses bebas, diluar jam kerja harus kontak satpam.
+- copy kunci harus ada di roni dan di timboel untuk kejadian tidak terduga
+- nek mau putus kontrak cukup info 1 bulan sebelum

@@ -1,0 +1,3 @@
+- what happens in a day in timboel?
+- shot orang model bikin
+- tambah videoeorang

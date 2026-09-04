@@ -1,0 +1,7 @@
+- [[om gede dega]]
+- prof [[putu panji]]
+- pak [[arief suharson]]
+- [[pakdhe giyo]]
+- [[pakdhe sis]]
+- pak [[made sukanadi]]
+- ibuk

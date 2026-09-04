@@ -1,0 +1,25 @@
+- sduah ada kso egnan ibr
+- magis menjadi calon mitra KSO
+- pemkot welcom oleh calon mitra
+- produknya apa? layananya apa? price listnya harganya berapa?
+- tegantung layanan
+- tarif harus masuk didalam regulasi SHBJ, standar harga barang dan jasa
+- mengurai jenis service, marketnya juga jelas
+- nanti ada kesepakatan pembagian hasil kepada 
+- akan adanya lembaga khusus yang akan men interview kenapa
+- segmennya siapa? kenapa harganya segitu?
+- pdin itu dibawah upt logam
+- upt logam mau di pindah ke upt design dan industri
+- pdin namanya BLUD dan harus bisa menjalankan pelayanan
+- di jalankan secara tripartier: kota jogja, pemerinta DIY, dan pusat oleh kementrian perindustrian
+- pada waktu pendirian itu diminta untuk diterjemahkan oleh pemerintah kota yogyakarta
+- program KSO ini mengaktivasi kegiatan
+- untuk meningkatkan pendapatan yogyakarta
+- menurut dari bapake dirasa limitasi ada di partner KSO
+- dengan pak imat, proses bukan bentok kso tapi dalam bentuk perjanjian kerja sama PKS
+- di kso bisa akan menggunakan alat yang sekarang asset dari PDIN
+- nati dari pak syaid ada list alat dan ruang untuk di pelajari kira2 tarifnya berapa termasuk harganya
+- nanti masih menunggu apa bisa langsung sewa atau harus ada perjanjian kerja sama
+- pak syaid kepala UPT, pak totok kepala dinas
+- ide KSO dari pak totok dan pak syaid
+- 

@@ -1,0 +1,23 @@
+-  RTS international
+- financing untuk transaksi export
+- financing exportir di seluruh dunia
+- produknya export factoring, anjak piutang
+- mempercepat pelunasan, karena akan di talangin dulu oleh RTS
+- potongan kepada RTS itu dari sisa platform
+- RTS bisa membayar sampai 90% didepan, realisits 75%
+- ini untuk pembantuan cashflow yang lebih cepat.
+- mungkin ini bisa unutk meringankan DP ke customer
+- 0.033% per hari dari angka invoice
+- analisa buyer butuh sekitar 4-5 hari
+- fee perbankan masih di bebankan. bank RTS dari amerika
+- RTS bisa analisis buyer2 baru dengan limitasi dari RTS
+- tapi analisa ini gratis
+- misal ada gagal bayar bisa jadi feenya bisa bertambah
+- dokumen awal hanya 2: factoruing application, dan list buyer
+- setelah di approve oleh RTS, semua transaksi harus lewat akun RTS
+- agreement bisa di cancel at anytime, in general agreement itu panjangnya 1 tahun.
+- banknya RTS itu bank of america atau commerzbank
+- yang di jogja masuk proses: siji life, indorisakti, sora jati, jedog di jalan parangtritis 
+- yang sudah masuk proses di  [[Solo|solo]]: adiwaksa, rifka furniture, 
+- beyond exportir rempah di indonesia
+- minimum per bulan itu 25000 usd
