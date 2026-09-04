@@ -4,79 +4,55 @@ This is a curated working index of ideas that are incomplete but have a concrete
 
 ## Community and Events
 
-### Board-game lobby system
-
-The proposed system would make it simple for people to create, join, and request game lobbies, while giving hosts protection from empty lobbies. It includes a shared inventory of games in Jogja and a weekly group-chat announcement of open lobbies. [[board game lobby]]
-
-**First step:** create the proposed Google Sheet with the available games, their locations, and their owners. This inventory is the stated dependency for game requests and lobby validation. [[board game lobby]]
-
-**Open design point:** the proposed `Full` status is explicitly uncertain, while `Open` lobbies require a fixed time and place. The status model should be settled before forms or automation are built. [[board game lobby]]
-
 ### IKN 2026 board-game retreat
 
-IKN (*Ikut Koboy Nginep*) is planned as a three-day, two-night board-game retreat with deliberately limited scheduled programming so that most of the time remains available for play. The detailed draft includes registration through a Google Form, payment-proof upload, separate lodging and non-lodging prices, and the shared agenda of trivia, awards, and an annual meeting. [[IKN 2026]]
+IKN (*Ikut Koboy Nginep*) is a discussion draft for a three-day, two-night board-game retreat from 6 November 12.00 to 8 November 11.00. It deliberately limits scheduled programming so that most of the time remains available for play. Registration requires a Google Form, transfer to BCA Niko, and payment-proof upload; the deadline is 16 October at 24.00. [[IKN 2026 revised discussion draft]]
 
-**First step:** make decisions on the six explicitly listed operating questions—cancellation/refunds, transferability, slot order, capacity after 25 attendees, venue rules, and event PIC—before preparing the registration form. [[IKN 2026]]
+The draft prices are Rp265,000 for six AC-lodging slots, Rp200,000 for four non-AC-lodging slots, and Rp150,000 for ten non-lodging slots. There are only 10 proper sleeping slots. Catering is not provided; participants manage their own meals. Trivia, awards, and the annual meeting remain the minimum shared agenda. [[IKN 2026 revised discussion draft]]
 
-**Current uncertainty:** the same note contains an earlier interest-check section that says the date, location, and cost are TBD and mentions a Rp250,000 target, alongside a later draft for 6–8 November with a location and Rp265,000 lodging / Rp200,000 non-lodging prices. Treat the later details as a draft, not a confirmed announcement, until they are confirmed. [[IKN 2026]]
+**First step:** prepare the registration form using the three stated slot categories, prices, deadline, and registration requirements. [[IKN 2026 revised discussion draft]]
 
 ### DM Abends
 
 DM Abends is a proposed Dungeons & Dragons sharing night where each Dungeon Master gives a useful presentation of about 15 minutes, followed by one substantive question from every other DM. [[Dm sharing nite]]
 
-**First step:** send an invitation describing the name, peer-learning purpose, 15-minute presentation format, and one-question rule. [[Dm sharing nite]]
+The idea is still liked, but it has not gained traction. The current obstacle is difficulty getting people to trust the idea, rather than a missing event format. [[DM Abends has not gained traction]]
 
-## Commercial Development
-
-### Tilatso Studio profile
-
-Tilatso Studio is proposed as a separate Timboel brand for custom, non-mass-production work: installation projects and sculpture prototypes made from ideas or two-dimensional artwork. It would work in aluminium and plastic resin, primarily for younger artists who cannot yet produce sculpture themselves. Its stated promises include reliable completion, high quality, preserving design intent, and NDA protection. [[Tilatso Profile]]
-
-**First step:** write the requested profile in under five minutes of reading time using the supplied positioning, services, materials, audience, and promises. [[Tilatso Profile]]
-
-### YIA sculpture and art-installation display
-
-The proposed one-year partnership would place Timboel Art Gallery sculptures and artworks in YIA's arrivals area, with possible rotation, QR/catalogue promotion, and sales handled by Timboel. The outline proposes a 15% YIA commission on net profit from sales attributed to the display. [[Kerjasama display dengan yia]]
-
-**First step:** ask YIA for its required sales-reporting format, as the proposal identifies this as necessary for reporting sales attributed to the display. [[Kerjasama display dengan yia]]
-
-**Open terms:** responsibility for loss or damage, including the suggested replacement basis of approximately 50% of sale price, still needs to be agreed in the collaboration terms. [[Kerjasama display dengan yia]]
-
-### Wholesale catalogue preparation
-
-The intended wholesale customer is a low-hassle, recurring, container-scale buyer/reseller—such as Phillips Collection—who values workable margins and may co-develop products for its market. [[Ideal Customer]]
-
-**First step:** create a catalogue template with the four specified fields: Timboel retail price, customer retail price, potential profit per item, and stock availability. [[wholesale catalog fields]]
-
-## Internal Systems and Places
-
-### Obsidian note-processing workflow
-
-The envisioned workflow keeps daily capture unstructured, then uses AI to recommend metadata, links, and project updates before producing a morning digest. A companion note specifies JSON fields for translated title and body, link suggestions, open points, and tasks; it also states that raw notes should be generated by a script rather than an LLM to avoid translation loss. [[Obsidian workflow vision]] [[Tuesday, 24-3-2026 13꞉05꞉18]]
-
-**First step:** process one raw note into a sample JSON response containing the specified fields. This can validate the output shape without committing to an implementation or automation tool. [[Tuesday, 24-3-2026 13꞉05꞉18]]
-
-### Inspira rooftop garden
-
-The proposed rooftop garden should be cheap to build, easy to maintain, accessible to visitors, and primarily reduce heat in the floor below. The note identifies an NTU rooftop-greenery guide as climate-relevant and proposes automated watering through buried terracotta pots (*ollas*) with a simple water sensor. [[Inspira Rooftop Garden]]
-
-**First step:** review the identified NTU guide and extract constraints relevant to cost, maintenance, heat reduction, and public access. [[Inspira Rooftop Garden]]
-
-**Open design point:** the irrigation proposal has no defined roof layout, sensor choice, or roof constraints yet. [[Inspira Rooftop Garden]]
+**Next step unresolved:** the notes do not yet establish an approach for building enough trust or testing interest. [[DM Abends has not gained traction]]
 
 ## Deferred
+
+The board-game lobby system is no longer active: its proposed spreadsheet-and-form approach was scrapped in favor of manual lobby posts in the main group. [[board game lobby]] [[Board-game lobbies use manual main-group posts]]
+
+Tilatso Studio is progressing as a company project and is no longer tracked here as a personal potential idea. [[Tilatso Studio moved to company projects]]
+
+The YIA display project is stalled and, along with its replacement project, is delegated to company projects rather than tracked as a personal potential idea. [[YIA display project stalled and delegated]]
+
+The wholesale catalogue is in a middle ground and is intended to become a company project, so it is not currently tracked as a personal potential idea. [[Wholesale catalogue needs a company project]]
+
+The Obsidian note-processing workflow is already working through the current OpenCode [[AGENTS|agent]], so it is no longer a potential idea. [[Current agent implements the Obsidian note-processing workflow]]
+
+The Inspira rooftop garden has been delegated to company projects rather than tracked here as a personal potential idea. [[Inspira rooftop garden delegated to company projects]]
 
 Other isolated idea notes were not included because the available evidence does not yet establish a bounded, useful half-day first step. They can be added when their goal or next action becomes more specific.
 
 ## Sources
 
 - [[board game lobby]]
+- [[Board-game lobbies use manual main-group posts]]
 - [[IKN 2026]]
+- [[IKN 2026 revised discussion draft]]
 - [[Dm sharing nite]]
+- [[DM Abends has not gained traction]]
 - [[Tilatso Profile]]
+- [[Tilatso Studio moved to company projects]]
 - [[Kerjasama display dengan yia]]
+- [[YIA display project stalled and delegated]]
 - [[Ideal Customer]]
 - [[wholesale catalog fields]]
+- [[Wholesale catalogue needs a company project]]
 - [[Obsidian workflow vision]]
 - [[Tuesday, 24-3-2026 13꞉05꞉18]]
+- [[Current agent implements the Obsidian note-processing workflow]]
 - [[Inspira Rooftop Garden]]
+- [[Inspira rooftop garden delegated to company projects]]
