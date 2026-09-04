@@ -26,7 +26,7 @@ A BOM should record materials that cost at least 3% of HPP or that materially af
 
 Product families have multi-step and outsourced-processing BOM patterns. [[How the bom should be made]]
 
-Intermediate-item naming is unresolved. One source proposes `MTH` codes for unfinished goods, while another uses `KAY`, `COR`, and `FRM` prefixes by product or process. [[How the bom should be made]] [[Creating Items Bill of material]]
+Intermediate items use type-specific prefixes: `KAY-`, `COR-`, and `FRM-`. [[PT Timboel intermediate item prefixes are type-specific]]
 
 ## Molding Codes
 
@@ -35,8 +35,11 @@ Molding codes follow a `3-8-3` structure: process prefix, ERPNext model code, an
 ## Open Decisions
 
 - After a Sales Order is confirmed, the required sequence for stock transfer versus delivery, Material Requests, production readiness, and Work Order creation remains undefined. The Work Order is confirmed as the production trigger, but its prerequisites are not yet established. [[Friday, 03-4-2026 15꞉31꞉13 pembenaran system erpnext wiki]] [[PT Timboel production starts with a Work Order]]
-- The standard prefix for intermediate items remains unresolved. [[How the bom should be made]] [[Creating Items Bill of material]]
 - Task scheduling policy remains unsettled between assigning an Expected Start Date only to the next actionable task or to every task. [[Wednesday, 17-6-2026 09꞉47꞉50]]
+
+## Historical Context
+
+An earlier proposal called unfinished goods `MTH-` codes. It has been superseded by the confirmed type-specific convention. [[How the bom should be made]] [[PT Timboel intermediate item prefixes are type-specific]]
 
 ## Sources
 
@@ -47,3 +50,4 @@ Molding codes follow a `3-8-3` structure: process prefix, ERPNext model code, an
 - [[How the bom should be made]]
 - [[Menentukan format kode molding]]
 - [[Wednesday, 17-6-2026 09꞉47꞉50]]
+- [[PT Timboel intermediate item prefixes are type-specific]]
