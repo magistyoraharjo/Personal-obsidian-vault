@@ -6,11 +6,11 @@ This is a curated working index of ideas that are incomplete but have a concrete
 
 ### IKN 2026 board-game retreat
 
-IKN (*Ikut Koboy Nginep*) is a discussion draft for a three-day, two-night board-game retreat from 6 November 12.00 to 8 November 11.00. It deliberately limits scheduled programming so that most of the time remains available for play. Registration requires a Google Form, transfer to BCA Niko, and payment-proof upload; the deadline is 16 October at 24.00. [[IKN 2026 revised discussion draft]]
+IKN (*Ikut Koboy Nginep*) is a discussion draft for a three-day, two-night board-game retreat from 6 November 12.00 to 8 November 11.00. It deliberately limits scheduled programming so that most of the time remains available for play. Registration requires a Google Form, transfer to BCA Niko, and payment-proof upload; the deadline is 16 October at 24.00. [[IKN 2026 revised discussion draft]] [[IKN 2026 proper beds and registration deadline confirmed]]
 
-The draft prices are Rp265,000 for six AC-lodging slots, Rp200,000 for four non-AC-lodging slots, and Rp150,000 for ten non-lodging slots. There are only 10 proper sleeping slots. Catering is not provided; participants manage their own meals. Trivia, awards, and the annual meeting remain the minimum shared agenda. [[IKN 2026 revised discussion draft]]
+The draft prices are Rp265,000 for six AC-lodging slots, Rp200,000 for four non-AC-lodging slots, and Rp150,000 for ten non-lodging slots. There are 10 proper beds. Catering is not provided; participants manage their own meals. Trivia, awards, and the annual meeting remain the minimum shared agenda. [[IKN 2026 revised discussion draft]] [[IKN 2026 proper beds and registration deadline confirmed]]
 
-**First step:** prepare the registration form using the three stated slot categories, prices, deadline, and registration requirements. [[IKN 2026 revised discussion draft]]
+**First step:** prepare the registration form using the three stated slot categories, prices, deadline, and registration requirements. [[IKN 2026 revised discussion draft]] [[IKN 2026 proper beds and registration deadline confirmed]]
 
 ### DM Abends
 
@@ -42,6 +42,7 @@ Other isolated idea notes were not included because the available evidence does 
 - [[Board-game lobbies use manual main-group posts]]
 - [[IKN 2026]]
 - [[IKN 2026 revised discussion draft]]
+- [[IKN 2026 proper beds and registration deadline confirmed]]
 - [[Dm sharing nite]]
 - [[DM Abends has not gained traction]]
 - [[Tilatso Profile]]
