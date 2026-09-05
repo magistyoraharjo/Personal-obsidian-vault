@@ -8,6 +8,8 @@ The confirmed journey enters Japan through Haneda late on 19 November and leaves
 
 The plan combines food interests, second-hand shopping, a possible ryokan stay, *Yuru Camp*-related locations, Fuji sightseeing, and the Atami Marine Fireworks. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]]
 
+For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
+
 ## Confirmed flights
 
 All four sectors are confirmed in Cathay Pacific Economy Light, booking class Q. Each passenger may check one bag of up to 23 kg and 158 linear centimetres. [[Japan honeymoon flights confirmed for November 2026]]
@@ -61,6 +63,26 @@ The source plan mentions several products without final selection: [[japan honey
 
 These should be compared only after the exact Fuji destination, hotels, and daily journeys are fixed. The current notes do not establish whether the Fuji–Shizuoka pass is the intended three-day JR pass or a separate alternative. The proposed subway bundle also needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December.
 
+## Ryokan options
+
+Availability and prices were checked on 5 September 2026 for two adults and one night. They may change before booking.
+
+### Best value: Minshuku Ryokan Eiwa, Kawaguchiko
+
+The strongest match is **Minshuku Ryokan Eiwa on Thursday, 26 November**. Its half-board plan was available for **¥17,600 total for two**, comfortably inside the preferred budget. The stay includes a Japanese-style room, a traditional home-style dinner and breakfast, shared facilities, and gender-separated communal mineral baths available around the clock. It is approximately 5–10 minutes on foot from Kawaguchiko Station. [Official website](https://eiwa-kawaguchiko.com/) [Date-specific Rakuten plan](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/?f_no=141231&f_flg=PLAN&f_otona_su=2&f_heya_su=1&f_nen1=2026&f_tuki1=11&f_hi1=26&f_nen2=2026&f_tuki2=11&f_hi2=27&f_hak=1&f_static=1)
+
+This is the best bang-for-buck option because it supplies the desired Japanese lodging, bath, and two meals for well below the ceiling while fitting the first Fuji-area day. Dinner is normally at 18:00, so the transfer from Yokohama must be planned to permit timely check-in. The same plan was available on Friday, 27 November for **¥19,800 total**, providing a fallback if the itinerary works better that way. [27 November Rakuten plan](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/?f_no=141231&f_flg=PLAN&f_otona_su=2&f_heya_su=1&f_nen1=2026&f_tuki1=11&f_hi1=27&f_nen2=2026&f_tuki2=11&f_hi2=28&f_hak=1&f_static=1)
+
+### Full-service alternative: Itoen Hotel Atamikan
+
+**Itoen Hotel Atamikan on Sunday, 22 November** was available for **¥24,130 total**, including the bathing and Atami accommodation taxes. Its standard plan includes dinner and breakfast buffets, alcoholic and non-alcoholic drinks with dinner, communal baths, and a twin room. The hotel is only a few minutes' walk from Atami Station. [Official hotel](https://www.itoenhotel.com/atamikan/) [Booking engine](https://www5.489pro.com/asp/489/menu.asp?id=22440839&kid=00044&ty=ser)
+
+Atamikan offers more facilities and easier transport than Eiwa, but it is less intimate than a small minshuku. A 22 November stay also ends on the morning of the 23 November fireworks, so separate accommodation is still needed for the fireworks night. No matching inventory under the budget was found in the checked Itoen properties for 23 November.
+
+### Oigawa constraint
+
+A ryokan near Okuoikojo Station would fit the original 21 November idea geographically, but no qualifying half-board availability within ¥30,000 was found for that Saturday. Properties in the area commonly require arrival by 18:00 for dinner, which is also difficult to combine reliably with the sparse Oigawa transport timetable.
+
 ## Flight seating and aircraft
 
 Aircraft assignments for November remain operational rather than guaranteed. Recent operations checked on 5 September 2026 show:
@@ -88,6 +110,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 ## Unresolved planning
 
 - Accommodation is not documented, including the first night after the 21:15 Haneda arrival and the tentative ryokan.
+- The researched ryokan options have not been booked; current best value is Eiwa on 26 November.
 - The exact Fuji destination needs to be chosen.
 - The unnamed JR pass, Fuji bus pass, Fuji–Shizuoka pass, and Tokyo-area tickets need a route-and-cost comparison.
 - Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
@@ -100,6 +123,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 - [[japan honeymoon]]
 - [[Japan honeymoon flights confirmed for November 2026]]
+- [[Japan honeymoon ryokan budget and bath preference]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Cathay Pacific advance seat-selection policy](https://www.cathaypacific.com/cx/en_ID/manage-booking/travel-extras/reserve-your-seat.html)
 - [Cathay Pacific aircraft and seat maps](https://www.cathaypacific.com/cx/en_ID/flying-with-us/aircraft-and-fleet.html)
