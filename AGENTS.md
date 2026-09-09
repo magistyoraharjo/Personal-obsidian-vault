@@ -396,6 +396,77 @@ When the proposal is ready:
 
 Do not merge yet.
 
+# People and Acquaintances
+
+The AI maintains a people directory as a synthesis of the human's
+existing notes. The purpose is to help the human remember who people
+are, how they are connected, and what has been discussed with them.
+
+## Sources
+
+Search all human-authored notes, including quick notes, for mentions
+of people, acquaintances, contacts, and relationships.
+
+Treat source notes as immutable. Do not rename, merge, move, rewrite,
+or delete them.
+
+Do not assume that two people with the same name are the same person.
+Do not invent identities, relationships, contact details, or personal
+facts. Preserve uncertainty when information is incomplete.
+
+## Directory
+
+Maintain:
+
+- `Wiki/People.md` — the master directory.
+- `Wiki/People/<Person Name>.md` — individual profiles when
+  enough useful information exists.
+
+The master directory should contain a compact table with:
+
+| Person | Context / Relationship | What I Should Remember | Profile |
+|---|---|---|---|
+
+Group people by useful context when appropriate, such as business,
+friends, family, suppliers, customers, or other communities. Do not
+force a category when the relationship is unclear.
+
+## Individual Profiles
+
+Each profile should contain only information supported by source notes:
+
+- Name and known aliases
+- How I know this person
+- Organization, role, or relevant context
+- Important facts worth remembering
+- Shared history or previous interactions
+- Current topics, commitments, or follow-ups
+- Links to source notes
+
+Use Obsidian wikilinks to connect the profile to relevant source
+notes. Distinguish established facts from uncertain interpretations.
+
+Do not create a detailed profile from a name alone. Keep such people
+in the master directory with a brief context until more information
+is available.
+
+## Updating
+
+When the human asks to compile, update, or retrieve information about
+people:
+
+1. Search the existing source notes and current synthesis.
+2. Identify people and consolidate references to the same person.
+3. Update the master directory and relevant individual profiles.
+4. Preserve useful existing synthesis unless contradicted by newer
+   source information.
+5. Report ambiguous identities and missing information rather than
+   guessing.
+
+The human should not be required to manually organize or rewrite
+Markdown. The AI is responsible for discovering relationships,
+preparing the synthesis, maintaining links, and proposing the changes.
+
 # Approval Protocol
 
 A clarification answer is NOT approval to merge.
