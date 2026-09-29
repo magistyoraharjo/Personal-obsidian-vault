@@ -10,6 +10,8 @@ The plan combines food interests, second-hand shopping, a possible ryokan stay, 
 
 For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
 
+The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
+
 ## Confirmed flights
 
 All four sectors are confirmed in Cathay Pacific Economy Light, booking class Q. Each passenger may check one bag of up to 23 kg and 158 linear centimetres. [[Japan honeymoon flights confirmed for November 2026]]
@@ -63,6 +65,10 @@ The source plan mentions several products without final selection: [[japan honey
 
 These should be compared only after the exact Fuji destination, hotels, and daily journeys are fixed. The current notes do not establish whether the Fuji–Shizuoka pass is the intended three-day JR pass or a separate alternative. The proposed subway bundle also needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December.
 
+## Luggage
+
+The outbound luggage plan is to use one shared large suitcase for both travellers. A second suitcase will be purchased during the trip in Japan, increasing the number of suitcases for the remainder of the itinerary and the return journey. The point of purchase and handling between the short stays have not yet been planned. [[Japan honeymoon luggage plan]]
+
 ## Ryokan options
 
 Availability and prices were checked on 5 September 2026 for two adults and one night. They may change before booking.
@@ -114,7 +120,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - The exact Fuji destination needs to be chosen.
 - The unnamed JR pass, Fuji bus pass, Fuji–Shizuoka pass, and Tokyo-area tickets need a route-and-cost comparison.
 - Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
-- Luggage handling between several short stays is not planned.
+- The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
 - The 12h30 return layover in Hong Kong has no rest, lounge, hotel, or city-visit plan yet.
@@ -124,6 +130,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[japan honeymoon]]
 - [[Japan honeymoon flights confirmed for November 2026]]
 - [[Japan honeymoon ryokan budget and bath preference]]
+- [[Japan honeymoon luggage plan]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Cathay Pacific advance seat-selection policy](https://www.cathaypacific.com/cx/en_ID/manage-booking/travel-extras/reserve-your-seat.html)
 - [Cathay Pacific aircraft and seat maps](https://www.cathaypacific.com/cx/en_ID/flying-with-us/aircraft-and-fleet.html)
