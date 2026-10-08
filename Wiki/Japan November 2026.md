@@ -1,12 +1,12 @@
 # Japan November 2026
 
-This is the current plan for a Japan honeymoon centred on Shizuoka, Atami, Yokohama, the Fuji area, and Tokyo. The flights are confirmed for 19 November–2 December 2026, while the ground itinerary remains a draft and accommodation and transport products have not yet been documented as booked. [[Japan honeymoon flights confirmed for November 2026]] [[japan honeymoon]]
+This is the current plan for a Japan honeymoon centred on Shizuoka, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, while the ground itinerary remains a draft and accommodation and transport products have not yet been documented as booked. [[Japan honeymoon flights confirmed for November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Current state
 
-The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. The intended route moves broadly eastward from Shizuoka through Atami and Yokohama before ending in Tokyo. [[Japan honeymoon flights confirmed for November 2026]] [[japan honeymoon]]
+The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. The preferred route now moves from Shizuoka to Atami, makes a two-night coastal stay in Ito, and then continues through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-The plan combines food interests, second-hand shopping, a possible ryokan stay, *Yuru Camp*-related locations, Fuji sightseeing, and the Atami Marine Fireworks. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]]
+The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
 
@@ -27,25 +27,25 @@ The outbound Hong Kong connection is substantially shorter than the return conne
 
 ## Draft itinerary
 
-The following is Jessy's dated plan. Entries describe intentions rather than confirmed reservations unless stated otherwise. [[japan honeymoon]]
+This revision combines Jessy's dated plan with the later preference to replace Fuji with two nights in Ito. Entries describe intentions rather than confirmed reservations unless stated otherwise. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 | Date | Base or destination | Current intention |
 | --- | --- | --- |
 | Thu, 19 Nov | Haneda | Arrive at 21:15 on CX542; onward accommodation and transfer are not yet documented |
 | Fri, 20 Nov | Shizuoka | Travel to Shizuoka; activate an unnamed three-day JR pass; try sakura ebi and Shizuoka oden |
-| Sat, 21 Nov | Shizuoka | Visit Okuoikojo Station; a ryokan stay is tentative |
+| Sat, 21 Nov | Shizuoka | Visit Okuoikojo Station |
 | Sun, 22 Nov | Atami | Move to Atami |
 | Mon, 23 Nov | Atami | Attend the Atami Marine Fireworks |
-| Tue, 24 Nov | Yokohama | Move to Yokohama; visit Book Off |
-| Wed, 25 Nov | Yokohama | Continue Yokohama and Book Off plans |
-| Thu, 26 Nov | Fuji area | Sightseeing using a possible Fuji bus pass |
-| Fri, 27 Nov | Fuji area | Continue Fuji-area plans |
+| Tue, 24 Nov | Ito | Move to Ito; begin a two-night coastal stay with a ryokan preferred |
+| Wed, 25 Nov | Ito | Explore the coastal area; exact sights remain undecided |
+| Thu, 26 Nov | Yokohama | Move to Yokohama; visit Book Off |
+| Fri, 27 Nov | Yokohama | Continue Yokohama and Book Off plans |
 | Sat, 28 Nov | Tokyo | Move to Tokyo; Kawagoe is planned as an excursion |
 | Sun, 29 Nov | Tokyo | Tokyo sightseeing; use a possible Tokyo Metro pass |
 | Mon, 30 Nov | Tokyo | Tokyo sightseeing |
 | Tue, 1 Dec | Tokyo and Narita | Transfer to Narita for the 21:30 departure; a Skyliner and Tokyo Subway Ticket bundle is under consideration |
 
-"Fuji" is not yet specific enough to distinguish Fuji City, the Mount Fuji area, or Fuji Five Lakes. That decision materially affects the route, accommodation, and usefulness of the proposed bus and rail passes.
+Numazu remains an optional stop rather than a planned base. The preference for two nights in each main city makes Ito the stronger replacement for the earlier Fuji-area stay. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Atami fireworks
 
@@ -58,12 +58,10 @@ The entries for both 22 and 23 November make an Atami stay plausible, but accomm
 The source plan mentions several products without final selection: [[japan honeymoon]]
 
 - an unnamed three-day JR pass, apparently intended to begin on 20 November;
-- the [Mt. Fuji–Shizuoka Area Tourist Pass Mini](https://touristpass.jp/en/fuji_shizuoka/);
-- a Fuji-area bus pass;
 - a Tokyo Metro or Tokyo Subway Ticket; and
 - a Keisei Skyliner plus subway-ticket bundle for the Narita transfer.
 
-These should be compared only after the exact Fuji destination, hotels, and daily journeys are fixed. The current notes do not establish whether the Fuji–Shizuoka pass is the intended three-day JR pass or a separate alternative. The proposed subway bundle also needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December.
+These should be compared only after the hotels and daily journeys are fixed. The earlier plan also considered the Mt. Fuji–Shizuoka Area Tourist Pass Mini and a Fuji-area bus pass, but those are no longer relevant if the Fuji stay is removed. The proposed subway bundle needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December. Ito-area transport also needs to be assessed after its coastal sights are selected. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Luggage
 
@@ -71,15 +69,19 @@ The outbound luggage plan is to use one shared large suitcase for both traveller
 
 ## Ryokan options
 
-Availability and prices were checked on 5 September 2026 for two adults and one night. They may change before booking.
+### Current need: Ito
 
-### Best value: Minshuku Ryokan Eiwa, Kawaguchiko
+The preferred plan is now a two-night Ito stay that combines coastal exploration with a ryokan. No qualifying Ito ryokan has yet been researched against the preferred ¥20,000 total budget or the ¥30,000 half-board ceiling. [[Japan honeymoon ryokan budget and bath preference]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-The strongest match is **Minshuku Ryokan Eiwa on Thursday, 26 November**. Its half-board plan was available for **¥17,600 total for two**, comfortably inside the preferred budget. The stay includes a Japanese-style room, a traditional home-style dinner and breakfast, shared facilities, and gender-separated communal mineral baths available around the clock. It is approximately 5–10 minutes on foot from Kawaguchiko Station. [Official website](https://eiwa-kawaguchiko.com/) [Date-specific Rakuten plan](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/?f_no=141231&f_flg=PLAN&f_otona_su=2&f_heya_su=1&f_nen1=2026&f_tuki1=11&f_hi1=26&f_nen2=2026&f_tuki2=11&f_hi2=27&f_hak=1&f_static=1)
+The earlier options below were checked on 5 September 2026 for two adults and one night. Their availability and prices may change before booking.
 
-This is the best bang-for-buck option because it supplies the desired Japanese lodging, bath, and two meals for well below the ceiling while fitting the first Fuji-area day. Dinner is normally at 18:00, so the transfer from Yokohama must be planned to permit timely check-in. The same plan was available on Friday, 27 November for **¥19,800 total**, providing a fallback if the itinerary works better that way. [27 November Rakuten plan](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/?f_no=141231&f_flg=PLAN&f_otona_su=2&f_heya_su=1&f_nen1=2026&f_tuki1=11&f_hi1=27&f_nen2=2026&f_tuki2=11&f_hi2=28&f_hak=1&f_static=1)
+### Superseded Fuji option: Minshuku Ryokan Eiwa, Kawaguchiko
 
-### Full-service alternative: Itoen Hotel Atamikan
+Before the route changed, the strongest researched match was **Minshuku Ryokan Eiwa on Thursday, 26 November**. Its half-board plan was available for **¥17,600 total for two**, comfortably inside the preferred budget. The stay includes a Japanese-style room, a traditional home-style dinner and breakfast, shared facilities, and gender-separated communal mineral baths available around the clock. It is approximately 5–10 minutes on foot from Kawaguchiko Station. [Official website](https://eiwa-kawaguchiko.com/) [Date-specific Rakuten plan](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/?f_no=141231&f_flg=PLAN&f_otona_su=2&f_heya_su=1&f_nen1=2026&f_tuki1=11&f_hi1=26&f_nen2=2026&f_tuki2=11&f_hi2=27&f_hak=1&f_static=1)
+
+It supplied the desired Japanese lodging, bath, and two meals for well below the ceiling. The same plan was available on Friday, 27 November for **¥19,800 total**. This research is retained as historical context, but Eiwa no longer fits the preferred route because the Fuji-area stay is being removed. [27 November Rakuten plan](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/?f_no=141231&f_flg=PLAN&f_otona_su=2&f_heya_su=1&f_nen1=2026&f_tuki1=11&f_hi1=27&f_nen2=2026&f_tuki2=11&f_hi2=28&f_hak=1&f_static=1) [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+
+### Earlier Atami alternative: Itoen Hotel Atamikan
 
 **Itoen Hotel Atamikan on Sunday, 22 November** was available for **¥24,130 total**, including the bathing and Atami accommodation taxes. Its standard plan includes dinner and breakfast buffets, alcoholic and non-alcoholic drinks with dinner, communal baths, and a twin room. The hotel is only a few minutes' walk from Atami Station. [Official hotel](https://www.itoenhotel.com/atamikan/) [Booking engine](https://www5.489pro.com/asp/489/menu.asp?id=22440839&kid=00044&ty=ser)
 
@@ -115,10 +117,10 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 ## Unresolved planning
 
-- Accommodation is not documented, including the first night after the 21:15 Haneda arrival and the tentative ryokan.
-- The researched ryokan options have not been booked; current best value is Eiwa on 26 November.
-- The exact Fuji destination needs to be chosen.
-- The unnamed JR pass, Fuji bus pass, Fuji–Shizuoka pass, and Tokyo-area tickets need a route-and-cost comparison.
+- No accommodation is documented as booked, including the first night after the 21:15 Haneda arrival and the preferred Ito ryokan.
+- An Ito ryokan needs to be found for 24–26 November within the established budget; the earlier Kawaguchiko option no longer fits the preferred route.
+- The exact Ito coastal sights and local transport need to be selected.
+- The unnamed JR pass and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary.
 - Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
@@ -131,6 +133,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon flights confirmed for November 2026]]
 - [[Japan honeymoon ryokan budget and bath preference]]
 - [[Japan honeymoon luggage plan]]
+- [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Cathay Pacific advance seat-selection policy](https://www.cathaypacific.com/cx/en_ID/manage-booking/travel-extras/reserve-your-seat.html)
 - [Cathay Pacific aircraft and seat maps](https://www.cathaypacific.com/cx/en_ID/flying-with-us/aircraft-and-fleet.html)
