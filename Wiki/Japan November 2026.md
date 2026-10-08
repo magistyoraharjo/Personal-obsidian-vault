@@ -47,7 +47,9 @@ This revision combines Jessy's dated plan with the later preference to replace F
 
 Numazu remains an optional stop rather than a planned base. The preference for two nights in each main city makes Ito the stronger replacement for the earlier Fuji-area stay. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-The late transfer from Haneda to Hotel LiVEMAX Yokohama Kannai still needs a specific train or taxi plan that allows for immigration and baggage collection. [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
+The planned arrival transfer uses Keikyu from **Haneda Airport Terminal 3 (KK16)** to **Hinodecho (KK39)**, followed by the hotel's stated eight-minute walk. Trains begin on the Keikyu Airport Line and join the Keikyu Main Line at Keikyu Kamata. Some services continue south without a transfer, while others require changing at Keikyu Kamata and possibly again to a local service that stops at Hinodecho. [Keikyu Haneda Terminal 3 station](https://www.keikyu.co.jp/ride/kakueki/KK16.html) [Hotel access](https://www.hotel-livemax.com/kanagawa/kannai/) [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
+
+After the 21:15 international arrival, a realistic departure is around 22:15–22:45, putting the hotel arrival around 23:05–23:35. Current schedules show later trains, but the exact November 2026 timetable should be checked shortly before travel and again after landing. If immigration, baggage, or disruption makes the final connection doubtful, a taxi is the fallback.
 
 ## Atami fireworks
 
@@ -124,6 +126,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - An Ito ryokan needs to be found for 24–26 November within the established budget; the earlier Kawaguchiko option no longer fits the preferred route.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
+- The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
 - Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
@@ -140,5 +143,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
+- [Keikyu Haneda Airport Terminal 3 station and timetable](https://www.keikyu.co.jp/ride/kakueki/KK16.html)
+- [Hotel LiVEMAX Yokohama Kannai access](https://www.hotel-livemax.com/kanagawa/kannai/)
 - [Cathay Pacific advance seat-selection policy](https://www.cathaypacific.com/cx/en_ID/manage-booking/travel-extras/reserve-your-seat.html)
 - [Cathay Pacific aircraft and seat maps](https://www.cathaypacific.com/cx/en_ID/flying-with-us/aircraft-and-fleet.html)
