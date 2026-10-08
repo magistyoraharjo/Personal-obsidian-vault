@@ -1,10 +1,10 @@
 # Japan November 2026
 
-This is the current plan for a Japan honeymoon centred on Shizuoka, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, while the ground itinerary remains a draft and accommodation and transport products have not yet been documented as booked. [[Japan honeymoon flights confirmed for November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+This is the current plan for a Japan honeymoon centred on Shizuoka, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026 and the first night is booked in Yokohama, while the rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Current state
 
-The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. The preferred route now moves from Shizuoka to Atami, makes a two-night coastal stay in Ito, and then continues through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before the journey continues west to Shizuoka on 20 November. The preferred route then moves through Atami, makes a two-night coastal stay in Ito, and returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
@@ -31,8 +31,8 @@ This revision combines Jessy's dated plan with the later preference to replace F
 
 | Date | Base or destination | Current intention |
 | --- | --- | --- |
-| Thu, 19 Nov | Haneda | Arrive at 21:15 on CX542; onward accommodation and transfer are not yet documented |
-| Fri, 20 Nov | Shizuoka | Travel to Shizuoka; activate an unnamed three-day JR pass; try sakura ebi and Shizuoka oden |
+| Thu, 19 Nov | Yokohama | Arrive at Haneda at 21:15 on CX542; transfer to the booked Hotel LiVEMAX Yokohama Kannai |
+| Fri, 20 Nov | Shizuoka | Check out and travel from Yokohama to Shizuoka; try sakura ebi and Shizuoka oden |
 | Sat, 21 Nov | Shizuoka | Visit Okuoikojo Station |
 | Sun, 22 Nov | Atami | Move to Atami |
 | Mon, 23 Nov | Atami | Attend the Atami Marine Fireworks |
@@ -47,6 +47,8 @@ This revision combines Jessy's dated plan with the later preference to replace F
 
 Numazu remains an optional stop rather than a planned base. The preference for two nights in each main city makes Ito the stronger replacement for the earlier Fuji-area stay. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
+The late transfer from Haneda to Hotel LiVEMAX Yokohama Kannai still needs a specific train or taxi plan that allows for immigration and baggage collection. [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
+
 ## Atami fireworks
 
 The dated itinerary's choice of 23 November is supported by the official 2026 schedule. The Atami Marine Fireworks are scheduled at Atami Bay on **Monday, 23 November 2026 from 20:20 to 20:40**, with the event planned to proceed in rain. The official site warns that Atami Station becomes extremely crowded after the display and recommends preparing return tickets or IC-card balance in advance. No paid viewing area is planned for 2026. [Atami City Tourism Association](https://www.ataminews.gr.jp/event/8/) [[japan honeymoon]]
@@ -57,11 +59,12 @@ The entries for both 22 and 23 November make an Atami stay plausible, but accomm
 
 The source plan mentions several products without final selection: [[japan honeymoon]]
 
-- an unnamed three-day JR pass, apparently intended to begin on 20 November;
 - a Tokyo Metro or Tokyo Subway Ticket; and
 - a Keisei Skyliner plus subway-ticket bundle for the Narita transfer.
 
-These should be compared only after the hotels and daily journeys are fixed. The earlier plan also considered the Mt. Fuji–Shizuoka Area Tourist Pass Mini and a Fuji-area bus pass, but those are no longer relevant if the Fuji stay is removed. The proposed subway bundle needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December. Ito-area transport also needs to be assessed after its coastal sights are selected. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The three-day **Mt. Fuji–Shizuoka Area Tourist Pass Mini** costs ¥6,500 per adult and is not recommended for the revised route. Its JR coverage is limited to the Tokaido Main Line from Atami to Toyohashi, the Gotemba Line from Numazu to Matsuda, and part of the Minobu Line. It excludes the Tokaido Shinkansen, the JR Ito Line from Atami to Ito, and the Oigawa Railway used for Okuoikojo. Most of the trip's expensive or distinctive journeys would therefore still require separate tickets. [Official pass coverage](https://touristpass.jp/en/fuji_shizuoka/)
+
+The proposed Tokyo subway bundle needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December. Ito-area transport also needs to be assessed after its coastal sights are selected. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Luggage
 
@@ -117,10 +120,10 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 ## Unresolved planning
 
-- No accommodation is documented as booked, including the first night after the 21:15 Haneda arrival and the preferred Ito ryokan.
+- Apart from Hotel LiVEMAX Yokohama Kannai on 19 November, no accommodation is documented as booked, including the later Yokohama stay and the preferred Ito ryokan.
 - An Ito ryokan needs to be found for 24–26 November within the established budget; the earlier Kawaguchiko option no longer fits the preferred route.
 - The exact Ito coastal sights and local transport need to be selected.
-- The unnamed JR pass and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary.
+- Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
@@ -134,6 +137,8 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon ryokan budget and bath preference]]
 - [[Japan honeymoon luggage plan]]
 - [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+- [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
+- [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
 - [Cathay Pacific advance seat-selection policy](https://www.cathaypacific.com/cx/en_ID/manage-booking/travel-extras/reserve-your-seat.html)
 - [Cathay Pacific aircraft and seat maps](https://www.cathaypacific.com/cx/en_ID/flying-with-us/aircraft-and-fleet.html)
