@@ -83,7 +83,7 @@ The outbound luggage plan is to use one shared large suitcase for both traveller
 
 ### Current need: Ito
 
-The preferred plan is now a two-night Ito stay that combines coastal exploration with a ryokan. **Haruhira Maru (はるひら丸)** is the strongest researched candidate and was showing availability for 24–26 November when checked on 9 October 2026. It fits the per-night budget, but it has not been booked. [[Japan honeymoon ryokan budget and bath preference]] [[Japan honeymoon prefers two nights in Ito with a ryokan]] [[Japan honeymoon is considering Haruhira Maru for the Ito stay]]
+The preferred plan is now a two-night Ito stay that combines coastal exploration with a ryokan. **Haruhira Maru (はるひら丸)** is the current preferred accommodation and was showing availability for 24–26 November when checked on 9 October 2026. It fits the per-night budget, but it has not been booked and the meal plan remains undecided. [[Japan honeymoon ryokan budget and bath preference]] [[Japan honeymoon prefers two nights in Ito with a ryokan]] [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
 
 ### Current candidate: Haruhira Maru, Ito
 
@@ -148,7 +148,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 ## Unresolved planning
 
 - Accommodation remains unbooked for Shizuoka, Ito, the later Yokohama stay, and Tokyo.
-- Haruhira Maru is the leading Ito accommodation candidate for 24–26 November but remains unbooked; communal baths, stairs, and fixed dinner times need to be accepted before booking.
+- Haruhira Maru is the preferred Ito accommodation for 24–26 November but remains unbooked; the meal plan also needs to be selected.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
@@ -167,7 +167,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
-- [[Japan honeymoon is considering Haruhira Maru for the Ito stay]]
+- [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
 - [Keikyu Haneda Airport Terminal 3 station and timetable](https://www.keikyu.co.jp/ride/kakueki/KK16.html)
