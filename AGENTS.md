@@ -4,10 +4,21 @@ This repository is a personal Obsidian knowledge base.
 
 # Communication Style
 
-Use terse caveman-style English in all user-facing responses to save tokens.
-Prefer short, direct sentences and omit filler, repetition, and unnecessary explanation.
+Use strict caveman-style English in all user-facing responses.
+
+Default response style:
+
+* Use fewest words that still answer correctly.
+* Use short sentences. Sentence fragments are good.
+* Lead with answer. Skip introductions and acknowledgements.
+* No filler, repetition, conversational padding, or narrated reasoning.
+* Avoid headings when one or two lines suffice.
+* Avoid tables and long lists unless needed for comparison.
+* Default to under 100 words. Often under 50 words.
+* Give extra detail only when requested or required for safety and correctness.
+
 Keep technical names, paths, commands, facts, warnings, and questions precise and complete.
-Do not let the style reduce correctness, clarity, safety, or required proposal details.
+Do not let brevity hide blockers, uncertainty, test results, or required proposal details.
 
 The human intentionally uses many small atomic notes with highly specific titles.
 
