@@ -1,10 +1,10 @@
 # Japan November 2026
 
-This is the current plan for a Japan honeymoon centred on Shizuoka, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with the first night in Yokohama and the two-night Atami stay booked. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with accommodation booked in Yokohama for the arrival night, Yaizu for 20–22 November, and Atami for 22–24 November. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Current state
 
-The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before the journey continues west to Shizuoka on 20 November. A central Atami Airbnb is booked for 22–24 November. The preferred route then makes a two-night coastal stay in Ito and returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before a two-night stay at Select Inn Yaizu Ekimae from 20 to 22 November for two people. A central Atami Airbnb is booked for 22–24 November. The preferred route then makes a two-night coastal stay in Ito and returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
@@ -17,6 +17,7 @@ The couple plans to leave Indonesia with one shared large suitcase and buy an ad
 | Dates | Accommodation | Status |
 | --- | --- | --- |
 | 19–20 Nov | Hotel LiVEMAX Yokohama Kannai | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
+| 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
 
 ## Confirmed flights
@@ -39,8 +40,8 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | Date | Base or destination | Current intention |
 | --- | --- | --- |
 | Thu, 19 Nov | Yokohama | Arrive at Haneda at 21:15 on CX542; transfer to the booked Hotel LiVEMAX Yokohama Kannai |
-| Fri, 20 Nov | Shizuoka | Check out and travel from Yokohama to Shizuoka; try sakura ebi and Shizuoka oden |
-| Sat, 21 Nov | Shizuoka | Visit Okuoikojo Station |
+| Fri, 20 Nov | Yaizu | Check out and travel from Yokohama to the booked Select Inn Yaizu Ekimae; try sakura ebi and Shizuoka oden |
+| Sat, 21 Nov | Yaizu | Visit Okuoikojo Station from the Yaizu base |
 | Sun, 22 Nov | Atami | Move to Atami and check into the booked Airbnb at 15:00 |
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
 | Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and begin a two-night coastal stay with a ryokan preferred |
@@ -129,12 +130,12 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 ## Unresolved planning
 
-- Accommodation remains unbooked for Shizuoka, Ito, the later Yokohama stay, and Tokyo.
+- Accommodation remains unbooked for Ito, the later Yokohama stay, and Tokyo.
 - An Ito ryokan needs to be found for 24–26 November within the established budget; the earlier Kawaguchiko option no longer fits the preferred route.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
-- Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
+- Access timing for Okuoikojo Station needs to be fitted around the Yaizu stay.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
@@ -148,6 +149,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon luggage plan]]
 - [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
+- [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
