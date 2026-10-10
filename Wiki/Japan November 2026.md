@@ -19,6 +19,8 @@ The couple plans to leave Indonesia with one shared large suitcase and buy an ad
 | 19–20 Nov | Hotel LiVEMAX Yokohama Kannai | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
 
+For the Tokyo stay, [Rumah Teman](https://www.instagram.com/rumahteman.jp/), owned by an upperclassman, is a possible accommodation but the arrangement is not confirmed. Transport planning currently assumes a Shinjuku-area location; the exact address and nearest station still need confirmation. [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
+
 ## Confirmed flights
 
 All four sectors are confirmed in Cathay Pacific Economy Light, booking class Q. Each passenger may check one bag of up to 23 kg and 158 linear centimetres. [[Japan honeymoon flights confirmed for November 2026]]
@@ -74,6 +76,19 @@ The source plan mentions several products without final selection: [[japan honey
 The three-day **Mt. Fuji–Shizuoka Area Tourist Pass Mini** costs ¥6,500 per adult and is not recommended for the revised route. Its JR coverage is limited to the Tokaido Main Line from Atami to Toyohashi, the Gotemba Line from Numazu to Matsuda, and part of the Minobu Line. It excludes the Tokaido Shinkansen, the JR Ito Line from Atami to Ito, and the Oigawa Railway used for Okuoikojo. Most of the trip's expensive or distinctive journeys would therefore still require separate tickets. [Official pass coverage](https://touristpass.jp/en/fuji_shizuoka/)
 
 The proposed Tokyo subway bundle needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December. Ito-area transport also needs to be assessed after its coastal sights are selected. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+
+### Shinjuku to Narita Airport
+
+If the Tokyo stay is near Shinjuku, the **Narita Express from Shinjuku Station directly to Narita Airport Terminal 2** is the preferred departure route. It avoids transfers and provides reserved seating and luggage space, which is valuable because the couple expects to have two large suitcases by this point. Typical journey time is roughly 80–90 minutes, but the November 2026 timetable and fare should be confirmed after the Tokyo accommodation is settled. [JR East Narita Express](https://www.jreast.co.jp/multi/en/nex/) [[Japan honeymoon luggage plan]] [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
+
+For the 21:30 international departure on 1 December, the working target is to reach Terminal 2 at about 18:30. A Narita Express departure from Shinjuku around 16:30–17:00 should provide an appropriate margin, subject to the final timetable and the travel time from the accommodation to Shinjuku Station.
+
+The main alternatives are:
+
+- an Airport Limousine Bus from Shinjuku or a nearby hotel, potentially easier if its stop is close to the accommodation but more exposed to road delays; and
+- the JR Yamanote Line to Nippori followed by the Keisei Skyliner, generally faster or cheaper than the direct Narita Express but requiring a transfer with luggage. [Airport Limousine Bus](https://www.limousinebus.co.jp/guide/en/) [Keisei airport routes](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/index.php)
+
+The final choice should be made after Rumah Teman's exact location is known. If it is genuinely convenient to Shinjuku Station, the direct Narita Express is the best balance of reliability and luggage handling; the Nippori–Skyliner route is the cost-focused alternative.
 
 ## Luggage
 
@@ -148,6 +163,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 ## Unresolved planning
 
 - Accommodation remains unbooked for Shizuoka, Ito, the later Yokohama stay, and Tokyo.
+- The possible Tokyo stay at Rumah Teman is unconfirmed, and its exact address and nearest station are not recorded.
 - Haruhira Maru is the preferred Ito accommodation for 24–26 November but remains unbooked; the meal plan also needs to be selected.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
@@ -168,6 +184,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
+- [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
 - [Keikyu Haneda Airport Terminal 3 station and timetable](https://www.keikyu.co.jp/ride/kakueki/KK16.html)
