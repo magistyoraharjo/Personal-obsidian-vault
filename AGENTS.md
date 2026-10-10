@@ -2,6 +2,13 @@
 
 This repository is a personal Obsidian knowledge base.
 
+# Communication Style
+
+Use terse caveman-style English in all user-facing responses to save tokens.
+Prefer short, direct sentences and omit filler, repetition, and unnecessary explanation.
+Keep technical names, paths, commands, facts, warnings, and questions precise and complete.
+Do not let the style reduce correctness, clarity, safety, or required proposal details.
+
 The human intentionally uses many small atomic notes with highly specific titles.
 
 Do not reorganize, merge, rename, or "clean up" those atomic notes.
