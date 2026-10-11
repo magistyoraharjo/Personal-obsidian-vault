@@ -12,6 +12,8 @@ For the ryokan stay, the preferred budget is ¥20,000 total for two people, risi
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
+Japanese-style accommodation is preferred when a cheap suitable option is available. [[Japan honeymoon prefers cheap Japanese-style stays]]
+
 ## Booked accommodation
 
 | Dates | Accommodation | Status |
@@ -19,6 +21,16 @@ The couple plans to leave Indonesia with one shared large suitcase and buy an ad
 | 19–20 Nov | Hotel LiVEMAX Yokohama Kannai | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
 | 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
+
+## Yokohama accommodation options
+
+Two genuine Japanese-style options were found for two people from 26 to 28 November. Neither is booked. Prices were checked in October 2026 and may change.
+
+**Escale Yokohama** is the stronger comfort option at **¥21,800 total for two nights**. Its non-smoking Japanese room has eight tatami mats, 26 square metres of space, futons, a private toilet and washbasin, and access to a shared large bath. It is beside Motomachi-Chukagai Station and has enough room for the planned luggage. Availability was limited when checked. [Date-specific booking page](https://www.jhpds.net/rsv.escale-yokohama/uw/uwp3100/uww3101.do?yadNo=304200&stayYear=2026&stayMonth=11&stayDay=26&stayCount=2&roomCount=1&adultNum=2)
+
+**Yokohama Hostel Village** is the cheapest genuine Japanese-style option at **¥13,300 total for two nights**. Its private room uses tatami and futons, but three tatami mats provide only about five square metres. The shower and toilet are shared, and rooms may be on the fourth or fifth floor without an elevator. It is near Ishikawacho Station and within reach of BOOKOFF PLUS Yokohama Isezakicho, but the room would be difficult with two people and multiple suitcases. [Date-specific booking page](https://yhv.rwiths.net/r-withs/tfs0020a.do?hotelNo=49253&ciDateY=2026&ciDateM=11&ciDateD=26&coDateY=2026&coDateM=11&coDateD=28&room=1&otona=2&s1=0&s2=0&y1=0&y2=0&y3=0&y4=0&curPage=1&lowerCharge=0&upperCharge=9999999999&sort=1&f_lang=en)
+
+Escale is the recommended balance for the honeymoon. Hostel Village is the strict lowest-cost choice.
 
 ## Confirmed flights
 
@@ -147,6 +159,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon flights confirmed for November 2026]]
 - [[Japan honeymoon ryokan budget and bath preference]]
 - [[Japan honeymoon luggage plan]]
+- [[Japan honeymoon prefers cheap Japanese-style stays]]
 - [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
