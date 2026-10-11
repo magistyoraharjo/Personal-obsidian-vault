@@ -6,11 +6,13 @@ This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yok
 
 The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before a two-night stay at Select Inn Yaizu Ekimae from 20 to 22 November for two people. A central Atami Airbnb is booked for 22–24 November. The preferred route then makes a two-night coastal stay in Ito and returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. Okuoikojo remains a priority despite its expensive and lengthy public-transport access. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
+
+A rental car is not an option because Magis does not have a driving licence, so route planning must use public transport. [[Japan honeymoon cannot use a rental car]]
 
 Japanese-style accommodation is preferred when a cheap suitable option is available. [[Japan honeymoon prefers cheap Japanese-style stays]]
 
@@ -53,7 +55,7 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | --- | --- | --- |
 | Thu, 19 Nov | Yokohama | Arrive at Haneda at 21:15 on CX542; transfer to the booked Hotel LiVEMAX Yokohama Kannai |
 | Fri, 20 Nov | Yaizu | Check out and travel from Yokohama to the booked Select Inn Yaizu Ekimae; try sakura ebi and Shizuoka oden |
-| Sat, 21 Nov | Yaizu | Visit Okuoikojo Station from the Yaizu base |
+| Sat, 21 Nov | Yaizu | Make the planned public-transport day trip to Okuoikojo Station from the booked Yaizu base |
 | Sun, 22 Nov | Atami | Move to Atami and check into the booked Airbnb at 15:00 |
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
 | Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and begin a two-night coastal stay with a ryokan preferred |
@@ -87,6 +89,28 @@ The source plan mentions several products without final selection: [[japan honey
 The three-day **Mt. Fuji–Shizuoka Area Tourist Pass Mini** costs ¥6,500 per adult and is not recommended for the revised route. Its JR coverage is limited to the Tokaido Main Line from Atami to Toyohashi, the Gotemba Line from Numazu to Matsuda, and part of the Minobu Line. It excludes the Tokaido Shinkansen, the JR Ito Line from Atami to Ito, and the Oigawa Railway used for Okuoikojo. Most of the trip's expensive or distinctive journeys would therefore still require separate tickets. [Official pass coverage](https://touristpass.jp/en/fuji_shizuoka/)
 
 The proposed Tokyo subway bundle needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December. Ito-area transport also needs to be assessed after its coastal sights are selected. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+
+## Okuoikojo day trip
+
+Okuoikojo is planned as the main activity for Saturday, 21 November. The Oigawa Main Line no longer runs through to Senzu because the section beyond Kawaneonsen-Sasamado remains closed after the 2022 typhoon damage. The workable public-transport route from the booked Yaizu hotel therefore combines JR, an Oigawa local train, the Kawanehon municipal bus, and the reservation-only Abt Line. [Oigawa Main Line status and timetable](https://daitetsu.jp/ft_main) [Kawanehon municipal bus](https://www.town.kawanehon.shizuoka.jp/kurashi_tetsuduki/10/3/13749.html) [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon cannot use a rental car]]
+
+The preferred Abt booking is the **¥6,500 Senzu–Okuoikojo return package, Course 2**. It uses the 10:05 departure from Senzu, reaches Okuoikojo at 11:12, returns at 13:09, and arrives back at Senzu at 14:20. This gives 1 hour 57 minutes at Okuoikojo and saves ¥500 against buying two ¥3,500 one-way sightseeing-train products. Course 2 is preferable to Course 1 because the inbound municipal bus reaches Senzu at 09:00, leaving a 65-minute buffer instead of only 15 minutes. The separate ¥6,800 guided nature package is not recommended unless the guided activity itself is wanted: it costs more and uses 30 minutes of the visit. [Official Abt timetable and return package](https://daitetsu.jp/abt#plan-kojo)
+
+The planned schedule is:
+
+| Time | Journey |
+| --- | --- |
+| 06:47–07:06 | JR Yaizu → Kanaya |
+| 07:24–07:56 | Oigawa Railway Kanaya → Ieyama |
+| 08:15–09:00 | Municipal bus Ieyama → Senzu |
+| 10:05–11:12 | Abt Line Senzu → Okuoikojo |
+| 11:12–13:09 | Walk to the viewpoint, visit, and return to the station |
+| 13:09–14:20 | Abt Line Okuoikojo → Senzu |
+| 14:35–15:20 | Municipal bus Senzu → Ieyama |
+| 15:43–16:16 | Oigawa Railway Ieyama → Kanaya |
+| 16:31–16:49 | JR Kanaya → Yaizu |
+
+The current total is **¥9,820 per person**: ¥660 for JR, ¥1,660 for the Oigawa Main Line, ¥1,000 for the municipal bus, and ¥6,500 for the Abt return package. The return package must be reserved online and is not yet booked. Its listed deadline is noon on 20 November, but autumn capacity may sell out earlier. Ticket screenshots should be saved before departure because mobile reception is poor around Okuoikojo. The municipal bus takes cash and its connections with Oigawa trains are not guaranteed. The 14:20 arrival at Senzu leaves 15 minutes for the 14:35 bus; missing it would mean waiting for the 17:45 bus. Train status and timetables need a final check shortly before travel. [Official Abt booking information](https://daitetsu.jp/abt#plan-kojo) [Combined railway and bus timetable](https://www.town.kawanehon.shizuoka.jp/material/files/group/18/zikokuhyosogo20260701.pdf)
 
 ## Luggage
 
@@ -147,7 +171,7 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
-- Access timing for Okuoikojo Station needs to be fitted around the Yaizu stay.
+- The ¥6,500 Okuoikojo return package still needs to be booked, and all operating times need a final disruption check shortly before 21 November.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
