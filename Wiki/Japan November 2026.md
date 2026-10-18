@@ -12,7 +12,7 @@ For the ryokan stay, the preferred budget is ¥20,000 total for two people, risi
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
-Jessy still needs to extend her Japan visa, but the location of her passport is currently unknown. [[jessy japan visa]]
+Jessy's Japan visa was completed on 18 October 2026. The earlier visa blocker is resolved. [[jessy japan visa]] [[Jessy's Japan visa is complete]]
 
 A rental car is not an option because Magis does not have a driving licence, so route planning must use public transport. [[Japan honeymoon cannot use a rental car]]
 
@@ -189,7 +189,6 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
 - The 12h30 return layover in Hong Kong has no rest, lounge, hotel, or city-visit plan yet.
-- Jessy needs to find her passport and extend her Japan visa. [[jessy japan visa]]
 - The Tokyo Atlas exhibition needs identification, dates, and venue details before it can be placed in the itinerary. [[exhibition in tokyo that we may visit during honeymoon trip]]
 - The shared-map candidates need prioritization against available time and transport. [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 
@@ -205,6 +204,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[jessy japan visa]]
+- [[Jessy's Japan visa is complete]]
 - [[exhibition in tokyo that we may visit during honeymoon trip]]
 - [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
