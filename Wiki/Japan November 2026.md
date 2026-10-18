@@ -12,6 +12,8 @@ For the ryokan stay, the preferred budget is ¥20,000 total for two people, risi
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
+Jessy's Japan visa was completed on 18 October 2026. The earlier visa blocker is resolved. [[jessy japan visa]] [[Jessy's Japan visa is complete]]
+
 A rental car is not an option because Magis does not have a driving licence, so route planning must use public transport. [[Japan honeymoon cannot use a rental car]]
 
 Japanese-style accommodation is preferred when a cheap suitable option is available. [[Japan honeymoon prefers cheap Japanese-style stays]]
@@ -161,8 +163,19 @@ Economy Light does not include free advance regular-seat selection without quali
 Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 - a Jogashima day trip with a meal included;
-- visiting Shizuoka locations associated with Nadeshiko and *Yuru Camp*; and
+- visiting Shizuoka locations associated with Nadeshiko and *Yuru Camp*;
+- possibly visiting the Tokyo Atlas exhibition, whose details are not yet recorded; and [[exhibition in tokyo that we may visit during honeymoon trip]]
 - using a Riri Travel video for itinerary inspiration.
+
+The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) list contains 39 inspiration places. They are candidates, not confirmed itinerary stops. [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
+
+- **Shizuoka:** Bandai Hobby Center Plamo Design Industrial Institute, Smart Aquarium Shizuoka, Pikkuappu Shizuoka Toroten, Miho no Matsubara, Shizuoka City Serizawa Keisuke Art Museum, Sumpu Castle Park, Toro Archaeological Site, Sumpu Museum, and Suruga-ya Main Store.
+- **Okuoikojo route:** Nagashima Dam, Minami Alps Sesso Otsuribashi, Okuoikojo Station and its observatory, Yanbai Dokoro, Kawane Bussan, and Uemaru.
+- **Atami:** Kinomiya Shrine, Osakana Dai Shokudo, Kosawa-no-Yu, Hashiri-yu, ACAO Forest, MOA Museum of Art, and Atami Sun Beach.
+- **Ito and Izu:** Jogasaki Coast and Yamamoto Shokuhin Izu Wasabi Museum.
+- **Yokohama:** Hands Yokohama, Wattmann, and the Book Off Super Bazaar stores at Yokohama Seya Minamidai and Higashi-Totsuka Olympic.
+- **Tokyo:** Printing Museum, Sano Miso Kameido, Yanaka Ginza, Statue of Tora and Sakura, Tora-san Museum, Yayoi Kusama Museum, and the National Museum of Modern Art.
+- **Longer detours:** Shiraito Falls, Shosenkyo Ropeway, and Okada Museum of Art.
 
 ## Unresolved planning
 
@@ -176,6 +189,8 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
 - The 12h30 return layover in Hong Kong has no rest, lounge, hotel, or city-visit plan yet.
+- The Tokyo Atlas exhibition needs identification, dates, and venue details before it can be placed in the itinerary. [[exhibition in tokyo that we may visit during honeymoon trip]]
+- The shared-map candidates need prioritization against available time and transport. [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 
 ## Sources
 
@@ -188,6 +203,10 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
+- [[jessy japan visa]]
+- [[Jessy's Japan visa is complete]]
+- [[exhibition in tokyo that we may visit during honeymoon trip]]
+- [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
 - [Keikyu Haneda Airport Terminal 3 station and timetable](https://www.keikyu.co.jp/ride/kakueki/KK16.html)

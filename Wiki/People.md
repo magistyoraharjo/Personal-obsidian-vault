@@ -157,6 +157,11 @@ Compact retrieval index compiled from source notes. Honorifics and informal labe
 | Berti | Wedding invitee | Invited with her husband; the source marks the pairing uncertain. [[Undangan Manten magis]] | |
 | Nadia (“Jerman”) | Wedding invitee | Listed with Joshua “Jerman”; the label's meaning is not explained. [[Undangan Manten magis]] | |
 | Joshua (“Jerman”) | Wedding invitee | Listed with Nadia “Jerman”; the label's meaning is not explained. [[Undangan Manten magis]] | |
+| Wina | Jakarta–Bandung trip contact | Listed in an ambiguous phrase with a child and Yuri; the exact relationships are unclear. [[ketemu di trip jakarta bandung]] | |
+| Yuri | Jakarta–Bandung trip contact | Listed in an ambiguous phrase with Wina and a child. [[ketemu di trip jakarta bandung]] | |
+| Bibil | Jakarta–Bandung trip contact | Met with a husband and child; possible divorce was recorded only as uncertain. [[ketemu di trip jakarta bandung]] | |
+| Nadia (Jakarta–Bandung trip) | Jakarta–Bandung trip contact | Moved from Germany and is building a company with Jojo that makes mass-production cake equipment priced from Rp250m per item. She may be Nadia “Jerman,” but this is unconfirmed. [[ketemu di trip jakarta bandung]] | |
+| Jojo | Jakarta–Bandung trip contact | Moved from Germany and is building the cake-equipment company with Nadia. Identity relative to Joshua “Jerman” is unconfirmed. [[ketemu di trip jakarta bandung]] | |
 | Martin | Wedding invitee | Invited with his wife. [[Undangan Manten magis]] | |
 | Mbak Sulis | Wedding-invite context | Her husband and child Kirana are listed; Sulis herself is not explicitly listed as an invitee. [[Undangan Manten magis]] | |
 | Kirana | Wedding invitee | Child of Mbak Sulis. [[Undangan Manten magis]] | |
