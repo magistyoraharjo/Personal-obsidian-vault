@@ -29,6 +29,10 @@ The siraman's five participants have been selected, but their names are not curr
 
 The seserahan is complete. [[Magis and Jessy seserahan complete]]
 
+## Completed Details
+
+The hair recorded at Jessy's house has already been buried beneath the hexagonal paving immediately beside the front door. [[Lokasi rambut di rumah jessy]] [[Hair at Jessy's house has already been buried]]
+
 ## Guests And Purpose
 
 The family ceremonies are planned at 100 guests for the lamaran, 50 for the siraman, and 300 for the akad. [[Magis and Jessy wedding guests confirmed]]
@@ -77,6 +81,8 @@ The previous plan for no wedding rings and two engagement rings has been superse
 - [[Magis and Jessy wedding budget responsibility]]
 - [[Magis and Jessy siraman participants confirmed]]
 - [[Magis and Jessy seserahan complete]]
+- [[Lokasi rambut di rumah jessy]]
+- [[Hair at Jessy's house has already been buried]]
 - [[Magis and Jessy Resepsi Relasi invitations pending]]
 - [[Diskusi acara pernikahan magis jessy]]
 - [[Friday, 17-4-2026 22꞉09꞉32 1000 hari bapak timboel tanggal 31 mei]]
