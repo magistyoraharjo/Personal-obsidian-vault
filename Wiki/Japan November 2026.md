@@ -12,6 +12,8 @@ For the ryokan stay, the preferred budget is ¥20,000 total for two people, risi
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
+Jessy still needs to extend her Japan visa, but the location of her passport is currently unknown. [[jessy japan visa]]
+
 A rental car is not an option because Magis does not have a driving licence, so route planning must use public transport. [[Japan honeymoon cannot use a rental car]]
 
 Japanese-style accommodation is preferred when a cheap suitable option is available. [[Japan honeymoon prefers cheap Japanese-style stays]]
@@ -161,7 +163,8 @@ Economy Light does not include free advance regular-seat selection without quali
 Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 - a Jogashima day trip with a meal included;
-- visiting Shizuoka locations associated with Nadeshiko and *Yuru Camp*; and
+- visiting Shizuoka locations associated with Nadeshiko and *Yuru Camp*;
+- possibly visiting the Tokyo Atlas exhibition, whose details are not yet recorded; and [[exhibition in tokyo that we may visit during honeymoon trip]]
 - using a Riri Travel video for itinerary inspiration.
 
 ## Unresolved planning
@@ -176,6 +179,8 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
 - The 12h30 return layover in Hong Kong has no rest, lounge, hotel, or city-visit plan yet.
+- Jessy needs to find her passport and extend her Japan visa. [[jessy japan visa]]
+- The Tokyo Atlas exhibition needs identification, dates, and venue details before it can be placed in the itinerary. [[exhibition in tokyo that we may visit during honeymoon trip]]
 
 ## Sources
 
@@ -188,6 +193,8 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
+- [[jessy japan visa]]
+- [[exhibition in tokyo that we may visit during honeymoon trip]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
 - [Keikyu Haneda Airport Terminal 3 station and timetable](https://www.keikyu.co.jp/ride/kakueki/KK16.html)
