@@ -1,25 +1,42 @@
 # Japan November 2026
 
-This is the current plan for a Japan honeymoon centred on Shizuoka, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with the first night in Yokohama and the two-night Atami stay booked. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with accommodation booked in Yokohama for the arrival night, Yaizu for 20–22 November, and Atami for 22–24 November. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 ## Current state
 
-The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before the journey continues west to Shizuoka on 20 November. A central Atami Airbnb is booked for 22–24 November. The preferred route then makes a two-night coastal stay in Ito and returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before a two-night stay at Select Inn Yaizu Ekimae from 20 to 22 November for two people. A central Atami Airbnb is booked for 22–24 November. The preferred route then makes a two-night coastal stay in Ito and returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. Okuoikojo remains a priority despite its expensive and lengthy public-transport access. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
+
+Jessy's Japan visa was completed on 18 October 2026. The earlier visa blocker is resolved. [[jessy japan visa]] [[Jessy's Japan visa is complete]]
+
+A rental car is not an option because Magis does not have a driving licence, so route planning must use public transport. [[Japan honeymoon cannot use a rental car]]
+
+Japanese-style accommodation is preferred when a cheap suitable option is available. [[Japan honeymoon prefers cheap Japanese-style stays]]
 
 ## Booked accommodation
 
 | Dates | Accommodation | Status |
 | --- | --- | --- |
 | 19–20 Nov | Hotel LiVEMAX Yokohama Kannai | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
+| 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
 
 For the Tokyo stay, [Rumah Teman](https://www.instagram.com/rumahteman.jp/), owned by an upperclassman, is a possible accommodation but the arrangement is not confirmed. Transport planning currently assumes a Shinjuku-area location; the exact address and nearest station still need confirmation. [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
+
+## Yokohama accommodation options
+
+Two genuine Japanese-style options were found for two people from 26 to 28 November. Neither is booked. Prices were checked in October 2026 and may change.
+
+**Escale Yokohama** is the stronger comfort option at **¥21,800 total for two nights**. Its non-smoking Japanese room has eight tatami mats, 26 square metres of space, futons, a private toilet and washbasin, and access to a shared large bath. It is beside Motomachi-Chukagai Station and has enough room for the planned luggage. Availability was limited when checked. [Date-specific booking page](https://www.jhpds.net/rsv.escale-yokohama/uw/uwp3100/uww3101.do?yadNo=304200&stayYear=2026&stayMonth=11&stayDay=26&stayCount=2&roomCount=1&adultNum=2)
+
+**Yokohama Hostel Village** is the cheapest genuine Japanese-style option at **¥13,300 total for two nights**. Its private room uses tatami and futons, but three tatami mats provide only about five square metres. The shower and toilet are shared, and rooms may be on the fourth or fifth floor without an elevator. It is near Ishikawacho Station and within reach of BOOKOFF PLUS Yokohama Isezakicho, but the room would be difficult with two people and multiple suitcases. [Date-specific booking page](https://yhv.rwiths.net/r-withs/tfs0020a.do?hotelNo=49253&ciDateY=2026&ciDateM=11&ciDateD=26&coDateY=2026&coDateM=11&coDateD=28&room=1&otona=2&s1=0&s2=0&y1=0&y2=0&y3=0&y4=0&curPage=1&lowerCharge=0&upperCharge=9999999999&sort=1&f_lang=en)
+
+Escale is the recommended balance for the honeymoon. Hostel Village is the strict lowest-cost choice.
 
 ## Confirmed flights
 
@@ -41,8 +58,8 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | Date | Base or destination | Current intention |
 | --- | --- | --- |
 | Thu, 19 Nov | Yokohama | Arrive at Haneda at 21:15 on CX542; transfer to the booked Hotel LiVEMAX Yokohama Kannai |
-| Fri, 20 Nov | Shizuoka | Check out and travel from Yokohama to Shizuoka; try sakura ebi and Shizuoka oden |
-| Sat, 21 Nov | Shizuoka | Visit Okuoikojo Station |
+| Fri, 20 Nov | Yaizu | Check out and travel from Yokohama to the booked Select Inn Yaizu Ekimae; try sakura ebi and Shizuoka oden |
+| Sat, 21 Nov | Yaizu | Make the planned public-transport day trip to Okuoikojo Station from the booked Yaizu base |
 | Sun, 22 Nov | Atami | Move to Atami and check into the booked Airbnb at 15:00 |
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
 | Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and begin a two-night coastal stay with a ryokan preferred |
@@ -89,6 +106,28 @@ The main alternatives are:
 - the JR Yamanote Line to Nippori followed by the Keisei Skyliner, generally faster or cheaper than the direct Narita Express but requiring a transfer with luggage. [Airport Limousine Bus](https://www.limousinebus.co.jp/guide/en/) [Keisei airport routes](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/index.php)
 
 The final choice should be made after Rumah Teman's exact location is known. If it is genuinely convenient to Shinjuku Station, the direct Narita Express is the best balance of reliability and luggage handling; the Nippori–Skyliner route is the cost-focused alternative.
+
+## Okuoikojo day trip
+
+Okuoikojo is planned as the main activity for Saturday, 21 November. The Oigawa Main Line no longer runs through to Senzu because the section beyond Kawaneonsen-Sasamado remains closed after the 2022 typhoon damage. The workable public-transport route from the booked Yaizu hotel therefore combines JR, an Oigawa local train, the Kawanehon municipal bus, and the reservation-only Abt Line. [Oigawa Main Line status and timetable](https://daitetsu.jp/ft_main) [Kawanehon municipal bus](https://www.town.kawanehon.shizuoka.jp/kurashi_tetsuduki/10/3/13749.html) [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon cannot use a rental car]]
+
+The preferred Abt booking is the **¥6,500 Senzu–Okuoikojo return package, Course 2**. It uses the 10:05 departure from Senzu, reaches Okuoikojo at 11:12, returns at 13:09, and arrives back at Senzu at 14:20. This gives 1 hour 57 minutes at Okuoikojo and saves ¥500 against buying two ¥3,500 one-way sightseeing-train products. Course 2 is preferable to Course 1 because the inbound municipal bus reaches Senzu at 09:00, leaving a 65-minute buffer instead of only 15 minutes. The separate ¥6,800 guided nature package is not recommended unless the guided activity itself is wanted: it costs more and uses 30 minutes of the visit. [Official Abt timetable and return package](https://daitetsu.jp/abt#plan-kojo)
+
+The planned schedule is:
+
+| Time | Journey |
+| --- | --- |
+| 06:47–07:06 | JR Yaizu → Kanaya |
+| 07:24–07:56 | Oigawa Railway Kanaya → Ieyama |
+| 08:15–09:00 | Municipal bus Ieyama → Senzu |
+| 10:05–11:12 | Abt Line Senzu → Okuoikojo |
+| 11:12–13:09 | Walk to the viewpoint, visit, and return to the station |
+| 13:09–14:20 | Abt Line Okuoikojo → Senzu |
+| 14:35–15:20 | Municipal bus Senzu → Ieyama |
+| 15:43–16:16 | Oigawa Railway Ieyama → Kanaya |
+| 16:31–16:49 | JR Kanaya → Yaizu |
+
+The current total is **¥9,820 per person**: ¥660 for JR, ¥1,660 for the Oigawa Main Line, ¥1,000 for the municipal bus, and ¥6,500 for the Abt return package. The return package must be reserved online and is not yet booked. Its listed deadline is noon on 20 November, but autumn capacity may sell out earlier. Ticket screenshots should be saved before departure because mobile reception is poor around Okuoikojo. The municipal bus takes cash and its connections with Oigawa trains are not guaranteed. The 14:20 arrival at Senzu leaves 15 minutes for the 14:35 bus; missing it would mean waiting for the 17:45 bus. Train status and timetables need a final check shortly before travel. [Official Abt booking information](https://daitetsu.jp/abt#plan-kojo) [Combined railway and bus timetable](https://www.town.kawanehon.shizuoka.jp/material/files/group/18/zikokuhyosogo20260701.pdf)
 
 ## Luggage
 
@@ -157,22 +196,35 @@ Economy Light does not include free advance regular-seat selection without quali
 Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 
 - a Jogashima day trip with a meal included;
-- visiting Shizuoka locations associated with Nadeshiko and *Yuru Camp*; and
+- visiting Shizuoka locations associated with Nadeshiko and *Yuru Camp*;
+- possibly visiting the Tokyo Atlas exhibition, whose details are not yet recorded; and [[exhibition in tokyo that we may visit during honeymoon trip]]
 - using a Riri Travel video for itinerary inspiration.
+
+The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) list contains 39 inspiration places. They are candidates, not confirmed itinerary stops. [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
+
+- **Shizuoka:** Bandai Hobby Center Plamo Design Industrial Institute, Smart Aquarium Shizuoka, Pikkuappu Shizuoka Toroten, Miho no Matsubara, Shizuoka City Serizawa Keisuke Art Museum, Sumpu Castle Park, Toro Archaeological Site, Sumpu Museum, and Suruga-ya Main Store.
+- **Okuoikojo route:** Nagashima Dam, Minami Alps Sesso Otsuribashi, Okuoikojo Station and its observatory, Yanbai Dokoro, Kawane Bussan, and Uemaru.
+- **Atami:** Kinomiya Shrine, Osakana Dai Shokudo, Kosawa-no-Yu, Hashiri-yu, ACAO Forest, MOA Museum of Art, and Atami Sun Beach.
+- **Ito and Izu:** Jogasaki Coast and Yamamoto Shokuhin Izu Wasabi Museum.
+- **Yokohama:** Hands Yokohama, Wattmann, and the Book Off Super Bazaar stores at Yokohama Seya Minamidai and Higashi-Totsuka Olympic.
+- **Tokyo:** Printing Museum, Sano Miso Kameido, Yanaka Ginza, Statue of Tora and Sakura, Tora-san Museum, Yayoi Kusama Museum, and the National Museum of Modern Art.
+- **Longer detours:** Shiraito Falls, Shosenkyo Ropeway, and Okada Museum of Art.
 
 ## Unresolved planning
 
-- Accommodation remains unbooked for Shizuoka, Ito, the later Yokohama stay, and Tokyo.
+- Accommodation remains unbooked for Ito, the later Yokohama stay, and Tokyo.
 - The possible Tokyo stay at Rumah Teman is unconfirmed, and its exact address and nearest station are not recorded.
 - Haruhira Maru is the preferred Ito accommodation for 24–26 November but remains unbooked; the meal plan also needs to be selected.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
-- Access timing for Okuoikojo Station needs to be fitted around the Shizuoka stay.
+- The ¥6,500 Okuoikojo return package still needs to be booked, and all operating times need a final disruption check shortly before 21 November.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
 - The 12h30 return layover in Hong Kong has no rest, lounge, hotel, or city-visit plan yet.
+- The Tokyo Atlas exhibition needs identification, dates, and venue details before it can be placed in the itinerary. [[exhibition in tokyo that we may visit during honeymoon trip]]
+- The shared-map candidates need prioritization against available time and transport. [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 
 ## Sources
 
@@ -180,11 +232,17 @@ Ideas not yet placed firmly in the dated itinerary include: [[japan honeymoon]]
 - [[Japan honeymoon flights confirmed for November 2026]]
 - [[Japan honeymoon ryokan budget and bath preference]]
 - [[Japan honeymoon luggage plan]]
+- [[Japan honeymoon prefers cheap Japanese-style stays]]
 - [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
+- [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
 - [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
+- [[jessy japan visa]]
+- [[Jessy's Japan visa is complete]]
+- [[exhibition in tokyo that we may visit during honeymoon trip]]
+- [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 - [Official Atami Marine Fireworks information](https://www.ataminews.gr.jp/event/8/)
 - [Official Mt. Fuji–Shizuoka Area Tourist Pass Mini coverage](https://touristpass.jp/en/fuji_shizuoka/)
 - [Keikyu Haneda Airport Terminal 3 station and timetable](https://www.keikyu.co.jp/ride/kakueki/KK16.html)

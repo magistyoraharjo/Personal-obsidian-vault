@@ -1,0 +1,6 @@
+- wina dan anak yuri temen jessy kuliah
+- bibil dan suami (mungkin mau cerai)
+- dan anak bibil
+- nadia dan jojo sudah pindah dari jerman 
+- sekarang mereka juga lagi membangun perusahaannya
+- perusahaannya bikin alat kue mass produce, harga per item 250jt up
