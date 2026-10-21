@@ -26,6 +26,8 @@ Japanese-style accommodation is preferred when a cheap suitable option is availa
 | 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
 
+For the Tokyo stay, [Rumah Teman](https://www.instagram.com/rumahteman.jp/), owned by an upperclassman, is a possible accommodation but the arrangement is not confirmed. Transport planning currently assumes a Shinjuku-area location; the exact address and nearest station still need confirmation. [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
+
 ## Yokohama accommodation options
 
 Two genuine Japanese-style options were found for two people from 26 to 28 November. Neither is booked. Prices were checked in October 2026 and may change.
@@ -92,6 +94,19 @@ The three-day **Mt. Fuji–Shizuoka Area Tourist Pass Mini** costs ¥6,500 per a
 
 The proposed Tokyo subway bundle needs checking because the itinerary mentions Metro travel on 29 November but the Narita journey occurs on 1 December. Ito-area transport also needs to be assessed after its coastal sights are selected. [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
+### Shinjuku to Narita Airport
+
+If the Tokyo stay is near Shinjuku, the **Narita Express from Shinjuku Station directly to Narita Airport Terminal 2** is the preferred departure route. It avoids transfers and provides reserved seating and luggage space, which is valuable because the couple expects to have two large suitcases by this point. Typical journey time is roughly 80–90 minutes, but the November 2026 timetable and fare should be confirmed after the Tokyo accommodation is settled. [JR East Narita Express](https://www.jreast.co.jp/multi/en/nex/) [[Japan honeymoon luggage plan]] [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
+
+For the 21:30 international departure on 1 December, the working target is to reach Terminal 2 at about 18:30. A Narita Express departure from Shinjuku around 16:30–17:00 should provide an appropriate margin, subject to the final timetable and the travel time from the accommodation to Shinjuku Station.
+
+The main alternatives are:
+
+- an Airport Limousine Bus from Shinjuku or a nearby hotel, potentially easier if its stop is close to the accommodation but more exposed to road delays; and
+- the JR Yamanote Line to Nippori followed by the Keisei Skyliner, generally faster or cheaper than the direct Narita Express but requiring a transfer with luggage. [Airport Limousine Bus](https://www.limousinebus.co.jp/guide/en/) [Keisei airport routes](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/index.php)
+
+The final choice should be made after Rumah Teman's exact location is known. If it is genuinely convenient to Shinjuku Station, the direct Narita Express is the best balance of reliability and luggage handling; the Nippori–Skyliner route is the cost-focused alternative.
+
 ## Okuoikojo day trip
 
 Okuoikojo is planned as the main activity for Saturday, 21 November. The Oigawa Main Line no longer runs through to Senzu because the section beyond Kawaneonsen-Sasamado remains closed after the 2022 typhoon damage. The workable public-transport route from the booked Yaizu hotel therefore combines JR, an Oigawa local train, the Kawanehon municipal bus, and the reservation-only Abt Line. [Oigawa Main Line status and timetable](https://daitetsu.jp/ft_main) [Kawanehon municipal bus](https://www.town.kawanehon.shizuoka.jp/kurashi_tetsuduki/10/3/13749.html) [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon cannot use a rental car]]
@@ -122,7 +137,25 @@ The outbound luggage plan is to use one shared large suitcase for both traveller
 
 ### Current need: Ito
 
-The preferred plan is now a two-night Ito stay that combines coastal exploration with a ryokan. No qualifying Ito ryokan has yet been researched against the preferred ¥20,000 total budget or the ¥30,000 half-board ceiling. [[Japan honeymoon ryokan budget and bath preference]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The preferred plan is now a two-night Ito stay that combines coastal exploration with a ryokan. **Haruhira Maru (はるひら丸)** is the current preferred accommodation and was showing availability for 24–26 November when checked on 9 October 2026. It fits the per-night budget, but it has not been booked and the meal plan remains undecided. [[Japan honeymoon ryokan budget and bath preference]] [[Japan honeymoon prefers two nights in Ito with a ryokan]] [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
+
+### Current candidate: Haruhira Maru, Ito
+
+Haruhira Maru is a small onsen minshuku opposite Orange Beach, about ten minutes on foot from Ito Station. Free station pickup is available by advance request. Its Japanese-style 8–10 tatami rooms have toilets, Wi-Fi, ocean views, and are non-smoking. The rooms are on the third and fourth floors and **there is no elevator**, which is the main drawback given the large suitcase. [Official access](https://haruhiramaru.com/access.html) [Date-specific Rakuten listing](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/67965?f_nen1=2026&f_tuki1=11&f_hi1=24&f_nen2=2026&f_tuki2=11&f_hi2=26&f_heya_su=1&f_otona_su=2&f_flg=PLAN) [[Japan honeymoon luggage plan]]
+
+Rakuten displayed the following two-night prices for two adults on 9 October 2026. Each plan indicates an additional bathing tax of ¥300 per adult, making the expected totals ¥600 higher than the displayed prices.
+
+| Plan | Displayed two-night total | Expected total with bathing tax | Assessment |
+| --- | ---: | ---: | --- |
+| Room only | ¥22,000 | ¥22,600 | Cheapest and leaves both evenings free |
+| Breakfast | ¥27,280 | ¥27,880 | Within the ¥30,000 reference point and leaves evenings free |
+| Economical dinner and breakfast | ¥36,080 | ¥36,680 | ¥18,040 per night before tax, within the preferred ¥20,000 per-night budget |
+
+The economical half-board plan is the best match for the desired ryokan experience and budget. Dinner is a daily set meal using seafood, with examples including sashimi and tempura or simmered kinmedai; breakfast is Japanese style. Dinner begins at 18:00 or 18:30, so taking dinner on both nights would constrain evening exploration. Prices and the five-room availability shown when checked can change before booking. [Date-specific Rakuten listing](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/67965?f_nen1=2026&f_tuki1=11&f_hi1=24&f_nen2=2026&f_tuki2=11&f_hi2=26&f_heya_su=1&f_otona_su=2&f_flg=PLAN)
+
+The property has two shared, free-flowing Ito onsen baths, with the third-floor and fourth-floor baths assigned by gender at different times. No private bath is advertised. This exceeds the minimum bath requirement, but it is suitable only if communal bathing is acceptable. [Official bath and room information](https://haruhiramaru.com/onsen.html) [[Japan honeymoon ryokan budget and bath preference]]
+
+Overall, Haruhira Maru is a strong practical choice for Ito: it combines an ocean-view tatami room, seafood meals, genuine onsen, beach access, and station proximity at the right per-night price. The decision depends mainly on accepting the communal baths, stairs with luggage, fixed dinner times, and a simple minshuku atmosphere rather than an upscale ryokan. If booked, requesting station pickup would reduce the luggage burden.
 
 The earlier options below were checked on 5 September 2026 for two adults and one night. Their availability and prices may change before booking.
 
@@ -180,7 +213,8 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 ## Unresolved planning
 
 - Accommodation remains unbooked for Ito, the later Yokohama stay, and Tokyo.
-- An Ito ryokan needs to be found for 24–26 November within the established budget; the earlier Kawaguchiko option no longer fits the preferred route.
+- The possible Tokyo stay at Rumah Teman is unconfirmed, and its exact address and nearest station are not recorded.
+- Haruhira Maru is the preferred Ito accommodation for 24–26 November but remains unbooked; the meal plan also needs to be selected.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
@@ -203,6 +237,8 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]]
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
+- [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
+- [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
 - [[jessy japan visa]]
 - [[Jessy's Japan visa is complete]]
 - [[exhibition in tokyo that we may visit during honeymoon trip]]
