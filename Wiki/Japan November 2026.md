@@ -8,7 +8,7 @@ The confirmed journey enters Japan through Haneda late on 19 November and leaves
 
 The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. Okuoikojo remains a priority despite its expensive and lengthy public-transport access. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
+For one ryokan night, the preferred budget is ¥20,000 total for two people. The maximum can increase to ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
@@ -22,7 +22,7 @@ Japanese-style accommodation is preferred when a cheap suitable option is availa
 
 | Dates | Accommodation | Status |
 | --- | --- | --- |
-| 19–20 Nov | Hotel LiVEMAX Yokohama Kannai | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
+| 19–20 Nov | [Hotel LiVEMAX Yokohama Kannai](https://maps.app.goo.gl/uBNWEXPxXNTyYmrp7) | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
 | 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
 
@@ -40,7 +40,7 @@ Escale is the recommended balance for the honeymoon. Hostel Village is the stric
 
 ## Confirmed flights
 
-All four sectors are confirmed in Cathay Pacific Economy Light, booking class Q. Each passenger may check one bag of up to 23 kg and 158 linear centimetres. [[Japan honeymoon flights confirmed for November 2026]]
+All four sectors are confirmed in Cathay Pacific Economy Light, booking class Q and fare basis QD21IJAU. Each passenger may check one bag of up to 23 kg and 158 linear centimetres. [[Japan honeymoon flights confirmed for November 2026]]
 
 | Date | Flight | Route | Local time | Notes |
 | --- | --- | --- | --- | --- |
