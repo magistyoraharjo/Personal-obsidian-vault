@@ -50,7 +50,25 @@ All four sectors are confirmed in Cathay Pacific Economy Light, booking class Q 
 | 1–2 December | CX501 | Narita T2 → Hong Kong T1 | 21:30–02:00 | Arrives the following day |
 | 2 December | CX779 | Hong Kong T1 → Surabaya T2 | 14:30–18:20 | 12h30 connection in Hong Kong |
 
-The outbound Hong Kong connection is substantially shorter than the return connection. Staying toward the front of the Economy cabin on CX780 would provide some extra transfer margin. The return layover is long enough that a rest or Hong Kong transit plan will be useful.
+The outbound Hong Kong connection is substantially shorter than the return connection. Staying toward the front of the Economy cabin on CX780 would provide some extra transfer margin. The return layover now has a self-guided morning city plan. [[Japan honeymoon return layover will include a self-guided Hong Kong visit]]
+
+### Hong Kong return layover
+
+The selected plan for Wednesday, 2 December is to enter Hong Kong and make a short self-guided visit rather than stay in the airport. Indonesian passport holders currently receive up to 30 days of visa-free visitor entry, subject to normal immigration discretion; this should be rechecked before departure. [Hong Kong Immigration Department](https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html) [[Japan honeymoon return layover will include a self-guided Hong Kong visit]]
+
+| Time | Plan |
+| --- | --- |
+| 02:00 | CX501 arrives; clear immigration, then rest until rail service begins |
+| 05:54–06:18 | First Airport Express from the airport to Hong Kong Station |
+| 06:30–07:30 | Victoria Harbour and Star Ferry |
+| 07:45–08:30 | Local breakfast |
+| 08:30–10:00 | Choose the Peak and Peak Tram, or Man Mo Temple and Central |
+| About 10:30–10:54 | Airport Express back to the airport |
+| 14:30 | CX779 departs for Surabaya |
+
+The Airport Express takes about 24 minutes between the airport and Hong Kong Station. A same-day airport round trip includes the return journey free when the same Octopus, eligible contactless bank card, QR code, or same-day return ticket is used under MTR's conditions. If using a contactless card or wallet QR, that payment method should not be used for other transport between the two Airport Express rides. [Airport Express timetable](https://www.mtr.com.hk/en/customer/services/timetable_index.html) [Same-day return offer](https://www.mtr.com.hk/en/customer/services/complom_return.html)
+
+HKIA offers free layover tours, but the earliest listed tour runs from 10:00 to 14:00 and therefore does not provide a safe margin for the 14:30 departure. A self-guided visit is the better fit. The city visit depends on the checked baggage continuing to Surabaya and both onward boarding passes being available. If CX501 arrives materially late, the safe fallback is to remain at the airport. The return target is no later than about 11:00. [HKIA free layover tours](https://www.hongkongairport.com/en/free-layover-tour.page)
 
 ## Draft itinerary
 
@@ -224,7 +242,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
-- The 12h30 return layover in Hong Kong has no rest, lounge, hotel, or city-visit plan yet.
+- The Hong Kong return layover has a self-guided city plan, but the Peak versus Man Mo Temple choice remains open; through-checked baggage, onward boarding passes, entry rules, and live transport times need confirmation before travel.
 - The Tokyo Atlas exhibition needs identification, dates, and venue details before it can be placed in the itinerary. [[exhibition in tokyo that we may visit during honeymoon trip]]
 - The shared-map candidates need prioritization against available time and transport. [[Japan honeymoon Yuru Camp shared map is an inspiration list]]
 
@@ -241,6 +259,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]]
 - [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]]
+- [[Japan honeymoon return layover will include a self-guided Hong Kong visit]]
 - [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
 - [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
 - [[jessy japan visa]]
