@@ -1,6 +1,6 @@
 # Japan November 2026
 
-This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with accommodation booked in Yokohama for the arrival night, Yaizu for 20–22 November, Atami for 22–24 November, and Ito for 24–26 November. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[japan honeymoon]]
+This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with accommodation booked in Yokohama for the arrival night, Yaizu for 20–22 November, Atami for 22–24 November, and Ito for 24–26 November. The Okuoikojo nature game trip is also booked for 21 November. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] [[japan honeymoon]]
 
 ## Current state
 
@@ -60,7 +60,7 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | --- | --- | --- |
 | Thu, 19 Nov | Yokohama | Arrive at Haneda at 21:15 on CX542; transfer to the booked Hotel LiVEMAX Yokohama Kannai |
 | Fri, 20 Nov | Yaizu | Check out and travel from Yokohama to the booked Select Inn Yaizu Ekimae; try sakura ebi and Shizuoka oden |
-| Sat, 21 Nov | Yaizu | Make the planned public-transport day trip to Okuoikojo Station from the booked Yaizu base |
+| Sat, 21 Nov | Yaizu | Take the booked 10:05 Senzu–Okuoikojo train, join the nature game, return at 13:09, and allow time at Senzu for the planned *Yuru Camp* food stops before returning to Yaizu [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] |
 | Sun, 22 Nov | Atami | Move to Atami and check into the booked Airbnb at 15:00 |
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
 | Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and check into K's House Ito Onsen |
@@ -112,7 +112,7 @@ The final choice should be made after Rumah Teman's exact location is known. If 
 
 Okuoikojo is planned as the main activity for Saturday, 21 November. The Oigawa Main Line no longer runs through to Senzu because the section beyond Kawaneonsen-Sasamado remains closed after the 2022 typhoon damage. The workable public-transport route from the booked Yaizu hotel therefore combines JR, an Oigawa local train, the Kawanehon municipal bus, and the reservation-only Abt Line. [Oigawa Main Line status and timetable](https://daitetsu.jp/ft_main) [Kawanehon municipal bus](https://www.town.kawanehon.shizuoka.jp/kurashi_tetsuduki/10/3/13749.html) [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon cannot use a rental car]]
 
-The preferred Abt booking is the **¥6,500 Senzu–Okuoikojo return package, Course 2**. It uses the 10:05 departure from Senzu, reaches Okuoikojo at 11:12, returns at 13:09, and arrives back at Senzu at 14:20. This gives 1 hour 57 minutes at Okuoikojo and saves ¥500 against buying two ¥3,500 one-way sightseeing-train products. Course 2 is preferable to Course 1 because the inbound municipal bus reaches Senzu at 09:00, leaving a 65-minute buffer instead of only 15 minutes. The separate ¥6,800 guided nature package is not recommended unless the guided activity itself is wanted: it costs more and uses 30 minutes of the visit. [Official Abt timetable and return package](https://daitetsu.jp/abt#plan-kojo)
+The **Senzu–Okuoikojo guided nature game plan, Course 2**, is booked for two adults at **¥13,600 total**. It uses train 471 from Senzu at 10:05, reaches Okuoikojo at 11:12, includes the guided nature game from 11:20 to 11:50, and leaves about 1 hour 15 minutes of free time. The return is train 272 at 13:09, arriving at Senzu at 14:20. [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] [Official Abt information](https://daitetsu.jp/abt)
 
 The planned schedule is:
 
@@ -122,13 +122,15 @@ The planned schedule is:
 | 07:24–07:56 | Oigawa Railway Kanaya → Ieyama |
 | 08:15–09:00 | Municipal bus Ieyama → Senzu |
 | 10:05–11:12 | Abt Line Senzu → Okuoikojo |
-| 11:12–13:09 | Walk to the viewpoint, visit, and return to the station |
+| 11:20–11:50 | Guided nature game near the station lodge |
+| 11:50–13:09 | Free time for the viewpoint and station area |
 | 13:09–14:20 | Abt Line Okuoikojo → Senzu |
-| 14:35–15:20 | Municipal bus Senzu → Ieyama |
-| 15:43–16:16 | Oigawa Railway Ieyama → Kanaya |
-| 16:31–16:49 | JR Kanaya → Yaizu |
+| 14:20–17:35 | Senzu food and station-area time; planned stops are the pork skewer opposite the station and Nagashima Dam Curry at cafe Uemaru |
+| 17:45–18:30 | Municipal bus Senzu → Ieyama |
+| 18:48–19:24 | Oigawa Railway Ieyama → Kanaya |
+| After 19:24 | JR Kanaya → Yaizu; exact connection needs a final timetable check |
 
-The current total is **¥9,820 per person**: ¥660 for JR, ¥1,660 for the Oigawa Main Line, ¥1,000 for the municipal bus, and ¥6,500 for the Abt return package. The return package must be reserved online and is not yet booked. Its listed deadline is noon on 20 November, but autumn capacity may sell out earlier. Ticket screenshots should be saved before departure because mobile reception is poor around Okuoikojo. The municipal bus takes cash and its connections with Oigawa trains are not guaranteed. The 14:20 arrival at Senzu leaves 15 minutes for the 14:35 bus; missing it would mean waiting for the 17:45 bus. Train status and timetables need a final check shortly before travel. [Official Abt booking information](https://daitetsu.jp/abt#plan-kojo) [Combined railway and bus timetable](https://www.town.kawanehon.shizuoka.jp/material/files/group/18/zikokuhyosogo20260701.pdf)
+The current transport and activity estimate is **¥10,120 per person**: ¥660 for JR, ¥1,660 for the Oigawa Main Line, ¥1,000 for the municipal bus, and ¥6,800 for the booked Abt nature game plan. Food is additional. The plan intentionally skips the 14:35 bus and uses the 17:45 bus so there is time for the Senzu food stops. Cafe Uemaru is expected to take last orders at 16:00, so the dam curry should come before later station-area exploration. The pork-skewer vendor's operating hours still need confirmation. Ticket screenshots should be saved before departure because mobile reception is poor around Okuoikojo, although the station provides free Wi-Fi. The municipal bus takes cash and its connections with Oigawa trains are not guaranteed. Train status, food opening hours, and timetables need a final check shortly before travel. [Official Abt information](https://daitetsu.jp/abt) [Combined railway and bus timetable](https://www.town.kawanehon.shizuoka.jp/material/files/group/18/zikokuhyosogo20260701.pdf)
 
 ## Luggage
 
@@ -218,7 +220,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
 - The live Keikyu timetable should be rechecked before the late transfer from Haneda to Hinodecho.
-- The ¥6,500 Okuoikojo return package still needs to be booked, and all operating times need a final disruption check shortly before 21 November.
+- The Okuoikojo trip is booked, but railway and bus operations need a final disruption check shortly before 21 November; the Senzu food stops also need current opening-hour confirmation.
 - The timing and location of the suitcase purchase, and luggage handling between several short stays, are not planned.
 - The Jogashima and *Yuru Camp* ideas have no assigned dates.
 - Exact aircraft variants and available seats require the live Cathay seat-selection maps.
@@ -238,6 +240,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]]
+- [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]]
 - [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
 - [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
 - [[jessy japan visa]]
