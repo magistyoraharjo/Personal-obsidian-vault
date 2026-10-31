@@ -1,6 +1,6 @@
 # PT Timboel ERPNext Operations
 
-PT Timboel's ERPNext operations use projects, tasks, material requests, stock entries, bills of materials, and Work Orders to manage production. A Work Order is the authoritative trigger to start production. [[PT Timboel production starts with a Work Order]]
+PT Timboel's ERPNext operations use Sales Orders, stock reservations, Material Requests, Production Plans, Work Orders, stock entries, projects, tasks, and bills of materials. A Work Order is the authoritative trigger to start production. [[PT Timboel production starts with a Work Order]]
 
 ## Operational Model
 
@@ -12,13 +12,17 @@ The proposed daily task-administration routine prioritizes blocked tasks, then a
 
 Production starts only when a Work Order is created. [[PT Timboel production starts with a Work Order]]
 
-Materials needed for a project are requested through Material Requests. [[Timboel ERPNext Workflow]] The required process between Sales Order confirmation, Material Requests, stock movements, and Work Order creation is not yet established. [[Friday, 03-4-2026 15꞉31꞉13 pembenaran system erpnext wiki]]
+Materials needed for a project are requested through Material Requests. [[Timboel ERPNext Workflow]]
+
+Customer-order fulfillment now has a planned architecture. Sales Order holds demand. Stock Reservation assigns available goods. Material Request records missing supply. Production Plan handles manufacturing planning. Work Order starts production. [[PT Timboel Sales Order Fulfillment]]
 
 ## Inventory
 
 The defined warehouses are Showroom Tanli, Molding, Packing, Finished Goods, Raw Material, and Production. [[Timboel ERPNext Workflow]]
 
 Stock Entries distinguish material receipt, material issue, material transfer, and manufacture. A project material issue requires both accounting dimensions and a recipient. [[Timboel ERPNext Workflow]]
+
+Finished goods stay in real warehouses. Stock Reservation, not a virtual Shipping warehouse, assigns stock to a customer Sales Order. [[PT Timboel uses stock reservation instead of a shipping warehouse]]
 
 ## Bills Of Materials
 
@@ -34,12 +38,14 @@ Molding codes follow a `3-8-3` structure: process prefix, ERPNext model code, an
 
 ## Open Decisions
 
-- After a Sales Order is confirmed, the required sequence for stock transfer versus delivery, Material Requests, production readiness, and Work Order creation remains undefined. The Work Order is confirmed as the production trigger, but its prerequisites are not yet established. [[Friday, 03-4-2026 15꞉31꞉13 pembenaran system erpnext wiki]] [[PT Timboel production starts with a Work Order]]
+- Fulfillment quantity reconciliation, ERPNext v15 Stock Reservation behavior, Sales Order cancellation cleanup, and subcontracting integration still need testing or design. [[PT Timboel Sales Order Fulfillment]]
 - Task scheduling policy remains unsettled between assigning an Expected Start Date only to the next actionable task or to every task. [[Wednesday, 17-6-2026 09꞉47꞉50]]
 
 ## Historical Context
 
 An earlier proposal called unfinished goods `MTH-` codes. It has been superseded by the confirmed type-specific convention. [[How the bom should be made]] [[PT Timboel intermediate item prefixes are type-specific]]
+
+An older note left the Sales Order-to-production flow undefined. Current plan resolves main document roles but keeps technical reconciliation open. [[Friday, 03-4-2026 15꞉31꞉13 pembenaran system erpnext wiki]] [[PT Timboel Sales Order Fulfillment]]
 
 ## Sources
 
@@ -51,3 +57,4 @@ An earlier proposal called unfinished goods `MTH-` codes. It has been superseded
 - [[Menentukan format kode molding]]
 - [[Wednesday, 17-6-2026 09꞉47꞉50]]
 - [[PT Timboel intermediate item prefixes are type-specific]]
+- [[PT Timboel Sales Order Fulfillment]]
