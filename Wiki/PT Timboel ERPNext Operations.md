@@ -14,7 +14,7 @@ Production starts only when a Work Order is created. [[PT Timboel production sta
 
 Materials needed for a project are requested through Material Requests. [[Timboel ERPNext Workflow]]
 
-Customer-order fulfillment now has a planned architecture. Sales Order holds demand. Stock Reservation assigns available goods. Material Request records missing supply. Production Plan handles manufacturing planning. Work Order starts production. [[PT Timboel Sales Order Fulfillment]]
+Customer-order fulfillment now has a planned architecture. Sales Order holds demand. Stock Reservation assigns available goods. Material Request records missing supply. Production Plan gets submitted Manufacture Material Requests, may batch several Sales Orders, and creates customer-specific Work Orders. Work Order starts production, while Manufacture Stock Entry records material consumption and finished stock. [[PT Timboel Sales Order Fulfillment]] [[PT Timboel Production Plans source Manufacture Material Requests only]] [[PT Timboel Work Orders retain customer identity]]
 
 ## Inventory
 
@@ -58,3 +58,5 @@ An older note left the Sales Order-to-production flow undefined. Current plan re
 - [[Wednesday, 17-6-2026 09꞉47꞉50]]
 - [[PT Timboel intermediate item prefixes are type-specific]]
 - [[PT Timboel Sales Order Fulfillment]]
+- [[PT Timboel Production Plans source Manufacture Material Requests only]]
+- [[PT Timboel Work Orders retain customer identity]]

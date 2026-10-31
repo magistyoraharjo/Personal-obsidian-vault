@@ -54,9 +54,13 @@ Material Request is common start for missing supply:
 
 Draft request means tentative plan. Submitted request means approved need. Neither means item is complete or available. Cancelled request does not count. [[PT Timboel Material Request is the supply requirement master]]
 
-Production Plan should source Manufacture Material Requests, not Sales Orders. It keeps native BOM explosion, material planning, consolidation, and Work Order creation. Work Order remains actual production trigger. [[PT Timboel manufacturing planning starts from Material Requests]] [[PT Timboel production starts with a Work Order]]
+Production ends when a submitted Manufacture Stock Entry consumes materials and places the finished Item in its target Warehouse. Work Order authorizes and tracks that execution. Production Plan is an upstream planning tool: it organizes demand, checks material requirements, and creates Work Orders.
 
-Restricting Production Plan's source selector to Material Request is proposed, not built. Client Script can restrict UI. Server validation is needed if API and integration calls must also obey rule.
+Production Plans must source submitted Manufacture Material Requests, not Sales Orders directly. This prevents reserved finished stock from becoming duplicate production demand and keeps Material Request as the single record of missing supply. Each Manufacture Material Request Item should retain its Sales Order Item link. [[PT Timboel manufacturing planning starts from Material Requests]] [[PT Timboel Production Plans source Manufacture Material Requests only]]
+
+One Production Plan may batch Manufacture Material Requests from several Sales Orders. PT Timboel still identifies work in progress by customer, so different customers must remain in separate Work Orders. Do not combine their production items into one Work Order. This batches planning without losing customer identity during execution. [[PT Timboel Work Orders retain customer identity]] [[PT Timboel production starts with a Work Order]]
+
+The source restriction and customer-specific Work Order rule are confirmed operating decisions but are not yet enforced in ERPNext. Client Script can hide the direct Sales Order source and item-combining options. Server validation is needed if API and integration calls must also obey these rules.
 
 ## Quantity Logic
 
@@ -87,8 +91,8 @@ Next build uses:
 - Sales Order custom HTML field `custom_fulfillment_html`;
 - Sales Order Client Script for display and actions;
 - API Server Script for loading, reconciliation, draft Material Request creation, and native stock reservation;
-- optional Production Plan Client Script to prefer Material Request;
-- optional server validation against overplanning and unsupported Production Plan sources.
+- Production Plan Client Script to use submitted Manufacture Material Requests and keep customer demand separate;
+- server validation against overplanning, unsupported Production Plan sources, and cross-customer Work Order combining.
 
 Do not auto-submit purchase or manufacturing documents. Keep native permissions. Test on staging first. Old `timboel_fulfillment_v0_1.zip` must not be installed unchanged. [[PT Timboel Sales Order Fulfillment tab is the next ERPNext build]]
 
@@ -113,6 +117,8 @@ Subcontracting path is still open. Simplified Purchase Order buttons may hide st
 - [[PT Timboel uses stock reservation instead of a shipping warehouse]]
 - [[PT Timboel fulfillment supports mixed supply methods]]
 - [[PT Timboel manufacturing planning starts from Material Requests]]
+- [[PT Timboel Production Plans source Manufacture Material Requests only]]
+- [[PT Timboel Work Orders retain customer identity]]
 - [[PT Timboel fulfillment uses native ERPNext records]]
 - [[PT Timboel fulfillment quantity reconciliation remains unresolved]]
 - [[PT Timboel subcontracting fulfillment flow remains unresolved]]
