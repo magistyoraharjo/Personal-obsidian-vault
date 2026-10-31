@@ -30,6 +30,8 @@ A BOM should record materials that cost at least 3% of HPP or that materially af
 
 Legacy product BOM creation is constrained mainly by quantity accuracy, not by identifying major materials. Many products predate ERPNext, and consumption such as paint per pot was never measured. Reliable major-material quantities generally must be learned from a production run. This requires a provisional first-run BOM and a feedback step that revises the BOM from observed consumption. Low-value unmeasured consumables can remain operational cost under the existing inclusion policy. The exact first-run recording method remains unresolved. [[PT Timboel legacy products lack verified material quantities]]
 
+Future BOM-learning automation should average actual material consumption across several production runs rather than revise the BOM from one run. This is a pinned direction, not part of the current implementation scope. [[PT Timboel BOM learning averages several production runs]]
+
 Product families have multi-step and outsourced-processing BOM patterns. [[How the bom should be made]]
 
 Intermediate items use type-specific prefixes: `KAY-`, `COR-`, and `FRM-`. [[PT Timboel intermediate item prefixes are type-specific]]
@@ -64,3 +66,4 @@ An older note left the Sales Order-to-production flow undefined. Current plan re
 - [[PT Timboel Production Plans source Manufacture Material Requests only]]
 - [[PT Timboel Work Orders retain customer identity]]
 - [[PT Timboel legacy products lack verified material quantities]]
+- [[PT Timboel BOM learning averages several production runs]]
