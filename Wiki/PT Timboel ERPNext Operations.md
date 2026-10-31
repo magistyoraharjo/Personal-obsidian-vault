@@ -30,11 +30,13 @@ A BOM should record materials that cost at least 3% of HPP or that materially af
 
 Legacy product BOM creation is constrained mainly by quantity accuracy, not by identifying major materials. Many products predate ERPNext, and consumption such as paint per pot was never measured. Reliable major-material quantities generally must be learned from production runs. This requires a provisional first-run BOM and a feedback step that revises the BOM from observed consumption. Low-value unmeasured consumables can remain operational cost under the existing inclusion policy. [[PT Timboel legacy products lack verified material quantities]]
 
-The accepted bootstrap is a submitted **Learning BOM** containing one dedicated zero-cost placeholder material. This allows Production Plan and Work Order creation before material quantities are known. Material planning for these first runs is intentionally not useful. The placeholder should be a non-stock Item excluded from manufacturing, and a separate BOM status should identify the Learning BOM explicitly. [[PT Timboel accepts Learning BOMs without useful first-run material planning]]
+The accepted bootstrap is a system-generated submitted **Shell BOM** containing one dedicated zero-cost non-stock placeholder material and an explicit Shell status. It exists only to let the first Production Plan and customer-specific Work Order exist. Because ERPNext excludes the non-stock placeholder from Work Order material requirements, this first Work Order supports scheduling and customer identity but not useful material planning, generated component transfers, or normal component tracking. [[PT Timboel uses one-run Shell BOM before automated Provisional BOM]]
 
-Server validation must prevent submission of a Manufacture Stock Entry for a Learning BOM unless it contains real raw-material source rows, and must reject the placeholder if it appears. The actual rows become the learning input. After several runs, automation should create a real revised Draft BOM for Production Head review. The Learning BOM must not silently become a normal production BOM. [[PT Timboel BOM learning uses Manufacture Stock Entries]] [[PT Timboel BOM learning averages several production runs]]
+Server validation must prevent submission of the Shell Work Order's Manufacture Stock Entry unless it contains real raw-material source rows. The placeholder must never enter stock or valuation. The actual rows become the learning input and should immediately generate a real **Provisional BOM** draft. Production Head reviews and submits that draft; staff record actual consumption but do not construct BOMs manually. Once the Provisional BOM becomes active and default, new Work Orders must stop using the Shell BOM. Deactivate the Shell BOM after its open Work Order finishes. [[PT Timboel BOM learning uses Manufacture Stock Entries]] [[PT Timboel staff record consumption but do not build BOMs manually]]
 
-Future BOM-learning automation should read actual raw-material quantities from submitted Manufacture Stock Entries linked to Work Orders. Material transfers to work in progress are not consumption, while unused materials are returned separately. The system should average normalized consumption across several production runs, then create a revised Draft BOM for Production Head review rather than modify an active BOM automatically. This is a pinned direction, not part of the current implementation scope. [[PT Timboel BOM learning uses Manufacture Stock Entries]] [[PT Timboel BOM learning averages several production runs]]
+Subsequent Work Orders use the Provisional BOM with real material identities. Future BOM-learning automation should read actual raw-material quantities from submitted Manufacture Stock Entries, normalize them by accepted finished quantity, and average several comparable runs. It then creates a revised Draft BOM for Production Head review rather than modifying an active BOM automatically. Partial runs, cancellations, substitutions, abnormal waste, process loss, different variants, and different production routes must not be averaged blindly. [[PT Timboel BOM learning uses Manufacture Stock Entries]] [[PT Timboel BOM learning averages several production runs]]
+
+This lifecycle needs a custom app for durable validation, cancellation handling, duplicate prevention, audit provenance, BOM default switching, and automated draft creation. Server Scripts may prototype the submission guard, but should not own the permanent learning system.
 
 Product families have multi-step and outsourced-processing BOM patterns. [[How the bom should be made]]
 
@@ -47,7 +49,7 @@ Molding codes follow a `3-8-3` structure: process prefix, ERPNext model code, an
 ## Open Decisions
 
 - Fulfillment quantity reconciliation, ERPNext v15 Stock Reservation behavior, Sales Order cancellation cleanup, and subcontracting integration still need testing or design. [[PT Timboel Sales Order Fulfillment]]
-- Staging must verify that a Learning BOM can create a Work Order and that its Manufacture Stock Entry can replace the placeholder with real components under PT Timboel's ERPNext v15 manufacturing settings. [[PT Timboel accepts Learning BOMs without useful first-run material planning]] [[PT Timboel BOM learning uses Manufacture Stock Entries]]
+- Staging must verify Shell Work Order creation, manual real-material rows in its Manufacture Stock Entry, finished-good valuation, partial completion and cancellation, and safe switching from Shell to Provisional BOM. [[PT Timboel uses one-run Shell BOM before automated Provisional BOM]] [[PT Timboel BOM learning uses Manufacture Stock Entries]]
 - Task scheduling policy remains unsettled between assigning an Expected Start Date only to the next actionable task or to every task. [[Wednesday, 17-6-2026 09꞉47꞉50]]
 
 ## Historical Context
@@ -72,4 +74,5 @@ An older note left the Sales Order-to-production flow undefined. Current plan re
 - [[PT Timboel legacy products lack verified material quantities]]
 - [[PT Timboel BOM learning averages several production runs]]
 - [[PT Timboel BOM learning uses Manufacture Stock Entries]]
-- [[PT Timboel accepts Learning BOMs without useful first-run material planning]]
+- [[PT Timboel uses one-run Shell BOM before automated Provisional BOM]]
+- [[PT Timboel staff record consumption but do not build BOMs manually]]
