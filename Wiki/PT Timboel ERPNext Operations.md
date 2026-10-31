@@ -28,7 +28,7 @@ Finished goods stay in real warehouses. Stock Reservation, not a virtual Shippin
 
 A BOM should record materials that cost at least 3% of HPP or that materially affect rework risk. Lower-value consumables and labor are consolidated as operational cost. [[Creating Items Bill of material]]
 
-Legacy product BOM creation is constrained mainly by quantity accuracy, not by identifying major materials. Many products predate ERPNext, and consumption such as paint per pot was never measured. Initial BOMs can therefore capture known major materials with explicitly estimated quantities, while low-value unmeasured consumables remain operational cost under the existing inclusion policy. Actual production can later improve those estimates. [[PT Timboel legacy products lack verified material quantities]]
+Legacy product BOM creation is constrained mainly by quantity accuracy, not by identifying major materials. Many products predate ERPNext, and consumption such as paint per pot was never measured. Reliable major-material quantities generally must be learned from a production run. This requires a provisional first-run BOM and a feedback step that revises the BOM from observed consumption. Low-value unmeasured consumables can remain operational cost under the existing inclusion policy. The exact first-run recording method remains unresolved. [[PT Timboel legacy products lack verified material quantities]]
 
 Product families have multi-step and outsourced-processing BOM patterns. [[How the bom should be made]]
 
@@ -41,6 +41,7 @@ Molding codes follow a `3-8-3` structure: process prefix, ERPNext model code, an
 ## Open Decisions
 
 - Fulfillment quantity reconciliation, ERPNext v15 Stock Reservation behavior, Sales Order cancellation cleanup, and subcontracting integration still need testing or design. [[PT Timboel Sales Order Fulfillment]]
+- Legacy BOM rollout still needs a method for recording actual major-material consumption during the first production run. [[PT Timboel legacy products lack verified material quantities]]
 - Task scheduling policy remains unsettled between assigning an Expected Start Date only to the next actionable task or to every task. [[Wednesday, 17-6-2026 09꞉47꞉50]]
 
 ## Historical Context
