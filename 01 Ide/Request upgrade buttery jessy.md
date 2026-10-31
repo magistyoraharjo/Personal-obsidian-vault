@@ -1,0 +1,11 @@
+- [ ] kotak p3k
+	- [ ] hansaplast
+	- [ ] bio placenton
+	- [ ] panadol
+	- [ ] softek
+- [ ] container untuk diatas rak (fortuna)
+- [ ] sink luar di tuker sama dalam biar lebih compact
+- [ ] alat kebersihan
+	- [ ] pel centtrifugal
+	- [ ] scrapper baru
+- [ ] container raksasa (wadah bayi) untuk merapikan bawah meja

@@ -8,7 +8,7 @@ The confirmed journey enters Japan through Haneda late on 19 November and leaves
 
 The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
-For the ryokan stay, the preferred budget is ¥20,000 total for two people, rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
+For the ryokan stay, the preferred budget is ¥20,000 total for two [[People|people]], rising to a hard maximum of ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
@@ -34,7 +34,7 @@ The outbound Hong Kong connection is substantially shorter than the return conne
 
 ## Draft itinerary
 
-This revision combines Jessy's dated plan with the later preference to replace Fuji with two nights in Ito. Entries describe intentions rather than confirmed reservations unless stated otherwise. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+This revision combines [[Jessy]]'s dated plan with the later preference to replace Fuji with two nights in Ito. Entries describe intentions rather than confirmed reservations unless stated otherwise. [[japan honeymoon]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
 
 | Date | Base or destination | Current intention |
 | --- | --- | --- |

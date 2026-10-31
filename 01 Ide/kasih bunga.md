@@ -1,0 +1,2 @@
+- yang gandeng [[Jessy|jessy]] kasih masing 2 putih
+- mama jessy di kasih 5 mix

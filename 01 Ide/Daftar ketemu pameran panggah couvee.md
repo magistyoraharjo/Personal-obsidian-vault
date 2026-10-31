@@ -1,0 +1,7 @@
+- mami rina orang kota gede sama suami
+- suami mari rina suka golf temen om song-song golf
+- omar (suami kirana karang)
+- dokter raven, temennya istri valen dokter
+- istri valen itu dokter juga
+- dr oci praktek di kranggan, dokter kecantikan estetika, suami dokter oci yang punya diana musik kranggan
+- istrinya mas valen: ela

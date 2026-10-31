@@ -1,0 +1,2 @@
+- [[Pak Margi|pak margi]] -> 28 jam 1700 pas resepsi (fisik)
+- wawan kebo -> 28 jam 1700

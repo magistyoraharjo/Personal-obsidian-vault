@@ -1,0 +1,9 @@
+- tidak pakai pembantu
+- jessy mau bersih2 harian sendiri
+- cari deep cleaner seminggu sekali
+- harus terdefinisi deep clean itu gimana
+- laundry pickup
+- cawet cuci sendiri
+- kamar mandi no 2 harus di beri ventilasi
+- pantry di luar, dispenser di luai bersama pantry
+- isi pantry: gula teh kopi water cooker dispenser micro

@@ -1,0 +1,1 @@
+Jumadi alfi - pelukis

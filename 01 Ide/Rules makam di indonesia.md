@@ -1,0 +1,1 @@
+Pendatang lebih dari 5 tahun boleh di pemakaman lokal

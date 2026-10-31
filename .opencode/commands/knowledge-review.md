@@ -34,6 +34,7 @@ Once a topic is selected, use the same process as `/wiki`:
 - construct the current understanding;
 - ask exactly ONE grounded clarification question if necessary;
 - wait for my answer;
+- continue asking until i said stop, or until you feel its enough.
 - capture durable answers under `AI Inbox/`;
 - continue until the Wiki article is coherent enough;
 - prepare the finished Git proposal;

@@ -1,0 +1,5 @@
+- that citrus spirit is very well recieved
+- captain morgan is boring
+- vodka is boring
+- ill need more something to mix things up
+- I also need basic recipie card

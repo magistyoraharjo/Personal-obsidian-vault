@@ -1,0 +1,30 @@
+- pos profile, taxes and charges tertulis domestic sale
+- domestic sale, di setting positif 11% tax is included in basic rate
+- skip pakai pos interface, bingung.
+- pakai include payment di sales invoice jika memang sudah dibayar. Target dari payment bank itu akun transit
+- payment untuk uang muka harus terpisah
+- (apa over paymet ada sistem ter tentu? Mungkin ndak penting)
+- butuh tambahan akun transit keluar untuk pembayaran yang belum bisa mempunyai faktur pajak
+- ppn pembelian dan ppn keluaran di purchase taxes and charges harus di spesifikasikan apakan include atau tidak
+- accoount di warehouse material tirto harus di tulis persediaan barang setengah jadi
+- EVERYTHING ABOVE THIS IS DONE
+- [x] harus bikin tax withholding category, penting adalah single transaction treshold is 1, dan yang lainnnya 0. 
+- [x] per supplier juga harus di setting tax witholding categori semisal butuh.
+- [x] buat new taxesn and charges template (purchase) untuk ppn exclude.
+- [x]  harus buat tambah new bank account niaga rupiah. sudah ada coa tapi belum ada bank account
+- [x] ganti nama CIMB niaga di COA dari niaga menjadi CIMB Niaga
+- [x] catatan -> nampaknya semua payment bagusnya ndak ada tax and chargesnya
+- [x] di item harus disetting default expenses account, unutk barang yang selalu langsung di biayakan
+- catatan -> nampaknya semua payment bagusnya ndak ada tax and chargesnya
+- atau manual diganti expense head di purchase invoice
+- [x] mungkin buat server script untuk automatically nambah tanggal buat pph 23
+- [x] Ada telkom special case (refunding pph23), jadi harus buat invoice dengan witholdnya, terus buat payment yang tidak terkoneksi dengan invoice, paymentnya ke uang muka dagang. jadi nanti payment nya full ke uang muka dagang. terus baru di reconcile (pengkoneksian payment ke invoice) tapi yang di reconcile cuma sejumlah invoice. jumlah yang tersisa adalah hutang nya telkom ke kita. bisa di lihat di general ledger di filter ke supplier telkom indonesia. waktu nanti dapat refund (harus di batch request), buat payment entry yang paid fromnya uang muka dagang, ke bank kita. jumlahnya lihat di general ledger tadi
+- [x] ganti nama account hutang pajak, menjadi hutang pph hutang-hutang
+- [x] mbak wahyu tidak ada akses untuk template pajak
+- [x] ganti nama stock diterima tapi belum di tagih jadi yg lain
+- [x] hapus uang muka penjualan usd, kita pakai uang muka aj
+- [x] tax witholding itu penting untuk supplier yg mungkin bisa dipotong pph23
+- [x] bagaimana cara membayar pph23 dengan adanya kode billig dan bukti penerimaan negara bni
+- [x] buat pemasukan USD ayway
+- [x] buat method of payment untuk payment edc dan qris dengan target masuk ke transiti
+- [x] masukin default ppn ke tanli-main pos invoice

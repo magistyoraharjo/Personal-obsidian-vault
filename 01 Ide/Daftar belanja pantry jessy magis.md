@@ -1,0 +1,27 @@
+- [x] microwave
+- [x] ember kecil 30cm
+- [x] tong sampah x2
+- [ ] roll colokan
+- [x] bowl preparation
+- [x] telenan sing gede 
+- [x] pisau 2 pcs
+- [ ] dispenser
+- [ ] trash bag
+- [x] sothil
+- [x] tongs
+- [x] beras 5kg
+- [x] wadah beras
+- [x] rice cooker
+- [x] knife magnet
+- [x] wadah bumbu
+- [x] spon cuci
+- [ ] piring
+- [ ] rak pengering
+- [ ] lampu diatas kitchen
+- [x] kulkas
+- [x] sendok garpu
+- [x] chopstick
+- [x] kitchen scale
+- [x] lap meja
+- [x] lap piring
+- [x] lap lantai

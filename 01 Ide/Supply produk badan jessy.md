@@ -1,0 +1,3 @@
+- softek laurier super slimguard
+- body lotion, nivea intensive moisture
+- tissue 4 ply, paseo

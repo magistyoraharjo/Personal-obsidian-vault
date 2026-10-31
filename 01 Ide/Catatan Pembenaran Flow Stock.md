@@ -1,0 +1,4 @@
+- Semuanya bergantung pada stock entry
+- jika bisa di kaitkan dengan doctype lain mending di kaitkan
+- semua stock entry itu sebenernya cuma database entry.
+- Jasa itu harusnya juga di check tidak masuk ke manufacturing. tapi tetap boleh ada di BOM untuk keperluan perhitungan cost

@@ -1,4 +1,4 @@
-- rakha morse + istri
+d- rakha morse + istri
 - mbak eka + mirko
 - faiq + istri ()
 - berti + suami (?)
@@ -9,8 +9,13 @@
 - happy + istri
 - elias + istri
 - vivi sunpower + andi
-- roni, eko, patty (coda)
+- roni,
+- eko 
+- patty dan suami
 - marsam + istri
-- panggah + istri
-- gari 
+- panggah
+- gari
 - nilu + cesar
+- Ima Bunga
+- Gusti Putri + Kanjeng Rizki
+- dipet + pacar

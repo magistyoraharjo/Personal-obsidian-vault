@@ -1,0 +1,2 @@
+- mbok rumidah ibunya eko teman kecil
+- mbok sugir ibunya danang kecamatan
