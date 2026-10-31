@@ -28,6 +28,8 @@ Finished goods stay in real warehouses. Stock Reservation, not a virtual Shippin
 
 A BOM should record materials that cost at least 3% of HPP or that materially affect rework risk. Lower-value consumables and labor are consolidated as operational cost. [[Creating Items Bill of material]]
 
+Legacy product BOM creation is constrained mainly by quantity accuracy, not by identifying major materials. Many products predate ERPNext, and consumption such as paint per pot was never measured. Initial BOMs can therefore capture known major materials with explicitly estimated quantities, while low-value unmeasured consumables remain operational cost under the existing inclusion policy. Actual production can later improve those estimates. [[PT Timboel legacy products lack verified material quantities]]
+
 Product families have multi-step and outsourced-processing BOM patterns. [[How the bom should be made]]
 
 Intermediate items use type-specific prefixes: `KAY-`, `COR-`, and `FRM-`. [[PT Timboel intermediate item prefixes are type-specific]]
@@ -60,3 +62,4 @@ An older note left the Sales Order-to-production flow undefined. Current plan re
 - [[PT Timboel Sales Order Fulfillment]]
 - [[PT Timboel Production Plans source Manufacture Material Requests only]]
 - [[PT Timboel Work Orders retain customer identity]]
+- [[PT Timboel legacy products lack verified material quantities]]
