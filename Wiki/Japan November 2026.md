@@ -6,9 +6,9 @@ This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yok
 
 The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before a two-night stay at Select Inn Yaizu Ekimae from 20 to 22 November for two people. A central Atami Airbnb is booked for 22–24 November, followed by two nights at K's House Ito Onsen from 24 to 26 November. The route then returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[japan honeymoon]]
 
-The plan combines food interests, second-hand shopping, a desired ryokan stay, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. Okuoikojo remains a priority despite its expensive and lengthy public-transport access. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon keeps Okuoikojo as a priority]] [[Japan honeymoon prefers two nights in Ito with a ryokan]]
+The plan combines food interests, second-hand shopping, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. Okuoikojo remains a priority despite its expensive and lengthy public-transport access. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon keeps Okuoikojo as a priority]]
 
-For one ryokan night, the preferred budget is ¥20,000 total for two people. The maximum can increase to ¥30,000 when dinner and breakfast are included. A simple hot-water bath is sufficient; natural onsen water is not required. [[Japan honeymoon ryokan budget and bath preference]]
+A separate meal-inclusive ryokan stay was previously considered, but it is no longer planned. The booked K's House Ito Onsen stay is sufficient. [[Japan honeymoon ryokan budget and bath preference]] [[Japan honeymoon skips a separate ryokan experience]]
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
@@ -25,7 +25,7 @@ Japanese-style accommodation is preferred when a cheap suitable option is availa
 | 19–20 Nov | [Hotel LiVEMAX Yokohama Kannai](https://maps.app.goo.gl/uBNWEXPxXNTyYmrp7) | Booked for the arrival night [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] |
 | 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
-| 24–26 Nov | [K's House Ito Onsen](https://kshouse.jp/ito-e/) | Booked for the two-night Ito stay [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] |
+| 24–26 Nov | [K's House Ito Onsen](https://kshouse.jp/ito-e/) | Booked for two adults in a private room with shared toilet and bath; no meals; ¥20,880 total [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon K's House Ito booking details]] |
 
 For the Tokyo stay, [Rumah Teman](https://www.instagram.com/rumahteman.jp/), owned by an upperclassman, is a possible accommodation but the arrangement is not confirmed. Transport planning currently assumes a Shinjuku-area location; the exact address and nearest station still need confirmation. [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
 
@@ -81,7 +81,7 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | Sat, 21 Nov | Yaizu | Take the booked 10:05 Senzu–Okuoikojo train, join the nature game, return at 13:09, and allow time at Senzu for the planned *Yuru Camp* food stops before returning to Yaizu [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] |
 | Sun, 22 Nov | Atami | Move to Atami and check into the booked Airbnb at 15:00 |
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
-| Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and check into K's House Ito Onsen |
+| Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and check into K's House Ito Onsen at the planned 16:30 time |
 | Wed, 25 Nov | Ito | Explore the coastal area from the booked K's House base; exact sights remain undecided |
 | Thu, 26 Nov | Yokohama | Move to Yokohama; visit Book Off |
 | Fri, 27 Nov | Yokohama | Continue Yokohama and Book Off plans |
@@ -154,11 +154,13 @@ The current transport and activity estimate is **¥10,120 per person**: ¥660 fo
 
 The outbound luggage plan is to use one shared large suitcase for both travellers. A second suitcase will be purchased during the trip in Japan, increasing the number of suitcases for the remainder of the itinerary and the return journey. The point of purchase and handling between the short stays have not yet been planned. [[Japan honeymoon luggage plan]]
 
-## Ryokan options
+## Ito accommodation decision
 
-### Current need: Ito
+### Booked stay
 
-The two-night Ito stay is booked at **K's House Ito Onsen**. It is a roughly 500-metre walk from Ito Station in a century-old registered cultural property that was converted from a ryokan into a budget hostel. It retains a natural hot-spring bath but does not provide the meal-inclusive ryokan experience previously considered at Haruhira Maru. Its station access makes it a practical public-transport base for the arrival from Atami, nature excursions, and onward travel to Yokohama. [Official site](https://kshouse.jp/ito-e/) [Official access](https://kshouse.jp/ito-e/access.html) [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon cannot use a rental car]]
+The two-night Ito stay is booked at **K's House Ito Onsen** for two adults from 24 to 26 November. The private Type-C street-view room has a shared toilet and bath, includes no meals, and costs **¥20,880 total**, including ¥1,200 bathing tax. It was paid by credit card. Check-in is planned for 16:30, check-out is by 11:00, toiletries are not provided, and identification is required at check-in. [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon K's House Ito booking details]]
+
+K's House is roughly 500 metres from Ito Station in a century-old registered cultural property converted from a ryokan into a budget hostel. It retains a natural hot-spring bath. Its station access makes it a practical public-transport base for the arrival from Atami, nature excursions, and onward travel to Yokohama. The couple has decided this stay is sufficient and no longer wants a separate ryokan experience. [Official site](https://kshouse.jp/ito-e/) [Official access](https://kshouse.jp/ito-e/access.html) [[Japan honeymoon cannot use a rental car]] [[Japan honeymoon skips a separate ryokan experience]]
 
 ### Earlier candidate: Haruhira Maru, Ito
 
@@ -172,7 +174,7 @@ Rakuten displayed the following two-night prices for two adults on 9 October 202
 | Breakfast | ¥27,280 | ¥27,880 | Within the ¥30,000 reference point and leaves evenings free |
 | Economical dinner and breakfast | ¥36,080 | ¥36,680 | ¥18,040 per night before tax, within the preferred ¥20,000 per-night budget |
 
-The economical half-board plan is the best match for the desired ryokan experience and budget. Dinner is a daily set meal using seafood, with examples including sashimi and tempura or simmered kinmedai; breakfast is Japanese style. Dinner begins at 18:00 or 18:30, so taking dinner on both nights would constrain evening exploration. Prices and the five-room availability shown when checked can change before booking. [Date-specific Rakuten listing](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/67965?f_nen1=2026&f_tuki1=11&f_hi1=24&f_nen2=2026&f_tuki2=11&f_hi2=26&f_heya_su=1&f_otona_su=2&f_flg=PLAN)
+Before K's House was booked, the economical half-board plan was the best match for the desired ryokan experience and budget. Dinner was a daily set meal using seafood, with examples including sashimi and tempura or simmered kinmedai; breakfast was Japanese style. Dinner began at 18:00 or 18:30, so taking dinner on both nights would have constrained evening exploration. [Date-specific Rakuten listing](https://hotel.travel.rakuten.co.jp/hotelinfo/plan/67965?f_nen1=2026&f_tuki1=11&f_hi1=24&f_nen2=2026&f_tuki2=11&f_hi2=26&f_heya_su=1&f_otona_su=2&f_flg=PLAN)
 
 The property has two shared, free-flowing Ito onsen baths, with the third-floor and fourth-floor baths assigned by gender at different times. No private bath is advertised. This exceeds the minimum bath requirement, but it is suitable only if communal bathing is acceptable. [Official bath and room information](https://haruhiramaru.com/onsen.html) [[Japan honeymoon ryokan budget and bath preference]]
 
@@ -258,6 +260,8 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]]
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]]
+- [[Japan honeymoon K's House Ito booking details]]
+- [[Japan honeymoon skips a separate ryokan experience]]
 - [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]]
 - [[Japan honeymoon return layover will include a self-guided Hong Kong visit]]
 - [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
