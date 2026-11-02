@@ -81,7 +81,7 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | Sat, 21 Nov | Yaizu | Take the booked 10:05 Senzu–Okuoikojo train, join the nature game, return at 13:09, and allow time at Senzu for the planned *Yuru Camp* food stops before returning to Yaizu [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] |
 | Sun, 22 Nov | Atami | Move to Atami and check into the booked Airbnb at 15:00 |
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
-| Tue, 24 Nov | Ito | Check out before 11:00; move to Ito and check into K's House Ito Onsen at the planned 16:30 time |
+| Tue, 24 Nov | Ito | Leave Atami around 09:00; drop luggage at K's House; visit Mt. Omuro and Izu Shaboten Zoo for the capybara outdoor bath; return for later check-in, Tokaikan, dinner, and the K's House onsen [[Japan honeymoon 24 November Ito itinerary approved]] |
 | Wed, 25 Nov | Ito | Explore the coastal area from the booked K's House base; exact sights remain undecided |
 | Thu, 26 Nov | Yokohama | Move to Yokohama; visit Book Off |
 | Fri, 27 Nov | Yokohama | Continue Yokohama and Book Off plans |
@@ -101,6 +101,31 @@ After the 21:15 international arrival, a realistic departure is around 22:15–2
 The dated itinerary's choice of 23 November is supported by the official 2026 schedule. The Atami Marine Fireworks are scheduled at Atami Bay on **Monday, 23 November 2026 from 20:20 to 20:40**, with the event planned to proceed in rain. The official site warns that Atami Station becomes extremely crowded after the display and recommends preparing return tickets or IC-card balance in advance. No paid viewing area is planned for 2026. [Atami City Tourism Association](https://www.ataminews.gr.jp/event/8/) [[japan honeymoon]]
 
 The central Atami Airbnb is booked through the fireworks night, so the couple can walk back after the display rather than depend on crowded post-event travel. Check-in is at 15:00 on 22 November and check-out is before 11:00 on 24 November. [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
+
+## Ito itinerary
+
+### Tuesday, 24 November: Mt. Omuro and capybaras
+
+The approved first Ito day uses the short transfer from Atami to create nearly a full sightseeing day. The working schedule is: [[Japan honeymoon 24 November Ito itinerary approved]]
+
+| Time | Plan |
+| --- | --- |
+| Around 09:00 | Leave the Atami Airbnb, earlier than its 11:00 checkout deadline |
+| Around 10:00 | Reach Ito and leave luggage at K's House, which accepts luggage from 08:00 |
+| 10:15–11:00 | Travel from central Ito toward Mt. Omuro and Izu Shaboten Zoo; exact bus departure needs confirmation |
+| 11:00–12:30 | Take the Mt. Omuro lift and walk around the crater |
+| Around 12:35 | Enter Izu Shaboten Zoo and have a quick lunch |
+| 13:30–14:30 | Attend the capybara outdoor-bath event |
+| 14:30–16:00 | Continue through the zoo and cactus greenhouses |
+| Around 17:00 | Return to central Ito and check into K's House |
+| 18:00–19:00 | Visit Tokaikan |
+| After 19:00 | Have dinner, see the Matsukawa bamboo lights if operating, and use the K's House onsen |
+
+Izu Shaboten Zoo is open from **09:30 to 16:00** on 24 November, with final entry at 15:30. Its 2026–2027 capybara outdoor-bath season starts on 21 November, and the weekday event runs once from **13:30 to 14:30**, so the trip date is covered. The zoo is beside Mt. Omuro. [Official zoo hours and date calendar](https://izushaboten.com/information/) [Official 2026–2027 capybara event](https://izushaboten.com/news/capybara-outdoor-bath/)
+
+The Mt. Omuro lift begins at 09:00, with the final ascent at 16:00 and final descent at 16:15. The mountain comes before the zoo so the fixed capybara event is protected while leaving enough time for the crater walk. If delay, strong wind, or a lift closure prevents the mountain visit, Mt. Omuro moves to 25 November and the zoo remains the priority on the 24th. [Official Mt. Omuro lift](https://omuroyama.com/) [[Japan honeymoon 24 November Ito itinerary approved]]
+
+The K's House check-in window is **15:00–20:30**. The 16:30 time in the reservation was only the original estimate, not a deadline. Tokaikan is normally open from 09:00 to 21:00 with final entry at 20:00 and closes on the third Tuesday of each month; 24 November is the fourth Tuesday. Its public bath is not open on regular weekdays, so this is a building visit. These hours should still be rechecked before travel. [Tokaikan visitor information](https://www.japan-guide.com/e/e6316.html) [[Japan honeymoon K's House Ito booking details]] [[Japan honeymoon 24 November Ito itinerary approved]]
 
 ## Transport under consideration
 
@@ -158,7 +183,7 @@ The outbound luggage plan is to use one shared large suitcase for both traveller
 
 ### Booked stay
 
-The two-night Ito stay is booked at **K's House Ito Onsen** for two adults from 24 to 26 November. The private Type-C street-view room has a shared toilet and bath, includes no meals, and costs **¥20,880 total**, including ¥1,200 bathing tax. It was paid by credit card. Check-in is planned for 16:30, check-out is by 11:00, toiletries are not provided, and identification is required at check-in. [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon K's House Ito booking details]]
+The two-night Ito stay is booked at **K's House Ito Onsen** for two adults from 24 to 26 November. The private Type-C street-view room has a shared toilet and bath, includes no meals, and costs **¥20,880 total**, including ¥1,200 bathing tax. It was paid by credit card. Check-in is available from 15:00 to 20:30, with arrival now planned for around 17:00 after the Mt. Omuro and zoo visits. Check-out is by 11:00, toiletries are not provided, and identification is required at check-in. [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon K's House Ito booking details]] [[Japan honeymoon 24 November Ito itinerary approved]]
 
 K's House is roughly 500 metres from Ito Station in a century-old registered cultural property converted from a ryokan into a budget hostel. It retains a natural hot-spring bath. Its station access makes it a practical public-transport base for the arrival from Atami, nature excursions, and onward travel to Yokohama. The couple has decided this stay is sufficient and no longer wants a separate ryokan experience. [Official site](https://kshouse.jp/ito-e/) [Official access](https://kshouse.jp/ito-e/access.html) [[Japan honeymoon cannot use a rental car]] [[Japan honeymoon skips a separate ryokan experience]]
 
@@ -262,6 +287,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]]
 - [[Japan honeymoon K's House Ito booking details]]
 - [[Japan honeymoon skips a separate ryokan experience]]
+- [[Japan honeymoon 24 November Ito itinerary approved]]
 - [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]]
 - [[Japan honeymoon return layover will include a self-guided Hong Kong visit]]
 - [[Japan honeymoon prefers Haruhira Maru for the Ito stay]]
