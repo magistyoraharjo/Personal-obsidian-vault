@@ -1,0 +1,3 @@
+# Japan honeymoon 24 November Ito itinerary approved
+
+The approved plan for 24 November 2026 is to leave Atami around 09:00, travel to Ito, leave the luggage at K's House Ito Onsen, visit Mt. Omuro, and then visit Izu Shaboten Zoo for the afternoon capybara outdoor-bath event. K's House permits luggage drop from 08:00 and check-in from 15:00 to 20:30. After returning to central Ito, the couple plans to check in later than the original 16:30 estimate, visit Tokaikan in the evening, have dinner, see the Matsukawa bamboo lights if operating, and use the K's House onsen. If Mt. Omuro cannot be visited because of delay, wind, or a lift closure, it should move to 25 November.
