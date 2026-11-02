@@ -12,7 +12,7 @@ A separate meal-inclusive ryokan stay was previously considered, but it is no lo
 
 The couple plans to leave Indonesia with one shared large suitcase and buy an additional suitcase in Japan. [[Japan honeymoon luggage plan]]
 
-Jessy's Japan visa was completed on 18 October 2026. The earlier visa blocker is resolved. [[jessy japan visa]] [[Jessy's Japan visa is complete]]
+Jessy had earlier forgotten to extend her Japan visa and could not locate her passport. That blocker is historical: her visa was completed on 18 October 2026. [[jessy japan visa]] [[Jessy's Japan visa is complete]]
 
 A rental car is not an option because Magis does not have a driving licence, so route planning must use public transport. [[Japan honeymoon cannot use a rental car]]
 
