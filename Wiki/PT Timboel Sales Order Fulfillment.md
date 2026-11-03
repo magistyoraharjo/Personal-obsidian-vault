@@ -58,9 +58,11 @@ Production ends when a submitted Manufacture Stock Entry consumes materials and 
 
 Production Plans must source submitted Manufacture Material Requests, not Sales Orders directly. This prevents reserved finished stock from becoming duplicate production demand and keeps Material Request as the single record of missing supply. Each Manufacture Material Request Item should retain its Sales Order Item link. [[PT Timboel manufacturing planning starts from Material Requests]] [[PT Timboel Production Plans source Manufacture Material Requests only]]
 
-One Production Plan may batch Manufacture Material Requests from several Sales Orders. PT Timboel still identifies work in progress by customer, so different customers must remain in separate Work Orders. Do not combine their production items into one Work Order. This batches planning without losing customer identity during execution. [[PT Timboel Work Orders retain customer identity]] [[PT Timboel production starts with a Work Order]]
+One Production Plan may batch Manufacture Material Requests from several Sales Orders. PT Timboel still identifies work in progress by customer, so different customers must remain in separate Work Orders. Do not combine their production items into one Work Order. [[PT Timboel Work Orders retain customer identity]] [[PT Timboel production starts with a Work Order]]
 
-The source restriction and customer-specific Work Order rule are confirmed operating decisions but are not yet enforced in ERPNext. Client Script can hide the direct Sales Order source and item-combining options. Server validation is needed if API and integration calls must also obey these rules.
+ERPNext v15 does not natively guarantee that Sales Order Item identity survives the Material Request-sourced Production Plan path into Work Order. Custom fields and server-side mapping must propagate the source identity, split customer demand, and reject cross-customer Work Orders. Client Script may simplify the interface, but server enforcement is mandatory for this architecture.
+
+Manufacture demand also needs an eligible Active and Submitted BOM before Production Plan can create Work Orders. Existing Production Plan rows and draft Work Orders keep their selected BOM when a new Provisional BOM becomes Default, so Shell-to-Provisional switching requires explicit stale-document review. Multi-output processes that use Repack do not fit this Work Order path and need a separate demand link.
 
 ## Quantity Logic
 
@@ -102,7 +104,7 @@ Subcontracting path is still open. Simplified Purchase Order buttons may hide st
 
 ## Open Technical Questions
 
-- Which ERPNext v15 fields link Material Request Item to Sales Order Item?
+- Which custom fields and server mappings should propagate Sales Order Item identity through Material Request, Production Plan, and Work Order?
 - Can native Stock Reservation support required scripted creation flow?
 - How should completed supply reduce active requested quantity without double-counting?
 - When should new finished stock become reserved?
