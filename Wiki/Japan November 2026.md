@@ -1,10 +1,10 @@
 # Japan November 2026
 
-This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with accommodation booked in Yokohama for the arrival night, Yaizu for 20–22 November, Atami for 22–24 November, and Ito for 24–26 November. The Okuoikojo nature game trip is also booked for 21 November. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] [[japan honeymoon]]
+This is the current plan for a Japan honeymoon centred on Yaizu, Atami, Ito, Yokohama, and Tokyo. The flights are confirmed for 19 November–2 December 2026, with accommodation booked in Yokohama for the arrival night, Yaizu for 20–22 November, Atami for 22–24 November, Ito for 24–26 November, and Yokohama for 26–28 November. The Okuoikojo nature game trip is also booked for 21 November. The rest of the ground itinerary remains a draft. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon Hotel LiVEMAX Yokohama-Eki Nishiguchi booked for 26 to 28 November 2026]] [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]] [[japan honeymoon]]
 
 ## Current state
 
-The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before a two-night stay at Select Inn Yaizu Ekimae from 20 to 22 November for two people. A central Atami Airbnb is booked for 22–24 November, followed by two nights at K's House Ito Onsen from 24 to 26 November. The route then returns east through Yokohama to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[japan honeymoon]]
+The confirmed journey enters Japan through Haneda late on 19 November and leaves from Narita late on 1 December. This gives twelve nights in Japan. After arrival, the first night is booked at Hotel LiVEMAX Yokohama Kannai before a two-night stay at Select Inn Yaizu Ekimae from 20 to 22 November for two people. A central Atami Airbnb is booked for 22–24 November, followed by two nights at K's House Ito Onsen from 24 to 26 November and two nights at Hotel LiVEMAX Yokohama-Eki Nishiguchi from 26 to 28 November. The route then continues to Tokyo. The earlier Fuji-area stay is no longer preferred. [[Japan honeymoon flights confirmed for November 2026]] [[Japan honeymoon first night booked at Hotel LiVEMAX Yokohama Kannai]] [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon Hotel LiVEMAX Yokohama-Eki Nishiguchi booked for 26 to 28 November 2026]] [[japan honeymoon]]
 
 The plan combines food interests, second-hand shopping, *Yuru Camp*-related locations, Ito's coastal area, and the Atami Marine Fireworks. Okuoikojo remains a priority despite its expensive and lengthy public-transport access. The couple prefers two nights in each main city so there is enough time to explore. Several transport passes are being considered, but the exact products and whether they save money over individual fares remain unresolved. [[japan honeymoon]] [[Japan honeymoon keeps Okuoikojo as a priority]]
 
@@ -26,18 +26,21 @@ Japanese-style accommodation is preferred when a cheap suitable option is availa
 | 20–22 Nov | Select Inn Yaizu Ekimae | Booked for two people [[Japan honeymoon Select Inn Yaizu Ekimae booked for 20 to 22 November 2026]] |
 | 22–24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Booked for two adults; check-in 15:00 and check-out before 11:00 [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]] |
 | 24–26 Nov | [K's House Ito Onsen](https://kshouse.jp/ito-e/) | Booked for two adults in a private room with shared toilet and bath; no meals; ¥20,880 total [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]] [[Japan honeymoon K's House Ito booking details]] |
+| 26–28 Nov | Hotel LiVEMAX Yokohama-Eki Nishiguchi | Booked for two nights; later arrival after the hotel's standard check-in time is expected to be acceptable [[Japan honeymoon Hotel LiVEMAX Yokohama-Eki Nishiguchi booked for 26 to 28 November 2026]] |
 
 For the Tokyo stay, [Rumah Teman](https://www.instagram.com/rumahteman.jp/), owned by an upperclassman, is a possible accommodation but the arrangement is not confirmed. Transport planning currently assumes a Shinjuku-area location; the exact address and nearest station still need confirmation. [[Japan honeymoon may stay at an upperclassman's Rumah Teman in Tokyo]]
 
-## Yokohama accommodation options
+## Yokohama accommodation decision
 
-Two genuine Japanese-style options were found for two people from 26 to 28 November. Neither is booked. Prices were checked in October 2026 and may change.
+Hotel LiVEMAX Yokohama-Eki Nishiguchi is booked from 26 to 28 November. Check-in uses the hotel's standard time, and arrival any time afterward is expected to be acceptable. [[Japan honeymoon Hotel LiVEMAX Yokohama-Eki Nishiguchi booked for 26 to 28 November 2026]]
+
+Two genuine Japanese-style alternatives were researched before this booking. Prices were checked in October 2026 and may change.
 
 **Escale Yokohama** is the stronger comfort option at **¥21,800 total for two nights**. Its non-smoking Japanese room has eight tatami mats, 26 square metres of space, futons, a private toilet and washbasin, and access to a shared large bath. It is beside Motomachi-Chukagai Station and has enough room for the planned luggage. Availability was limited when checked. [Date-specific booking page](https://www.jhpds.net/rsv.escale-yokohama/uw/uwp3100/uww3101.do?yadNo=304200&stayYear=2026&stayMonth=11&stayDay=26&stayCount=2&roomCount=1&adultNum=2)
 
 **Yokohama Hostel Village** is the cheapest genuine Japanese-style option at **¥13,300 total for two nights**. Its private room uses tatami and futons, but three tatami mats provide only about five square metres. The shower and toilet are shared, and rooms may be on the fourth or fifth floor without an elevator. It is near Ishikawacho Station and within reach of BOOKOFF PLUS Yokohama Isezakicho, but the room would be difficult with two people and multiple suitcases. [Date-specific booking page](https://yhv.rwiths.net/r-withs/tfs0020a.do?hotelNo=49253&ciDateY=2026&ciDateM=11&ciDateD=26&coDateY=2026&coDateM=11&coDateD=28&room=1&otona=2&s1=0&s2=0&y1=0&y2=0&y3=0&y4=0&curPage=1&lowerCharge=0&upperCharge=9999999999&sort=1&f_lang=en)
 
-Escale is the recommended balance for the honeymoon. Hostel Village is the strict lowest-cost choice.
+Escale was the recommended balance, while Hostel Village was the strict lowest-cost choice. Neither was selected.
 
 ## Confirmed flights
 
@@ -83,8 +86,8 @@ This revision combines Jessy's dated plan with the later preference to replace F
 | Mon, 23 Nov | Atami | Stay at the Airbnb and attend the Atami Marine Fireworks |
 | Tue, 24 Nov | Ito | Leave Atami around 09:00; drop luggage at K's House; visit Mt. Omuro and Izu Shaboten Zoo for the capybara outdoor bath; return for later check-in, Tokaikan, dinner, and the K's House onsen [[Japan honeymoon 24 November Ito itinerary approved]] |
 | Wed, 25 Nov | Ito | Explore the coastal area from the booked K's House base; exact sights remain undecided |
-| Thu, 26 Nov | Yokohama | Move to Yokohama; visit Book Off |
-| Fri, 27 Nov | Yokohama | Continue Yokohama and Book Off plans |
+| Thu, 26 Nov | Yokohama | Move to Yokohama; check into Hotel LiVEMAX Yokohama-Eki Nishiguchi at or after its standard check-in time; later arrival is expected to be acceptable; visit Book Off [[Japan honeymoon Hotel LiVEMAX Yokohama-Eki Nishiguchi booked for 26 to 28 November 2026]] |
+| Fri, 27 Nov | Yokohama | Continue Yokohama and Book Off plans from the booked hotel |
 | Sat, 28 Nov | Tokyo | Move to Tokyo; Kawagoe is planned as an excursion |
 | Sun, 29 Nov | Tokyo | Tokyo sightseeing; use a possible Tokyo Metro pass |
 | Mon, 30 Nov | Tokyo | Tokyo sightseeing |
@@ -260,7 +263,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 
 ## Unresolved planning
 
-- Accommodation remains unbooked for the later Yokohama stay and Tokyo.
+- Accommodation remains unbooked for Tokyo.
 - The possible Tokyo stay at Rumah Teman is unconfirmed, and its exact address and nearest station are not recorded.
 - The exact Ito coastal sights and local transport need to be selected.
 - Ito-area and Tokyo-area tickets need a route-and-cost comparison against the revised itinerary; the Mt. Fuji–Shizuoka pass does not fit the current route.
@@ -286,6 +289,7 @@ The couple's shared [Yuru camp trip](https://maps.app.goo.gl/5VusBUF6Rrrke9zf7) 
 - [[Japan honeymoon Atami Airbnb booked for 22 to 24 November 2026]]
 - [[Japan honeymoon K's House Ito booked for 24 to 26 November 2026]]
 - [[Japan honeymoon K's House Ito booking details]]
+- [[Japan honeymoon Hotel LiVEMAX Yokohama-Eki Nishiguchi booked for 26 to 28 November 2026]]
 - [[Japan honeymoon skips a separate ryokan experience]]
 - [[Japan honeymoon 24 November Ito itinerary approved]]
 - [[Japan honeymoon Okuoikojo nature game trip booked for 21 November 2026]]
