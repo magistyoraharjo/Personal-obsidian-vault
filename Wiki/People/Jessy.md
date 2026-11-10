@@ -5,7 +5,7 @@
 
 ## What I Should Remember
 - The confirmed wedding sequence runs from the lamaran on 26 September through the Candhari reception on 5 October 2026. [[Magis and Jessy wedding schedule confirmed]]
-- Jessy's house in Sukoharjo is the lamaran venue; the Solo reception is also in Sukoharjo. [[Magis and Jessy wedding venues and providers confirmed]]
+- Jessy's house in Sukoharjo is the lamaran venue; the [[Solo]] reception is also in Sukoharjo. [[Magis and Jessy wedding venues and providers confirmed]]
 - Jessy drafted a detailed 19 November–1 December Japan honeymoon route through Shizuoka, Atami, Yokohama, Fuji, and Tokyo. [[japan honeymoon]]
 
 ## Relationship and Shared History

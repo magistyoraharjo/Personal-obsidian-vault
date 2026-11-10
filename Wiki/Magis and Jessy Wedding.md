@@ -1,6 +1,6 @@
-# Magis and Jessy Wedding
+# Magis and [[Jessy]] Wedding
 
-Magis and Jessy's wedding was a multi-event celebration held from 26 September through 5 October 2026. It included family ceremonies in Sukoharjo and Candi Tirto, two community Pesta Rakyat events, a Solo reception, and a Candhari neighborhood reception. Every scheduled event occurred on its planned date and at its planned venue, and the wedding went well. [[Magis and Jessy wedding schedule confirmed]] [[Magis and Jessy wedding events occurred as planned]]
+Magis and Jessy's wedding was a multi-event celebration held from 26 September through 5 October 2026. It included family ceremonies in Sukoharjo and Candi Tirto, two community Pesta Rakyat events, a [[Solo]] reception, and a Candhari neighborhood reception. Every scheduled event occurred on its planned date and at its planned venue, and the wedding went well. [[Magis and Jessy wedding schedule confirmed]] [[Magis and Jessy wedding events occurred as planned]]
 
 ## Completed Event Sequence
 
@@ -24,7 +24,7 @@ The pre-event schedule called for a KUA visit at 08:00 and gladi bersih at Candi
 
 The gladi notes planned the belketepe seating order and assigned specific roles: Bonita was to carry rice, Grace was to carry the *bucalan*, and Jessy was to leave through the second bedroom door and pass south of the pool. These are preparation instructions, not a record of actual execution. [[Gladi bersih manten magis jessy]]
 
-Five people were confirmed to perform the siraman, but their names were not recorded in the confirmation. An earlier source lists seven candidates, so it cannot identify the five actual participants without further evidence. [[Magis and Jessy siraman participants confirmed]] [[daftar orang siraman magis]]
+Five [[People|people]] were confirmed to perform the siraman, but their names were not recorded in the confirmation. An earlier source lists seven candidates, so it cannot identify the five actual participants without further evidence. [[Magis and Jessy siraman participants confirmed]] [[daftar orang siraman magis]]
 
 The seserahan was confirmed complete. An earlier working checklist still contains unchecked items; it records preparation progress rather than the final state. [[Magis and Jessy seserahan complete]] [[Seserahan ke jessy manten]]
 
@@ -40,7 +40,7 @@ Pesta Rakyat 1 was intended for 900 neighbors from RT 1-4. Pesta Rakyat 2 was in
 
 The Solo reception was estimated at about 600 guests. The Candhari Reception was intended for 400 Candhari neighbors and was meant to address neighborhood disruption from Candhari's noise and other impacts. [[Magis and Jessy wedding guests confirmed]]
 
-An invitation-delivery note assigned physical invitations by group and said people not yet invited to Resepsi Relasi should receive online invitations, with physical delivery where needed. Another note added Pak Margi and Wawan Kebo for the 28 September reception. These sources document intended invitation work, but not whether every invitation was sent or delivered. [[Tugas Antar Undangan Fisik]] [[Tambahan undangan]] [[Magis and Jessy Resepsi Relasi invitations pending]]
+An invitation-delivery note assigned physical invitations by group and said people not yet invited to Resepsi Relasi should receive online invitations, with physical delivery where needed. Another note added [[Pak Margi]] and Wawan Kebo for the 28 September reception. These sources document intended invitation work, but not whether every invitation was sent or delivered. [[Tugas Antar Undangan Fisik]] [[Tambahan undangan]] [[Magis and Jessy Resepsi Relasi invitations pending]]
 
 ## Providers, Responsibilities, And Entertainment
 

@@ -1,4 +1,4 @@
-- wina dan anak yuri temen jessy kuliah
+- wina dan anak yuri temen [[Jessy|jessy]] kuliah
 - bibil dan suami (mungkin mau cerai)
 - dan anak bibil
 - nadia dan jojo sudah pindah dari jerman 

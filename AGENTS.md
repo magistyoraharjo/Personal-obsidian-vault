@@ -26,6 +26,12 @@ Do not reorganize, merge, rename, or "clean up" those atomic notes.
 
 The purpose of the AI is to build and maintain a coherent higher-level `Wiki/` above those notes.
 
+# Local-First Workflow
+
+For every vault lookup, review, edit, or Git task, load and follow the `local-vault-first` skill.
+
+The local working tree, including uncommitted and untracked files, is the authoritative current state. Keep changes local by default. Perform GitHub write actions only when the human explicitly requests them in the current conversation.
+
 # Core Knowledge Model
 
 There are three knowledge layers.
@@ -384,25 +390,13 @@ A proposal may contain:
 
 Existing human source notes must remain unchanged.
 
+By default, prepare the proposal directly in the current local working tree. Do not create or switch branches, commit, push, or open a Pull Request unless the human explicitly asks for that Git action in the current conversation. GitHub is a backup, not the source of current vault state.
+
 When the proposal is ready:
 
-1. create a Git branch named:
+1. review the resulting local diff for unsupported claims;
 
-   `ai/wiki-<short-topic>`
-
-2. base it on the latest `origin/main`;
-
-3. make all proposed file changes;
-
-4. review the resulting diff yourself for unsupported claims;
-
-5. commit the proposal;
-
-6. push the AI branch to GitHub;
-
-7. open a Pull Request against `main`;
-
-8. present the human with:
+2. present the human with:
 
    * the topic updated;
    * the main conclusions;
@@ -412,9 +406,9 @@ When the proposal is ready:
    * important interpretations made;
    * a concise diff summary.
 
-Do not merge yet.
+If the human explicitly asks for a Pull Request, create the requested branch, commit, push, and open the Pull Request against `main`. Do not merge without separate explicit approval.
 
-# People and Acquaintances
+# [[People]] and Acquaintances
 
 The AI maintains a people directory as a synthesis of the human's
 existing notes. The purpose is to help the human remember who people
