@@ -29,7 +29,7 @@ Outbound Hong Kong connection: 2h15. Move fast. Sit near cabin front if possible
 | 19-20 Nov | [Hotel LiVEMAX Yokohama Kannai](https://maps.app.goo.gl/uBNWEXPxXNTyYmrp7) | Late arrival. Hinodecho Station, then 8-minute walk. |
 | 20-22 Nov | Select Inn Yaizu Ekimae | Yaizu base. |
 | 22-24 Nov | [Atami Airbnb](https://www.airbnb.com/rooms/1295535829406265156) | Check-in 15:00. Check-out before 11:00. Walk home after fireworks. |
-| 24-26 Nov | [K's House Ito Onsen](https://kshouse.jp/ito-e/) | Check-in 16:30. Check-out by 11:00. Private room; shared toilet and bath. No meals. No toiletries. |
+| 24-26 Nov | [K's House Ito Onsen](https://kshouse.jp/ito-e/) | Check-in 15:00-20:30; target 17:00. Check-out by 11:00. Private room; shared toilet and bath. No meals. No toiletries. |
 | 26-28 Nov | Hotel LiVEMAX Yokohama-Eki Nishiguchi | Near Yokohama Station. Arrival after normal check-in okay. |
 | 28 Nov-1 Dec | [Sugamo Airbnb](https://www.airbnb.com/rooms/994251654412703614) | Private tatami room; shared bathroom. About 6 minutes from JR Sugamo Station. |
 
@@ -93,19 +93,35 @@ Need:
 - Event runs in rain.
 - Station becomes packed afterward. Walk back to Airbnb.
 
-### Tue, 24 Nov: Atami -> Ito
+### Tue, 24 Nov: Atami -> Ito, Mt. Omuro, Capybaras
 
-- Airbnb check-out before 11:00.
-- Move to Ito.
-- K's House check-in: 16:30.
+| Time | Move |
+| --- | --- |
+| Around 09:00 | Leave Atami Airbnb |
+| Around 10:00 | Reach Ito; leave luggage at K's House |
+| 10:15-11:00 | Travel toward Mt. Omuro and Izu Shaboten Zoo |
+| 11:00-12:30 | Mt. Omuro lift and crater walk |
+| Around 12:35 | Enter zoo; quick lunch |
+| 13:30-14:30 | Capybara outdoor bath |
+| 14:30-16:00 | Zoo and cactus greenhouses |
+| Around 17:00 | Return; check in at K's House |
+| 18:00-19:00 | Tokaikan building visit |
+| After 19:00 | Dinner, Matsukawa bamboo lights if running, K's House onsen |
+
+Need:
+
+- K's House accepts luggage from 08:00.
+- Zoo closes 16:00. Final entry 15:30.
+- Capybara event fixed at 13:30-14:30. Protect this time.
+- Mt. Omuro lift final ascent 16:00; final descent 16:15.
+- Strong wind or lift closure: keep zoo. Move Mt. Omuro to 25 Nov.
 - Bring toiletries.
-- Use natural onsen at K's House.
 
 ### Wed, 25 Nov: Ito Coast
 
 Recommended main stop: **Jogasaki Coast**.
 
-- Add Mount Omuro if weather clear and transport timing works.
+- Add Mt. Omuro if missed on 24 Nov.
 - Relaxed backup: Ito town, Orange Beach, local onsen.
 - Do not overpack day. Public transport slower on Izu coast.
 
@@ -200,5 +216,7 @@ Late arrival or any doubt: stay at airport.
 - [Oigawa Railway status](https://daitetsu.jp/ft_main)
 - [Kawanehon bus](https://www.town.kawanehon.shizuoka.jp/kurashi_tetsuduki/10/3/13749.html)
 - [Atami fireworks](https://www.ataminews.gr.jp/event/8/)
+- [Izu Shaboten Zoo](https://izushaboten.com/information/)
+- [Mt. Omuro lift](https://omuroyama.com/)
 - [Keisei airport routes](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/traffic/index.php)
 - [Hong Kong Airport Express](https://www.mtr.com.hk/en/customer/services/timetable_index.html)

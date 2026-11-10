@@ -11,6 +11,7 @@
 ## Relationship and Shared History
 - Magis and Jessy have two kenanga-flower engagement rings. Their akad rings will be Magis's parents' former wedding rings. [[Magis and Jessy mahar and rings confirmed]]
 - The seserahan has been completed. [[Magis and Jessy seserahan complete]]
+- Jessy earlier forgot to extend her Japan visa and could not locate her passport. This was resolved when her visa was completed on 18 October 2026. [[jessy japan visa]] [[Jessy's Japan visa is complete]]
 
 ## Current Context
 - On 10 September 2026, they plan to visit the KUA at 08:00 and attend the Candi Tirto rehearsal at 19:00. [[Magis and Jessy wedding schedule details confirmed]]
@@ -27,3 +28,5 @@
 - [[Magis and Jessy wedding venues and providers confirmed]]
 - [[Magis and Jessy mahar and rings confirmed]]
 - [[japan honeymoon]]
+- [[jessy japan visa]]
+- [[Jessy's Japan visa is complete]]
