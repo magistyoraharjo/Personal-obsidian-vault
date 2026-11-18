@@ -1,122 +1,152 @@
 # PT Timboel Sales Order Fulfillment
 
-PT Timboel will plan customer-order fulfillment inside each Sales Order. Custom Fulfillment tab shows demand, reserved stock, supply requests, and work still unplanned. Tab is interface only. Native ERPNext documents remain source of truth. [[PT Timboel Sales Order is the customer demand master]] [[PT Timboel fulfillment uses native ERPNext records]]
+PT Timboel plans customer-order fulfillment inside each Sales Order. Sales Order stays demand master. Native ERPNext records stay truth. Fulfillment tab only reads state and starts actions. No separate Fulfillment Plan DocType. [[PT Timboel Sales Order is the customer demand master]] [[PT Timboel fulfillment uses native ERPNext records]]
 
-## Core Flow
+## Core Model
+
+Two questions. Keep separate:
+
+1. **Demand covered?** Stock reserved anywhere, or active Purchase/Manufacture request exists.
+2. **Ready to ship?** Stock reserved in Sales Order Item Warehouse.
+
+Reservation means customer owns stock. Reservation alone does not mean ready. Warehouse location decides readiness. [[PT Timboel shipping readiness uses Sales Order warehouse]]
+
+## Flow
 
 ```text
 Sales Order
-  -> reserve available stock
+  -> reserve existing stock
      -> Stock Reservation Entry
+     -> transfer when reserved elsewhere
+        -> Material Request: Material Transfer
+        -> Stock Entry
   -> request missing supply
-     -> Material Request
-        -> Manufacture -> Production Plan -> Work Order
-        -> Purchase -> Purchase Order
-        -> Material Transfer -> Stock Entry
+     -> Material Request: Purchase
+        -> Purchase Order
+     -> Material Request: Manufacture
+        -> Production Plan
+        -> Work Order
   -> Delivery Note
 ```
 
-Sales Order holds customer demand. Material Request holds supply need. Stock Reservation assigns available stock to one customer. Delivery Note records dispatch. [[PT Timboel Sales Order is the customer demand master]] [[PT Timboel Material Request is the supply requirement master]] [[PT Timboel uses stock reservation instead of a shipping warehouse]]
+One Sales Order Item may mix methods. Example: reserve 3, manufacture 5, purchase 2. [[PT Timboel fulfillment supports mixed supply methods]]
 
-## Fulfillment Tab
+## Fulfillment States
 
-Each Sales Order row should show:
+Each Sales Order Item shows:
 
-- ordered quantity;
-- delivered quantity;
-- reserved quantity;
-- draft-requested quantity;
-- submitted-requested quantity;
+- ordered;
+- delivered;
+- outstanding;
+- ready to ship;
+- reserved in source Warehouse;
+- reserved in non-source Warehouse;
+- transfer requested and waiting;
+- Purchase/Manufacture Draft quantity;
+- Purchase/Manufacture Submitted remaining quantity;
 - unplanned quantity;
-- linked Material Requests;
-- linked Stock Reservations.
+- overplanned quantity;
+- linked Material Requests and Stock Reservations.
 
-Main actions:
+Clear state words matter:
 
-- **Reserve Stock:** create native Stock Reservation Entry for available quantity.
-- **Create Material Request:** create draft Manufacture, Purchase, or Material Transfer request.
+- **Ready to ship:** reservation already in Sales Order Item Warehouse.
+- **Needs transfer request:** reservation elsewhere. No active transfer request.
+- **Waiting for stock movement:** transfer already requested. Physical transfer not done.
+- **Needs decision:** demand still unplanned.
 
-Partial planning is required. Example: order 10, reserve 3, request manufacture 5, request purchase 2. One Sales Order row is not locked to one supply method. [[PT Timboel fulfillment supports mixed supply methods]] [[PT Timboel Sales Order Fulfillment tab is the next ERPNext build]]
+Free-stock suggestions matter only while quantity remains unplanned. Once demand fully planned, hide that noise. Stock status and procurement status stay separate. [[PT Timboel fulfillment UI separates stock and procurement status]]
 
-## Stock Allocation
+## Stock And Transfer
 
-Finished goods stay in actual warehouse. Reservation says which customer owns available quantity. No virtual Shipping warehouse. Warehouse transfer happens only when goods physically move. [[PT Timboel uses stock reservation instead of a shipping warehouse]]
+Finished goods stay in real Warehouses. No virtual Shipping Warehouse. [[PT Timboel uses stock reservation instead of a shipping warehouse]]
 
-New manufactured or purchased stock may need later manual reservation. Automatic reservation, Pick List behavior, and Delivery Note behavior need testing on PT Timboel's ERPNext v15 system. [[PT Timboel fulfillment quantity reconciliation remains unresolved]]
+Sales Order Item `warehouse` is source Warehouse for shipping:
 
-## Supply Requests
+- reservation there = ready;
+- reservation elsewhere = covered, not ready;
+- Material Transfer moves stock, but adds no supply;
+- completed physical movement makes stock ready.
 
-Material Request is common start for missing supply:
+PT Timboel automation moves reservation with stock. It unreserves source location. Then re-reserves target location. [[PT Timboel shipping readiness uses Sales Order warehouse]]
 
-- **Manufacture:** feeds Production Plan, then Work Order.
+Transfer request must target Sales Order Item Warehouse. While request remains open, UI says wait for actual movement.
+
+## Purchase And Manufacture
+
+Material Request is missing-supply master. Types:
+
 - **Purchase:** feeds Purchase Order.
-- **Material Transfer:** feeds Stock Entry when stock must move.
+- **Manufacture:** feeds Production Plan, then Work Order.
+- **Material Transfer:** moves existing reserved stock. Not new supply.
 
-Draft request means tentative plan. Submitted request means approved need. Neither means item is complete or available. Cancelled request does not count. [[PT Timboel Material Request is the supply requirement master]]
+Draft means tentative. Submitted means approved internal need. Neither means supply exists. Cancelled or stopped requests do not count. [[PT Timboel Material Request is the supply requirement master]]
 
-Production ends when a submitted Manufacture Stock Entry consumes materials and places the finished Item in its target Warehouse. Work Order authorizes and tracks that execution. Production Plan is an upstream planning tool: it organizes demand, checks material requirements, and creates Work Orders.
+Procurement UI rules:
 
-Production Plans must source submitted Manufacture Material Requests, not Sales Orders directly. This prevents reserved finished stock from becoming duplicate production demand and keeps Material Request as the single record of missing supply. Each Manufacture Material Request Item should retain its Sales Order Item link. [[PT Timboel manufacturing planning starts from Material Requests]] [[PT Timboel Production Plans source Manufacture Material Requests only]]
+- open demand: show Draft and Submitted remaining quantities, including zero;
+- active Purchase/Manufacture requests: show their remaining quantities;
+- demand fully covered by stock: say Purchase or Manufacture not required;
+- transfer status stays under Stock, not Procurement.
 
-One Production Plan may batch Manufacture Material Requests from several Sales Orders. PT Timboel still identifies work in progress by customer, so different customers must remain in separate Work Orders. Do not combine their production items into one Work Order. [[PT Timboel Work Orders retain customer identity]] [[PT Timboel production starts with a Work Order]]
-
-ERPNext v15 does not natively guarantee that Sales Order Item identity survives the Material Request-sourced Production Plan path into Work Order. Custom fields and server-side mapping must propagate the source identity, split customer demand, and reject cross-customer Work Orders. Client Script may simplify the interface, but server enforcement is mandatory for this architecture.
-
-Manufacture demand also needs an eligible Active and Submitted BOM before Production Plan can create Work Orders. Existing Production Plan rows and draft Work Orders keep their selected BOM when a new Provisional BOM becomes Default, so Shell-to-Provisional switching requires explicit stale-document review. Multi-output processes that use Repack do not fit this Work Order path and need a separate demand link.
+[[PT Timboel fulfillment UI separates stock and procurement status]]
 
 ## Quantity Logic
 
-Current concept:
-
 ```text
-Outstanding demand = ordered - delivered
-Unplanned = outstanding demand - reserved stock - active supply requests
+Outstanding = ordered - delivered
+Reserved = active reserved quantity - reservation-delivered quantity
+Active supply = remaining Purchase + remaining Manufacture
+Planned = Reserved + Active supply
+Unplanned = max(Outstanding - Planned, 0)
+Overplanned = max(Planned - Outstanding, 0)
+
+Ready = active reservation in Sales Order Item Warehouse
+Reserved elsewhere = Reserved - Ready
 ```
 
-This formula is not final. Correct calculation must:
+Material Transfer excluded from `Active supply`. It moves covered stock. It does not cover more demand.
 
-- use Sales Order Item row ID, not item code alone;
-- separate draft and submitted requests;
-- handle partial request fulfillment;
-- exclude cancelled, stopped, or closed demand;
-- avoid counting Material Requests and their downstream documents twice;
-- avoid counting delivered quantity twice;
-- account for stock reserved elsewhere;
-- protect against two users planning same quantity.
+Use Sales Order Item row ID. Item code alone unsafe. Separate Draft and Submitted. Exclude cancelled, stopped, completed, or already-received quantity as appropriate. [[PT Timboel fulfillment quantity reconciliation remains unresolved]]
 
-Exact ERPNext v15 fields and native behavior must be checked on staging. [[PT Timboel fulfillment quantity reconciliation remains unresolved]]
+## Manufacturing Rules
 
-## Build Scope
+Production Plan must source submitted Manufacture Material Requests. Never Sales Orders directly. This avoids duplicate demand. [[PT Timboel manufacturing planning starts from Material Requests]] [[PT Timboel Production Plans source Manufacture Material Requests only]]
 
-Next build uses:
+One Production Plan may batch several Sales Orders. Work Orders must stay customer-specific. PT Timboel identifies work in progress by customer. [[PT Timboel Work Orders retain customer identity]] [[PT Timboel production starts with a Work Order]]
 
-- Sales Order custom HTML field `custom_fulfillment_html`;
-- Sales Order Client Script for display and actions;
-- API Server Script for loading, reconciliation, draft Material Request creation, and native stock reservation;
-- Production Plan Client Script to use submitted Manufacture Material Requests and keep customer demand separate;
-- server validation against overplanning, unsupported Production Plan sources, and cross-customer Work Order combining.
+Sales Order Item identity must survive Material Request, Production Plan, and Work Order mapping. ERPNext v15 may need custom fields and server validation.
 
-Do not auto-submit purchase or manufacturing documents. Keep native permissions. Test on staging first. Old `timboel_fulfillment_v0_1.zip` must not be installed unchanged. [[PT Timboel Sales Order Fulfillment tab is the next ERPNext build]]
+## Implementation
 
-## Outside Current Decision
+Current design uses:
 
-Subcontracting path is still open. Simplified Purchase Order buttons may hide steps, but native Subcontracting Order, stock movement, receipt, and accounting records must remain. [[PT Timboel subcontracting fulfillment flow remains unresolved]]
+- Sales Order HTML field `custom_fulfillment_html`;
+- Sales Order Client Script;
+- native Stock Reservation Entries;
+- native Material Requests;
+- reservation-moving automation;
+- server validation for quantity and workflow safety.
 
-## Open Technical Questions
+Client UI helps planning. Server must prevent overplanning and race conditions. Do not auto-submit Purchase or Manufacture documents. Keep native permissions. Test on staging. [[PT Timboel Sales Order Fulfillment tab is the next ERPNext build]]
 
-- Which custom fields and server mappings should propagate Sales Order Item identity through Material Request, Production Plan, and Work Order?
-- Can native Stock Reservation support required scripted creation flow?
-- How should completed supply reduce active requested quantity without double-counting?
-- When should new finished stock become reserved?
-- How do Stock Reservations interact with Pick Lists and Delivery Notes?
-- What cleanup is needed after Sales Order cancellation or amendment?
-- How should subcontracting enter Material Request-based planning?
+## Unresolved
+
+- Exact partial fulfillment reconciliation against downstream documents.
+- Concurrent users planning same Sales Order Item.
+- New purchased or manufactured stock reservation timing.
+- Pick List and Delivery Note behavior with reservations.
+- Sales Order cancellation and amendment cleanup.
+- Sales Order Item identity through manufacturing chain.
+- Subcontracting flow. [[PT Timboel subcontracting fulfillment flow remains unresolved]]
 
 ## Sources
 
 - [[PT Timboel Sales Order is the customer demand master]]
 - [[PT Timboel Material Request is the supply requirement master]]
 - [[PT Timboel uses stock reservation instead of a shipping warehouse]]
+- [[PT Timboel shipping readiness uses Sales Order warehouse]]
+- [[PT Timboel fulfillment UI separates stock and procurement status]]
 - [[PT Timboel fulfillment supports mixed supply methods]]
 - [[PT Timboel manufacturing planning starts from Material Requests]]
 - [[PT Timboel Production Plans source Manufacture Material Requests only]]

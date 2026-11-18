@@ -5,12 +5,12 @@
 - a google form to join a lobby
 - one for requesting a game (this is where game list is important)
 - make it dead simple to join, create lobby and make request
-- protect host from empty lobby
+- protect host from empty **lobby**
 - post a screen shot weekly, to the group chat. to announce that there is an open lobby
-- make a lobby status, not everyone want to teach games so have that option
+- *matke* a lobby status, not everyone **wahnt** to teach games so have that option
 - automatically close lobby if its old
 - all lobby is tied to a game, no lobby without games.
-
+**h**
 # Rules
 
 ## Lobby status definitions:

@@ -101,7 +101,7 @@ Compact retrieval index compiled from source notes. Honorifics and informal labe
 | Mas Andu | Abhayagiri management | Owner's child who now manages Abhayagiri. [[Thursday, 26-3-2026 19꞉35꞉04 abayagiri]] | |
 | Om Anton | Tebing Breksi / Mahika Ayu | Note says Mahika Ayu belongs to him; the nature of Mahika Ayu is unclear. [[Thursday, 26-3-2026 20꞉08꞉05 tebing breksi]] | |
 | Harsono | Village-head contact | Recorded only as the name of the pak dukuh. [[nama pak dukuh]] | |
-| Prof. Dr. Ponimin, M.Hum. | Hiliriset cooperation | Leads a proposed ongoing hiliriset program with PT Timboel. [[Untitled 4]] | |
+| Prof. Dr. Ponimin, M.Hum. | Hiliriset cooperation | Leads a proposed ongoing hiliriset program with PT Timboel. [[catatan hiliriset pakdhe ponimin]] | |
 
 ## Customers and international contacts
 

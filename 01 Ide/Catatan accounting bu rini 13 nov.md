@@ -1,0 +1,3 @@
+- kita itu perusahaan dagang atas rekomendasi pak gun, karena valuasi barang paling mudah di tracking.
+- ibu bisa mengembalikan hutang dengan cara ibu dianggap mempunyai umkm. pemasukan dari umkm hanya dipajak 0.5% (ada rebate 500jt untuk umkm)
+- misal mau bayar cash ada 'benefit' yg kita bisa pakai dengan cara kita ganti invoice. Jadi harga jual barang 1000.000 di invoice tulis 100000, nah 100000 ini bisa dibuat yang lain (to pocket)

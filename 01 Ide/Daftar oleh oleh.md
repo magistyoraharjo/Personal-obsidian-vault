@@ -1,0 +1,5 @@
+- [ ] totebag bu cicil
+- [ ] hair mask ibuk
+- [ ] snack kecil buat kantor tirto
+- [ ] snack kantor candi
+- [ ] figur miku anak om bob malaysia

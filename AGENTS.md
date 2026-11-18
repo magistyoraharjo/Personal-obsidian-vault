@@ -347,6 +347,8 @@ Prefer a coherent article over a rigid template.
 
 # Wiki Review
 
+Before creating or updating any Wiki page, search relevant human-authored source notes outside `Wiki/`, `AI Inbox/`, and `.opencode/` for additional context. Use targeted filename, content, wikilink, and related-term searches; do not rely only on the existing Wiki page or AI Inbox notes.
+
 When asked to review a specific Wiki topic:
 
 1. inspect the existing Wiki page if it exists;

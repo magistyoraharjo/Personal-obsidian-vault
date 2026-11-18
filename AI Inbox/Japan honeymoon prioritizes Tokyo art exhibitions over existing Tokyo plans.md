@@ -1,0 +1,3 @@
+# Japan honeymoon prioritizes Tokyo art exhibitions over existing Tokyo plans
+
+The Tokyo art exhibitions scheduled for late November 2026 are priorities for the Tokyo stay, but exhibitions should not consume whole days. Short exhibition clusters should be mixed with the previously planned anime and secondhand shopping. Existing plans may be replaced when necessary, while Akihabara, Ikebukuro, and the Koenji small-shop crawl should be retained between exhibition visits where practical. Exhibition dates, hours, closures, and venue details came from a social media post and must be checked against official organizer information before each visit.

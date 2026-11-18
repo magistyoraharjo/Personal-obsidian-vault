@@ -1,0 +1,14 @@
+# ide jessy untuk buttery
+- memperhatikan sudut sudut untuk di pasang lampu cantik
+- memanfaatkan ruang lemari besar2 untuk jadi dekorasi instagramable
+- packagig
+- layout ubah 
+- 
+- warna
+- pengen seragam depan upgrade kekinian, mugkin next bikin satu sudut untuk sablon merchendise 
+- kaca
+- tempat roti baru bertingkat
+- toilet tambah kaca
+- tambah lampu kuning
+- cepretan laler
+- 
